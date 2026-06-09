@@ -657,7 +657,10 @@
       "recurDays": [
         1
       ],
-      "done": false
+      "done": false,
+      "doneExceptions": [
+        "2026-06-09"
+      ]
     },
     {
       "id": "uczkfyl7zpqmpya1c6l",
