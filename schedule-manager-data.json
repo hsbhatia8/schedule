@@ -640,7 +640,10 @@
       "recurDays": [
         1
       ],
-      "done": false
+      "done": false,
+      "doneExceptions": [
+        "2026-06-09"
+      ]
     },
     {
       "id": "iyzp8kqbw8fmpya0uup",
