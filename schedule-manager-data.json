@@ -1031,12 +1031,6 @@
         "date": ""
       },
       {
-        "id": "pssu7n9prjdmpyahz1r",
-        "name": "Lp(a) CAC Timing",
-        "tag": "On Hold",
-        "date": ""
-      },
-      {
         "id": "rbwsrbx4k3rmpyaif7p",
         "name": "Lp(a) First Events",
         "tag": "On Hold",
@@ -1129,6 +1123,12 @@
         "name": "SIMPLIFY",
         "tag": "Submitted",
         "date": "June 2026"
+      },
+      {
+        "id": "pssu7n9prjdmpyahz1r",
+        "name": "Lp(a) CAC Timing",
+        "tag": "On Hold",
+        "date": ""
       }
     ],
     "completed": []
