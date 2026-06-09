@@ -961,6 +961,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "uolni6ysjqmmq64dba9",
+      "title": "Lp(a) CAC timing",
+      "date": "2026-06-09",
+      "hour": 15,
+      "startMin": 0,
+      "duration": 1,
+      "color": "gold",
+      "taskId": "5cj7o2dtru8mq643zu7",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
