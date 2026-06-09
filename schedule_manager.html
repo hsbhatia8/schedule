@@ -24,7 +24,8 @@ body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSy
 #header h1{font-size:16px;font-weight:600;color:var(--accent);margin-right:auto;white-space:nowrap}
 .hbtn{background:var(--surface2);border:1px solid var(--border);color:var(--text2);padding:5px 10px;border-radius:6px;cursor:pointer;font-size:12px;white-space:nowrap;transition:background 0.15s}
 .hbtn:hover{background:var(--surface3);color:var(--text)}
-#sync-status{font-size:11px;color:#22c55e;display:none}
+#sync-status{font-size:11px;color:#22c55e}
+#sync-status.warn{color:#f59e0b}
 
 /* MAIN */
 #main{flex:1;overflow:hidden;display:flex;flex-direction:column}
@@ -248,9 +249,9 @@ select option{background:var(--surface)}
   <h1>Schedule Manager</h1>
   <button class="hbtn" onclick="exportData()">&#x2B06; Export</button>
   <button class="hbtn" onclick="importData()">&#x2B07; Import</button>
-  <button class="hbtn" onclick="linkCloudFile()">&#x2601; Link Cloud File</button>
+  <button class="hbtn" id="sync-btn" onclick="handleSyncBtn()">&#x1F4BE; Set Data File</button>
   <button class="hbtn" onclick="openTheme()">&#x1F3A8; Theme</button>
-  <span id="sync-status">&#x2705; Syncing</span>
+  <span id="sync-status"></span>
   <input type="file" id="import-file" accept=".json" style="display:none" onchange="handleImport(event)">
   <input type="file" id="ics-file" accept=".ics" style="display:none" onchange="handleICS(event)">
 </div>
@@ -524,15 +525,31 @@ function handleImport(e){
   e.target.value='';
 }
 
-async function linkCloudFile(){
-  if(!window.showSaveFilePicker){alert('File System Access API is only supported in Chrome/Edge.');return;}
-  try{
-    cloudFileHandle=await window.showSaveFilePicker({suggestedName:'schedule-manager-data.json',types:[{description:'JSON',accept:{'application/json':['.json']}}]});
-    document.getElementById('sync-status').style.display='inline';
-    if(cloudSyncInterval)clearInterval(cloudSyncInterval);
-    cloudSyncInterval=setInterval(cloudSave,120000);
-    cloudSave();
-  }catch(e){if(e.name!=='AbortError')alert('Could not link file: '+e.message);}
+// ── FILE SYNC (IndexedDB-persisted File System Access API) ──
+const _IDB_NAME='schedmgr_fs',_IDB_STORE='handles',_IDB_KEY='datafile';
+
+function _openIDB(){
+  return new Promise((res,rej)=>{
+    const r=indexedDB.open(_IDB_NAME,1);
+    r.onupgradeneeded=e=>e.target.result.createObjectStore(_IDB_STORE);
+    r.onsuccess=e=>res(e.target.result);
+    r.onerror=rej;
+  });
+}
+async function _saveHandleIDB(h){
+  const db=await _openIDB();
+  return new Promise((res,rej)=>{const tx=db.transaction(_IDB_STORE,'readwrite');tx.objectStore(_IDB_STORE).put(h,_IDB_KEY);tx.oncomplete=res;tx.onerror=rej;});
+}
+async function _loadHandleIDB(){
+  const db=await _openIDB();
+  return new Promise((res,rej)=>{const tx=db.transaction(_IDB_STORE,'readonly');const r=tx.objectStore(_IDB_STORE).get(_IDB_KEY);r.onsuccess=e=>res(e.target.result);r.onerror=rej;});
+}
+
+function _setSyncStatus(msg,warn=false){
+  const el=document.getElementById('sync-status');
+  if(!el)return;
+  el.textContent=msg;
+  el.className=warn?'warn':'';
 }
 
 async function cloudSave(){
@@ -541,7 +558,85 @@ async function cloudSave(){
     const w=await cloudFileHandle.createWritable();
     await w.write(JSON.stringify(state,null,2));
     await w.close();
-  }catch(e){console.warn('Cloud save failed:',e);}
+  }catch(e){console.warn('Auto-save failed:',e);}
+}
+
+async function _loadFromFile(){
+  if(!cloudFileHandle)return;
+  try{
+    const file=await cloudFileHandle.getFile();
+    const text=await file.text();
+    if(!text.trim())return; // empty file — keep current state
+    const parsed=JSON.parse(text);
+    state=Object.assign({todos:{active:[],later:[],deadlines:[]},calEvents:[],projects:{active:[],mentored:[],onhold:[],completed:[]},ideas:{beacon:[],ukb:[],cohort:[],'iproj-active':[],'iproj-completed':[]},mentees:[],theme:{}},parsed);
+    if(!state.ideas['iproj-active'])state.ideas['iproj-active']=[];
+    if(!state.ideas['iproj-completed'])state.ideas['iproj-completed']=[];
+    localStorage.setItem(STORE_KEY,JSON.stringify(state));
+    if(state.theme&&state.theme.vars)applyTheme(state.theme);
+    renderAll();
+  }catch(e){console.warn('Load from file failed:',e);}
+}
+
+async function initFileSync(){
+  if(!window.showSaveFilePicker)return; // not supported
+  try{
+    const h=await _loadHandleIDB();
+    if(!h)return;
+    cloudFileHandle=h;
+    const perm=await h.queryPermission({mode:'readwrite'});
+    if(perm==='granted'){
+      await _loadFromFile();
+      _setSyncStatus('✅ Auto-sync active');
+      document.getElementById('sync-btn').textContent='📂 Change Data File';
+    }else{
+      // Need a user gesture to re-request — show reconnect prompt
+      _setSyncStatus('⚠️ Click to reconnect data file',true);
+      document.getElementById('sync-btn').textContent='🔗 Reconnect Data File';
+      document.getElementById('sync-btn').onclick=reconnectFile;
+    }
+  }catch(e){}
+}
+
+async function reconnectFile(){
+  if(!cloudFileHandle)return;
+  try{
+    const perm=await cloudFileHandle.requestPermission({mode:'readwrite'});
+    if(perm==='granted'){
+      await _loadFromFile();
+      _setSyncStatus('✅ Auto-sync active');
+      document.getElementById('sync-btn').textContent='📂 Change Data File';
+      document.getElementById('sync-btn').onclick=handleSyncBtn;
+    }
+  }catch(e){}
+}
+
+async function handleSyncBtn(){
+  if(!window.showSaveFilePicker){
+    alert('Auto-sync requires Chrome or Edge.\n\nUse Export/Import to transfer data manually.');
+    return;
+  }
+  try{
+    const h=await window.showSaveFilePicker({
+      suggestedName:'schedule-manager-data.json',
+      types:[{description:'JSON Data',accept:{'application/json':['.json']}}]
+    });
+    cloudFileHandle=h;
+    await _saveHandleIDB(h);
+    // If file already has data, load it; otherwise save current state into it
+    const file=await h.getFile();
+    const text=await file.text();
+    if(text.trim()){
+      if(confirm('This file already contains data. Load it and replace current data?')){
+        await _loadFromFile();
+      }else{
+        await cloudSave();
+      }
+    }else{
+      await cloudSave();
+    }
+    _setSyncStatus('✅ Auto-sync active');
+    document.getElementById('sync-btn').textContent='📂 Change Data File';
+  }catch(e){if(e.name!=='AbortError')alert('Could not set data file: '+e.message);}
 }
 
 // ============================================================
@@ -2160,6 +2255,7 @@ function renderAll(){
 loadState();
 if(state.theme&&state.theme.vars)applyTheme(state.theme);
 else applyTheme(THEMES.midnight);
+initFileSync(); // restore file handle and auto-load if previously linked
 
 // Use ResizeObserver to render calendar once the scroll area has real dimensions
 const _calScroll=document.getElementById('cal-scroll');
