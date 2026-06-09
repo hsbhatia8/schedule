@@ -162,6 +162,18 @@
         "recurHour": null
       },
       {
+        "id": "1xnmtyy92tpmq64ixe6",
+        "text": "Unsubscribe trello",
+        "done": false,
+        "date": "",
+        "color": "blue",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "ar141xerkwampx9oqd6",
         "text": "Get labs",
         "done": false,
@@ -214,18 +226,6 @@
         "text": "OxPL-apoB IL-6 analysis?",
         "done": false,
         "date": null
-      },
-      {
-        "id": "1xnmtyy92tpmq64ixe6",
-        "text": "Unsubscribe trello",
-        "done": false,
-        "date": "",
-        "color": "blue",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       }
     ],
     "deadlines": [
