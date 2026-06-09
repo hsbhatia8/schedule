@@ -993,7 +993,7 @@
       "duration": 0.5,
       "color": "gold",
       "taskId": "5cj7o2dtru8mq643zu7",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
