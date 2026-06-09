@@ -662,8 +662,8 @@
     {
       "id": "xje2eaeubbfmpya1x9n",
       "title": "Prev Lab",
-      "date": "2026-06-02",
-      "hour": 16,
+      "date": "2026-06-09",
+      "hour": 15,
       "duration": 1,
       "type": "manual",
       "color": "red",
@@ -671,7 +671,8 @@
       "recurDays": [
         1
       ],
-      "done": false
+      "done": false,
+      "startMin": 30
     },
     {
       "id": "0hx26yapijf4mpya2b3j",
@@ -968,7 +969,7 @@
       "date": "2026-06-09",
       "hour": 15,
       "startMin": 0,
-      "duration": 1,
+      "duration": 0.5,
       "color": "gold",
       "taskId": "5cj7o2dtru8mq643zu7",
       "done": false,
