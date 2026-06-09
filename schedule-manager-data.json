@@ -599,7 +599,10 @@
       "recurDays": [
         0
       ],
-      "done": false
+      "done": false,
+      "doneExceptions": [
+        "2026-06-08"
+      ]
     },
     {
       "id": "ve72zputuampya0gbd",
