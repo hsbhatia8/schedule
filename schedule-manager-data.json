@@ -1033,6 +1033,12 @@
         "name": "apoB thresholds",
         "tag": "On Hold",
         "date": ""
+      },
+      {
+        "id": "cdp74bxypuwmq64i1vt",
+        "name": "BEACON score",
+        "tag": "Active",
+        "date": ""
       }
     ],
     "mentored": [
