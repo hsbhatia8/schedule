@@ -2,6 +2,18 @@
   "todos": {
     "active": [
       {
+        "id": "5cj7o2dtru8mq643zu7",
+        "text": "Lp(a) CAC timing",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "xt8btmyqofcmpxatqs7",
         "text": "Journal Reviews",
         "done": false,
@@ -106,18 +118,6 @@
         "recurring": false,
         "recurDay": null,
         "recurHour": null
-      },
-      {
-        "id": "5cj7o2dtru8mq643zu7",
-        "text": "Lp(a) CAC timing",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       }
     ],
     "later": [
