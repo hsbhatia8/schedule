@@ -1272,7 +1272,14 @@
       }
     ]
   },
-  "mentees": [],
+  "mentees": [
+    {
+      "id": "ogar5timqtmmq79jzef",
+      "name": "Alex Razavi",
+      "stage": "Fellow",
+      "projects": []
+    }
+  ],
   "theme": {
     "name": "Paper",
     "dark": false,
