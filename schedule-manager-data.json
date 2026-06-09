@@ -1251,18 +1251,18 @@
   },
   "mentees": [],
   "theme": {
-    "name": "Paper",
+    "name": "Warm White",
     "dark": false,
     "vars": {
-      "--bg": "#f8f5f0",
+      "--bg": "#fdfcfa",
       "--surface": "#ffffff",
-      "--surface2": "#f2ede6",
-      "--surface3": "#e8e2d8",
-      "--border": "#ccc4b4",
-      "--accent": "#8b5e3c",
-      "--text": "#2a2018",
-      "--text2": "#6a5040",
-      "--text3": "#9a8878"
+      "--surface2": "#f8f6f2",
+      "--surface3": "#f0ede6",
+      "--border": "#ddd8cc",
+      "--accent": "#6366f1",
+      "--text": "#1a1814",
+      "--text2": "#504e48",
+      "--text3": "#908e88"
     }
   }
 }
