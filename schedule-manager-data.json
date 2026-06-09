@@ -12,6 +12,18 @@
         "recurHour": null
       },
       {
+        "id": "gqel7r3k52gmq1lsyr9",
+        "text": "BEACON score",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "xt8btmyqofcmpxatqs7",
         "text": "Journal Reviews",
         "done": false,
@@ -30,18 +42,6 @@
         "recurring": false,
         "recurDay": null,
         "recurHour": null
-      },
-      {
-        "id": "gqel7r3k52gmq1lsyr9",
-        "text": "BEACON score",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       },
       {
         "id": "3hiw38edy6tmpx8eiv3",
