@@ -55,6 +55,18 @@
         "recurDays": []
       },
       {
+        "id": "74sk6dcesxlmq78q7hx",
+        "text": "UKB preeclampsia",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "zgmhxhotztmpx9nsle",
         "text": "Prevention rotation",
         "done": false,
@@ -74,18 +86,6 @@
         "recurDay": null,
         "recurHour": 9,
         "recurDays": []
-      },
-      {
-        "id": "74sk6dcesxlmq78q7hx",
-        "text": "UKB preeclampsia",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       },
       {
         "id": "1ev8aulpomlmpybp2fj",
