@@ -12,18 +12,6 @@
         "color": "orange"
       },
       {
-        "id": "5cj7o2dtru8mq643zu7",
-        "text": "Lp(a) CAC timing",
-        "done": true,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "unnsy55c2dmpx9mys0",
         "text": "ARIC carotid data",
         "done": false,
