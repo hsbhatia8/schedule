@@ -1069,12 +1069,6 @@
     ],
     "mentored": [
       {
-        "id": "uvh5pyuloimmpyajh2a",
-        "name": "Statin allocation",
-        "tag": "On Hold",
-        "date": ""
-      },
-      {
         "id": "7gh1cvsi3g3mpyajnjz",
         "name": "Lp(a) stroke COSMOS",
         "tag": "On Hold",
@@ -1127,6 +1121,12 @@
       {
         "id": "pssu7n9prjdmpyahz1r",
         "name": "Lp(a) CAC Timing",
+        "tag": "On Hold",
+        "date": ""
+      },
+      {
+        "id": "uvh5pyuloimmpyajh2a",
+        "name": "Statin allocation",
         "tag": "On Hold",
         "date": ""
       }
