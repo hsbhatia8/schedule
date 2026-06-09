@@ -1,0 +1,1229 @@
+{
+  "todos": {
+    "active": [
+      {
+        "id": "xt8btmyqofcmpxatqs7",
+        "text": "Journal Reviews",
+        "done": false,
+        "date": null,
+        "recurring": true,
+        "recurDay": 4,
+        "recurHour": 9,
+        "color": "orange"
+      },
+      {
+        "id": "unnsy55c2dmpx9mys0",
+        "text": "ARIC carotid data",
+        "done": false,
+        "date": null,
+        "color": "orange",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      },
+      {
+        "id": "gqel7r3k52gmq1lsyr9",
+        "text": "BEACON score",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
+        "id": "3hiw38edy6tmpx8eiv3",
+        "text": "Review CARDIA files",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": 9,
+        "recurDays": []
+      },
+      {
+        "id": "zgmhxhotztmpx9nsle",
+        "text": "Prevention rotation",
+        "done": false,
+        "date": null,
+        "color": "orange",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      },
+      {
+        "id": "rkyd6b1wwdnmpx8eql3",
+        "text": "K08 docs",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": 9,
+        "recurDays": []
+      },
+      {
+        "id": "2twqdjeo364mpyact67",
+        "text": "MASALA Lp(a)",
+        "done": false,
+        "date": null,
+        "color": "gold",
+        "recurring": false,
+        "recurDays": null,
+        "recurHour": null
+      },
+      {
+        "id": "1ev8aulpomlmpybp2fj",
+        "text": "DEA training",
+        "done": false,
+        "date": null,
+        "color": "orange",
+        "recurring": false,
+        "recurDays": null,
+        "recurHour": null,
+        "recurDay": null
+      },
+      {
+        "id": "u7z3g6mpz6mmpx8eo73",
+        "text": "Post doc",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": 9,
+        "recurDays": []
+      },
+      {
+        "id": "xzkrif7zkzfmpx9chcu",
+        "text": "R01",
+        "done": false,
+        "date": null,
+        "color": "orange",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      }
+    ],
+    "later": [
+      {
+        "id": "aq1fy5q9r4cmpx9nvzd",
+        "text": "Update CV",
+        "done": false,
+        "date": null,
+        "color": "orange",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      },
+      {
+        "id": "iyw29mmrhmsmpx9o76p",
+        "text": "RPPR publications",
+        "done": false,
+        "date": null,
+        "color": "orange",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      },
+      {
+        "id": "kwrrqt016esmpx9nzcz",
+        "text": "UK Biobank",
+        "done": false,
+        "date": null,
+        "color": "orange",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      },
+      {
+        "id": "37ofu7l9dvjmpx9o2wd",
+        "text": "Contact FG life",
+        "done": false,
+        "date": null,
+        "color": "blue",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      },
+      {
+        "id": "ar141xerkwampx9oqd6",
+        "text": "Get labs",
+        "done": false,
+        "date": null,
+        "color": "blue",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      },
+      {
+        "id": "6kpgu762j5rmpx9ov6t",
+        "text": "Organize BIOLINCC",
+        "done": false,
+        "date": null,
+        "color": "orange",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      },
+      {
+        "id": "5avnfafinw8mpx9p2x7",
+        "text": "MASALA CAC/CCTA discordance proposal",
+        "done": false,
+        "date": null,
+        "color": "gold",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      },
+      {
+        "id": "5ayyzo8frlsmpx9p6vc",
+        "text": "Residual risk idea",
+        "done": false,
+        "date": null
+      },
+      {
+        "id": "ajaxgeuunl6mpx9paim",
+        "text": "OxPL-apoB analysis",
+        "done": false,
+        "date": null
+      },
+      {
+        "id": "aih7e8clswempx9pe66",
+        "text": "Pay EPIC?",
+        "done": false,
+        "date": null
+      },
+      {
+        "id": "0u8p7bkgw4mpx9pj4y",
+        "text": "OxPL-apoB IL-6 analysis?",
+        "done": false,
+        "date": null
+      }
+    ],
+    "deadlines": [
+      {
+        "id": "t3vvbno21xfmpxahz31",
+        "text": "JAMAc Review",
+        "done": false,
+        "date": "2026-06-05",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      },
+      {
+        "id": "z00qxkp19wmpxajr4o",
+        "text": "HF symposium slides / forms",
+        "done": false,
+        "date": "2026-06-10",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      },
+      {
+        "id": "cdh2ozo8kmgmpxak4xu",
+        "text": "HF symposium",
+        "done": false,
+        "date": "2026-07-10",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      },
+      {
+        "id": "n9yoziav1qempxaljg9",
+        "text": "JACC Adv",
+        "done": false,
+        "date": "2026-06-11",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      },
+      {
+        "id": "pmokbcr90epmpzswfyv",
+        "text": "Journal Club",
+        "done": false,
+        "date": "2026-06-25",
+        "color": "red",
+        "recurring": false,
+        "recurDays": null,
+        "recurHour": null
+      },
+      {
+        "id": "b6ol0ijk2cfmpxalv5x",
+        "text": "ASPC",
+        "done": false,
+        "date": "2026-06-29",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      },
+      {
+        "id": "x6xvdn6w1rrmpx9bizw",
+        "text": "JCL Review",
+        "done": false,
+        "date": "2026-06-30"
+      },
+      {
+        "id": "nd7fwe8jjqempxam5yp",
+        "text": "Resident Lectures",
+        "done": false,
+        "date": "2026-07-01",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      },
+      {
+        "id": "yw2nclya47mpxamhnz",
+        "text": "UCSD training",
+        "done": false,
+        "date": "2026-07-13",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      },
+      {
+        "id": "93c236pulzmmpxamp96",
+        "text": "RPPR",
+        "done": false,
+        "date": "2026-07-15",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      },
+      {
+        "id": "jlz3k3r2yjsmpxamzp3",
+        "text": "SCI",
+        "done": false,
+        "date": "2026-08-29",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      },
+      {
+        "id": "q5n4f7yv3wmpxan3sh",
+        "text": "FHF October",
+        "done": false,
+        "date": "2026-10-01",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null,
+        "color": "red",
+        "recurDays": null
+      },
+      {
+        "id": "r13tyfawqvrmpy9216h",
+        "text": "JCL Review",
+        "done": false,
+        "date": "2026-06-17",
+        "color": "red",
+        "recurring": false,
+        "recurDays": null,
+        "recurHour": null
+      },
+      {
+        "id": "ayaxungac6mpydo08e",
+        "text": "Filters",
+        "done": false,
+        "date": "2026-11-01",
+        "color": "red",
+        "recurring": false,
+        "recurDays": null,
+        "recurHour": null,
+        "recurDay": null
+      },
+      {
+        "id": "8w1cv92038lmpzoj7gf",
+        "text": "Medicine Grand Rounds",
+        "done": false,
+        "date": "2027-01-06",
+        "color": "red",
+        "recurring": false,
+        "recurDays": null,
+        "recurHour": null
+      }
+    ]
+  },
+  "calEvents": [
+    {
+      "id": "674o8uu1lqnmpx8h7aa",
+      "title": "Review CARDIA files",
+      "date": "2026-06-10",
+      "hour": 11,
+      "type": "task",
+      "taskId": "3hiw38edy6tmpx8eiv3",
+      "done": false,
+      "duration": 0.5,
+      "startMin": 30
+    },
+    {
+      "id": "x26igc6r4yfmpx8m3wn",
+      "title": "⏰ EJPC Review",
+      "date": "2026-06-04",
+      "hour": 16,
+      "duration": 0.5,
+      "type": "task",
+      "taskId": "whinbosopbmpx8m3wn",
+      "done": false,
+      "startMin": 30
+    },
+    {
+      "id": "zg6kn7yplbsmpx8me00",
+      "title": "Post doc",
+      "date": "2026-06-04",
+      "hour": 12,
+      "type": "task",
+      "taskId": "u7z3g6mpz6mmpx8eo73",
+      "done": false,
+      "startMin": 0
+    },
+    {
+      "id": "g59nqv4htrmmpx8rbxd",
+      "title": "K08 docs",
+      "date": "2026-06-10",
+      "hour": 11,
+      "duration": 0.5,
+      "type": "task",
+      "taskId": "rkyd6b1wwdnmpx8eql3",
+      "done": false,
+      "startMin": 0
+    },
+    {
+      "id": "asfvnac9fsimpx99sc8",
+      "title": "JCL Review",
+      "date": "2026-06-04",
+      "hour": 15,
+      "duration": 1,
+      "type": "task",
+      "taskId": "rvmogm81o3jmpx8sq4d",
+      "done": false,
+      "startMin": 0,
+      "color": "red"
+    },
+    {
+      "id": "dieckj5a2ssmpx9bizw",
+      "title": "⏰ JCL Review",
+      "date": "2026-06-30",
+      "hour": 17,
+      "duration": 0.5,
+      "type": "task",
+      "taskId": "x6xvdn6w1rrmpx9bizw",
+      "done": false
+    },
+    {
+      "id": "s4anog02whmpx9d009",
+      "title": "RUBENS overview",
+      "date": "2026-06-04",
+      "hour": 17,
+      "duration": 0.5,
+      "type": "task",
+      "taskId": "jf858zdcesmpx9cuvg",
+      "done": true
+    },
+    {
+      "id": "don2g3j0j7lmpx9hmbr",
+      "title": "RUBENS overview",
+      "date": "2026-06-05",
+      "hour": 8,
+      "duration": 1,
+      "type": "task",
+      "taskId": "jf858zdcesmpx9cuvg",
+      "done": true,
+      "startMin": 0
+    },
+    {
+      "id": "dcbiioq650ampx9k5jm",
+      "title": "⏰ UIT",
+      "date": "2026-06-05",
+      "hour": 17,
+      "duration": 0.5,
+      "type": "task",
+      "taskId": "knafru5lkwampx9k5jm",
+      "done": false
+    },
+    {
+      "id": "d498b2uu7kkmpx9kkgd",
+      "title": "UIT",
+      "date": "2026-06-05",
+      "hour": 9,
+      "duration": 1,
+      "type": "task",
+      "taskId": "knafru5lkwampx9k5jm",
+      "done": false,
+      "startMin": 30
+    },
+    {
+      "id": "6jwxjesmm2pmpx9nk2h",
+      "title": "BEACON score",
+      "date": "2026-06-02",
+      "hour": 16.5,
+      "duration": 0.5,
+      "type": "task",
+      "taskId": "ig3k6ztb9lmpx9n63f",
+      "done": false
+    },
+    {
+      "id": "n5i5r4id2xmpxahz31",
+      "title": "⏰ JAMAc Review",
+      "date": "2026-06-05",
+      "hour": 17,
+      "duration": 0.5,
+      "type": "task",
+      "taskId": "t3vvbno21xfmpxahz31",
+      "done": false
+    },
+    {
+      "id": "xjy9jqzzxympxajr4o",
+      "title": "⏰ HF symposium slides / forms",
+      "date": "2026-06-10",
+      "hour": 10,
+      "duration": 1,
+      "type": "task",
+      "taskId": "z00qxkp19wmpxajr4o",
+      "done": false,
+      "startMin": 0
+    },
+    {
+      "id": "nfnq00d4srfmpxak4xu",
+      "title": "⏰ HF symposium",
+      "date": "2026-07-10",
+      "hour": 17,
+      "duration": 0.5,
+      "type": "task",
+      "taskId": "cdh2ozo8kmgmpxak4xu",
+      "done": false
+    },
+    {
+      "id": "o4f5yu37znmpxaljg9",
+      "title": "⏰ JACC Adv",
+      "date": "2026-06-11",
+      "hour": 17,
+      "duration": 0.5,
+      "type": "task",
+      "taskId": "n9yoziav1qempxaljg9",
+      "done": false
+    },
+    {
+      "id": "15alfxvm4vzmpxalv5x",
+      "title": "⏰ ASPC",
+      "date": "2026-06-29",
+      "hour": 17,
+      "duration": 0.5,
+      "type": "task",
+      "taskId": "b6ol0ijk2cfmpxalv5x",
+      "done": false
+    },
+    {
+      "id": "woh0nhep87mpxam5yp",
+      "title": "⏰ Resident Lectures",
+      "date": "2026-07-01",
+      "hour": 17,
+      "duration": 0.5,
+      "type": "task",
+      "taskId": "nd7fwe8jjqempxam5yp",
+      "done": false
+    },
+    {
+      "id": "5p57qkzv87mpxamhnz",
+      "title": "⏰ UCSD training",
+      "date": "2026-07-13",
+      "hour": 17,
+      "duration": 0.5,
+      "type": "task",
+      "taskId": "yw2nclya47mpxamhnz",
+      "done": false
+    },
+    {
+      "id": "qoehz6t1659mpxamp96",
+      "title": "⏰ RPPR",
+      "date": "2026-07-15",
+      "hour": 17,
+      "duration": 0.5,
+      "type": "task",
+      "taskId": "93c236pulzmmpxamp96",
+      "done": false
+    },
+    {
+      "id": "76o3x50i9htmpxamzp3",
+      "title": "⏰ SCI",
+      "date": "2026-08-29",
+      "hour": 17,
+      "duration": 0.5,
+      "type": "task",
+      "taskId": "jlz3k3r2yjsmpxamzp3",
+      "done": false
+    },
+    {
+      "id": "a2ju8a5k395mpxap9gd",
+      "title": "BEACON score",
+      "date": "2026-06-03",
+      "hour": 9,
+      "duration": 1,
+      "type": "task",
+      "taskId": "ig3k6ztb9lmpx9n63f",
+      "done": false
+    },
+    {
+      "id": "pwo0q1hm4dbmpy8ox0l",
+      "title": "Admin",
+      "date": "2026-06-03",
+      "hour": 8,
+      "duration": 1,
+      "type": "manual",
+      "color": "red",
+      "recurring": true,
+      "recurDays": [
+        2,
+        3,
+        4
+      ],
+      "done": false,
+      "recurExceptions": [
+        "2026-06-05",
+        "2026-06-04"
+      ]
+    },
+    {
+      "id": "ufpp3ckar4mpy9216h",
+      "title": "⏰ JCL Review",
+      "date": "2026-06-17",
+      "hour": 17,
+      "duration": 0.5,
+      "type": "task",
+      "taskId": "r13tyfawqvrmpy9216h",
+      "color": "red",
+      "done": false
+    },
+    {
+      "id": "8xbdqxeeef2mpy9zqht",
+      "title": "CLINIC",
+      "date": "2026-06-01",
+      "hour": 8,
+      "duration": 9,
+      "type": "manual",
+      "color": "purple",
+      "recurring": true,
+      "recurDays": [
+        0
+      ],
+      "done": false
+    },
+    {
+      "id": "ve72zputuampya0gbd",
+      "title": "CLINIC",
+      "date": "2026-06-02",
+      "hour": 8,
+      "duration": 5,
+      "type": "manual",
+      "color": "purple",
+      "recurring": true,
+      "recurDays": [
+        1
+      ],
+      "done": false
+    },
+    {
+      "id": "iyzp8kqbw8fmpya0uup",
+      "title": "Block",
+      "date": "2026-06-02",
+      "hour": 13,
+      "duration": 1,
+      "type": "manual",
+      "color": "red",
+      "recurring": true,
+      "recurDays": [
+        1
+      ],
+      "done": false
+    },
+    {
+      "id": "uczkfyl7zpqmpya1c6l",
+      "title": "BEACON data",
+      "date": "2026-06-10",
+      "hour": 15,
+      "duration": 1,
+      "type": "manual",
+      "color": "red",
+      "recurring": true,
+      "recurDays": [
+        2
+      ],
+      "done": false,
+      "startMin": 30
+    },
+    {
+      "id": "xje2eaeubbfmpya1x9n",
+      "title": "Prev Lab",
+      "date": "2026-06-02",
+      "hour": 16,
+      "duration": 1,
+      "type": "manual",
+      "color": "red",
+      "recurring": true,
+      "recurDays": [
+        1
+      ],
+      "done": false
+    },
+    {
+      "id": "0hx26yapijf4mpya2b3j",
+      "title": "BEACON",
+      "date": "2026-06-18",
+      "hour": 12,
+      "duration": 1.5,
+      "type": "manual",
+      "color": "red",
+      "recurring": true,
+      "recurDays": [
+        3
+      ],
+      "done": false,
+      "startMin": 0,
+      "recurExceptions": [
+        "2026-06-04",
+        "2026-06-11"
+      ]
+    },
+    {
+      "id": "h8ymgiz853mmpya2tug",
+      "title": "Fellowship",
+      "date": "2026-06-18",
+      "hour": 14,
+      "duration": 1.5,
+      "type": "manual",
+      "color": "red",
+      "recurring": true,
+      "recurDays": [
+        3
+      ],
+      "done": false,
+      "recurExceptions": [
+        "2026-06-04",
+        "2026-06-11"
+      ],
+      "startMin": 30
+    },
+    {
+      "id": "c14jzf0q05bmpyao9ct",
+      "title": "Hot Topics in Medicine",
+      "date": "2026-06-03",
+      "hour": 12,
+      "duration": 1,
+      "type": "manual",
+      "color": "red",
+      "recurring": false,
+      "recurDays": null,
+      "done": true
+    },
+    {
+      "id": "sj4boa8wpa9mpyaooab",
+      "title": "Prevention Group",
+      "date": "2026-06-03",
+      "hour": 13,
+      "duration": 1,
+      "type": "manual",
+      "color": "red",
+      "recurring": true,
+      "recurDays": [
+        2
+      ],
+      "done": false
+    },
+    {
+      "id": "kejun8vzw2cmpyap2tc",
+      "title": "RCR Workshop",
+      "date": "2026-06-03",
+      "hour": 15,
+      "duration": 2,
+      "type": "manual",
+      "color": "red",
+      "recurring": false,
+      "recurDays": null,
+      "done": false
+    },
+    {
+      "id": "pqib5o5gimfmpybisxx",
+      "title": "Call Aleesha",
+      "date": "2026-06-04",
+      "hour": 9,
+      "duration": 0.5,
+      "type": "manual",
+      "color": "red",
+      "recurring": false,
+      "recurDays": null,
+      "done": true
+    },
+    {
+      "id": "u0041j7c1djmpybizfm",
+      "title": "Lp(a) diet meeting",
+      "date": "2026-06-04",
+      "hour": 10,
+      "duration": 0.5,
+      "type": "manual",
+      "color": "red",
+      "recurring": false,
+      "recurDays": null,
+      "done": true
+    },
+    {
+      "id": "1250t834l2kmpyfqy4o",
+      "title": "Review CARDIA files",
+      "date": "2026-06-04",
+      "hour": 11,
+      "duration": 0.5,
+      "type": "task",
+      "taskId": "3hiw38edy6tmpx8eiv3",
+      "color": "gold",
+      "recurring": false,
+      "recurDays": null,
+      "done": false
+    },
+    {
+      "id": "avfznmg1y9tmpyjvg18",
+      "title": "Review CARDIA files",
+      "date": "2026-06-03",
+      "hour": 14,
+      "duration": 1,
+      "type": "task",
+      "taskId": "3hiw38edy6tmpx8eiv3",
+      "color": "gold",
+      "recurring": false,
+      "recurDays": null,
+      "done": false
+    },
+    {
+      "id": "zx04p3ojx3mpykcz3g",
+      "title": "Admin",
+      "date": "2026-06-04",
+      "hour": 8,
+      "duration": 1,
+      "done": true,
+      "color": "red",
+      "type": "manual"
+    },
+    {
+      "id": "vcj2dnbo9klmpzoj7gf",
+      "title": "⏰ Medicine Grand Rounds",
+      "date": "2027-01-06",
+      "hour": 17,
+      "duration": 0.5,
+      "type": "task",
+      "taskId": "8w1cv92038lmpzoj7gf",
+      "color": "red",
+      "done": false
+    },
+    {
+      "id": "bkkbtzclkuempzrp4jb",
+      "title": "BEACON score",
+      "date": "2026-06-04",
+      "hour": 10,
+      "duration": 0.5,
+      "type": "task",
+      "taskId": "ig3k6ztb9lmpx9n63f",
+      "color": "gold",
+      "recurring": false,
+      "recurDays": null,
+      "done": true,
+      "startMin": 30
+    },
+    {
+      "id": "kq8gj9xsmp9mpzswfyv",
+      "title": "⏰ Journal Club",
+      "date": "2026-06-25",
+      "hour": 17,
+      "duration": 0.5,
+      "type": "task",
+      "taskId": "pmokbcr90epmpzswfyv",
+      "color": "red",
+      "done": false
+    },
+    {
+      "id": "t91buuuzfhmpztcqel",
+      "title": "Lunch",
+      "date": "2026-06-03",
+      "hour": 12,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": true,
+      "recurDays": [
+        2,
+        4
+      ],
+      "recurExceptions": [],
+      "doneExceptions": [
+        "2026-06-05"
+      ]
+    },
+    {
+      "id": "qrku3onzl1jmq1lx0xf",
+      "title": "Prevention rotation",
+      "date": "2026-06-10",
+      "hour": 15,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "orange",
+      "taskId": "zgmhxhotztmpx9nsle",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "uoxfs9p8jnsmq1lxfhm",
+      "title": "BEACON score",
+      "date": "2026-06-10",
+      "hour": 9,
+      "startMin": 0,
+      "duration": 1,
+      "color": "gold",
+      "taskId": "gqel7r3k52gmq1lsyr9",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "azi1yrnq95mq1lxsap",
+      "title": "ARIC carotid data",
+      "date": "2026-06-09",
+      "hour": 15,
+      "startMin": 0,
+      "duration": 1,
+      "color": "orange",
+      "taskId": "unnsy55c2dmpx9mys0",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "j5z03njmebsmq1lyc21",
+      "title": "MASALA Lp(a)",
+      "date": "2026-06-09",
+      "hour": 14,
+      "startMin": 0,
+      "duration": 1,
+      "color": "gold",
+      "taskId": "2twqdjeo364mpyact67",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "zbagrn9ugwmq1lym72",
+      "title": "DEA training",
+      "date": "2026-06-10",
+      "hour": 14,
+      "startMin": 0,
+      "duration": 1,
+      "color": "orange",
+      "taskId": "1ev8aulpomlmpybp2fj",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "0j7lab1ddaimmq2mmnoi",
+      "title": "JCL Review",
+      "date": "2026-06-11",
+      "hour": 9,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "taskId": "x6xvdn6w1rrmpx9bizw",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "drdglaupkycmq4i8snj",
+      "title": "Journal Reviews",
+      "date": "2026-06-10",
+      "hour": 16,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "orange",
+      "taskId": "xt8btmyqofcmpxatqs7",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    }
+  ],
+  "projects": {
+    "active": [
+      {
+        "id": "iilldnvmx8pmpyabnne",
+        "name": "JCL Lp(a) Review",
+        "tag": "Active",
+        "date": ""
+      },
+      {
+        "id": "ms2cz7jt9nmpyabuo9",
+        "name": "MASALA Lp(a)",
+        "tag": "On Hold",
+        "date": ""
+      },
+      {
+        "id": "mect6lvlc0pmpyajrjd",
+        "name": "Lp(a) carotid",
+        "tag": "Active",
+        "date": ""
+      },
+      {
+        "id": "pssu7n9prjdmpyahz1r",
+        "name": "Lp(a) CAC Timing",
+        "tag": "On Hold",
+        "date": ""
+      },
+      {
+        "id": "rbwsrbx4k3rmpyaif7p",
+        "name": "Lp(a) First Events",
+        "tag": "On Hold",
+        "date": ""
+      },
+      {
+        "id": "kfzlxdloatcmpyai8od",
+        "name": "High HDL-C CAC",
+        "tag": "On Hold",
+        "date": ""
+      },
+      {
+        "id": "8r21v7xmdmpmpyaiyhk",
+        "name": "Lp(a) OxPL meta",
+        "tag": "On Hold",
+        "date": ""
+      },
+      {
+        "id": "e42vas2zxvpmpyaj2dv",
+        "name": "OxPL IL6",
+        "tag": "On Hold",
+        "date": ""
+      },
+      {
+        "id": "ms3eco254npmpyaj7w2",
+        "name": "apoB thresholds",
+        "tag": "On Hold",
+        "date": ""
+      }
+    ],
+    "mentored": [
+      {
+        "id": "uvh5pyuloimmpyajh2a",
+        "name": "Statin allocation",
+        "tag": "On Hold",
+        "date": ""
+      },
+      {
+        "id": "7gh1cvsi3g3mpyajnjz",
+        "name": "Lp(a) stroke COSMOS",
+        "tag": "On Hold",
+        "date": ""
+      },
+      {
+        "id": "28mes1j2wu4mpyajw9o",
+        "name": "Lp(a) bleeding risk",
+        "tag": "On Hold",
+        "date": ""
+      },
+      {
+        "id": "2h3i064fcz5mpyaqgo1",
+        "name": "Insulin resistance HF",
+        "tag": "On Hold",
+        "date": ""
+      },
+      {
+        "id": "yngu1v8bhf9mpzrizzi",
+        "name": "LS7 Lp(a) AVC",
+        "tag": "On Hold",
+        "date": ""
+      },
+      {
+        "id": "ubiak09iv5mpyaqm0w",
+        "name": "MASALA MESA PREVENT",
+        "tag": "On Hold",
+        "date": ""
+      },
+      {
+        "id": "lwplr4p8f3cmpyaqqag",
+        "name": "South Asian registry",
+        "tag": "On Hold",
+        "date": ""
+      }
+    ],
+    "onhold": [
+      {
+        "id": "310lgmj8r0qmpyartm1",
+        "name": "New CAC score",
+        "tag": "Submitted",
+        "date": "May 2026"
+      },
+      {
+        "id": "ogyk9l4czurmq0hb92l",
+        "name": "SIMPLIFY",
+        "tag": "Submitted",
+        "date": "June 2026"
+      }
+    ],
+    "completed": []
+  },
+  "ideas": {
+    "beacon": [
+      {
+        "id": "cx6hhk373uvmq0gufom",
+        "text": "Residual risk"
+      },
+      {
+        "id": "w5fyftiy97omq0gwv5g",
+        "text": "Molar vs mass assay for prediction"
+      },
+      {
+        "id": "2gvj0y4yhrsmq0gx1f5",
+        "text": "Lp(a) variability and risk"
+      },
+      {
+        "id": "0qvi9z9oddzsmq0gxcby",
+        "text": "Lp(a) and VTE / arterial thrombosis / CVT"
+      },
+      {
+        "id": "dv9sd34ec6mmq0gxg8u",
+        "text": "Lp(a) and SCAD"
+      },
+      {
+        "id": "pd0q4qx0nomq0gxkpl",
+        "text": "Lp(a) and stroke in AF"
+      },
+      {
+        "id": "5ad7ghfvy4xmq0gxqq0",
+        "text": "Lp(a) and C2V"
+      },
+      {
+        "id": "jbz6qn36e8bmq0gxv05",
+        "text": "Lp(a) and DOACs"
+      }
+    ],
+    "ukb": [
+      {
+        "id": "5a5vcehx2imq0h4x3n",
+        "text": "Lp(a) and aspirin"
+      },
+      {
+        "id": "j49y8ysnik8mq0h52vj",
+        "text": "Lp(a) stroke AF"
+      },
+      {
+        "id": "b2w5272l9iwmq0h5a34",
+        "text": "Lp(a) AF C2V"
+      },
+      {
+        "id": "ngdvc7yuiamq0h8ow2",
+        "text": "Cumulative Lp(a) exposure"
+      }
+    ],
+    "cohort": [
+      {
+        "id": "dln9izfptd7mq0h94j7",
+        "text": "New CAC"
+      },
+      {
+        "id": "534u4n3suaomq0h9db7",
+        "text": "Statin allocation"
+      },
+      {
+        "id": "r6ivzi3h8shmq0h9gyt",
+        "text": "SA registry"
+      },
+      {
+        "id": "xx0vnc6smq0h9lbw",
+        "text": "Lp(a) CAC timing"
+      },
+      {
+        "id": "fgdlms1wtd8mq0h9rx1",
+        "text": "MASALA Lp(a) levels"
+      },
+      {
+        "id": "ncvoftvcpddmq0h9xpl",
+        "text": "High Lp(a) bleeding"
+      },
+      {
+        "id": "ha7ger8iz0vmq0ha50r",
+        "text": "Carotid US Lp(a)"
+      },
+      {
+        "id": "bpcu23i9ekvmq0hab69",
+        "text": "When to start LLT high Lp(a)"
+      },
+      {
+        "id": "e300fyh0ctqmq0hafct",
+        "text": "BIOLINCC"
+      },
+      {
+        "id": "alp2yroh9jhmq0haiz0",
+        "text": "HDL-C CAC"
+      }
+    ],
+    "iproj-active": [
+      {
+        "id": "46md2jquddgmq0gu4jc",
+        "text": "Lp(a) and stroke"
+      },
+      {
+        "id": "r7kjp5427x9mq0gvb1h",
+        "text": "BEACON score"
+      },
+      {
+        "id": "yoj5zhfuhbmq0gwmyf",
+        "text": "Lp(a) HR + PREVENT"
+      },
+      {
+        "id": "5njir86lewmq0h8u1u",
+        "text": "Lp(a) first events"
+      }
+    ],
+    "iproj-completed": [
+      {
+        "id": "fo5noizs5blmq0gxzw0",
+        "text": "Updates in testing"
+      },
+      {
+        "id": "zfgiq6kuoemq0gy5zm",
+        "text": "Demographics of Lp(a) testing"
+      },
+      {
+        "id": "d2f2wzg5jojmq0gyc2e",
+        "text": "Predictors of PCSK9i response"
+      },
+      {
+        "id": "krc7nqsk8obmq0gyizy",
+        "text": "Lp(a) and menopause"
+      },
+      {
+        "id": "t00gapl9jaomq0h8zvg",
+        "text": "Lp(a) CAC 0"
+      }
+    ]
+  },
+  "mentees": [],
+  "theme": {
+    "name": "Paper",
+    "dark": false,
+    "vars": {
+      "--bg": "#f8f5f0",
+      "--surface": "#ffffff",
+      "--surface2": "#f2ede6",
+      "--surface3": "#e8e2d8",
+      "--border": "#ccc4b4",
+      "--accent": "#8b5e3c",
+      "--text": "#2a2018",
+      "--text2": "#6a5040",
+      "--text3": "#9a8878"
+    }
+  }
+}
