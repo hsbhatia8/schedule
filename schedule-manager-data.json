@@ -1013,15 +1013,15 @@
   "projects": {
     "active": [
       {
-        "id": "iilldnvmx8pmpyabnne",
-        "name": "JCL Lp(a) Review",
+        "id": "ms2cz7jt9nmpyabuo9",
+        "name": "MASALA Lp(a)",
         "tag": "Active",
         "date": ""
       },
       {
-        "id": "ms2cz7jt9nmpyabuo9",
-        "name": "MASALA Lp(a)",
-        "tag": "On Hold",
+        "id": "iilldnvmx8pmpyabnne",
+        "name": "JCL Lp(a) Review",
+        "tag": "Active",
         "date": ""
       },
       {
