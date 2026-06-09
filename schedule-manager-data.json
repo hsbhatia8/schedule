@@ -2,6 +2,16 @@
   "todos": {
     "active": [
       {
+        "id": "2twqdjeo364mpyact67",
+        "text": "MASALA Lp(a)",
+        "done": false,
+        "date": null,
+        "color": "gold",
+        "recurring": false,
+        "recurDays": null,
+        "recurHour": null
+      },
+      {
         "id": "xt8btmyqofcmpxatqs7",
         "text": "Journal Reviews",
         "done": false,
@@ -66,14 +76,16 @@
         "recurDays": []
       },
       {
-        "id": "2twqdjeo364mpyact67",
-        "text": "MASALA Lp(a)",
+        "id": "74sk6dcesxlmq78q7hx",
+        "text": "UKB preeclampsia",
         "done": false,
-        "date": null,
+        "date": "",
         "color": "gold",
         "recurring": false,
-        "recurDays": null,
-        "recurHour": null
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       },
       {
         "id": "1ev8aulpomlmpybp2fj",
@@ -106,18 +118,6 @@
         "recurring": false,
         "recurDay": null,
         "recurHour": null
-      },
-      {
-        "id": "74sk6dcesxlmq78q7hx",
-        "text": "UKB preeclampsia",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       }
     ],
     "later": [
