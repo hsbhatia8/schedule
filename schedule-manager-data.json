@@ -152,16 +152,6 @@
         "recurHour": null
       },
       {
-        "id": "37ofu7l9dvjmpx9o2wd",
-        "text": "Contact FG life",
-        "done": false,
-        "date": null,
-        "color": "blue",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": null
-      },
-      {
         "id": "1xnmtyy92tpmq64ixe6",
         "text": "Unsubscribe trello",
         "done": false,
@@ -172,6 +162,16 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "37ofu7l9dvjmpx9o2wd",
+        "text": "Contact FG life",
+        "done": false,
+        "date": null,
+        "color": "blue",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
       },
       {
         "id": "ar141xerkwampx9oqd6",
