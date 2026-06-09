@@ -206,15 +206,6 @@
     ],
     "deadlines": [
       {
-        "id": "t3vvbno21xfmpxahz31",
-        "text": "JAMAc Review",
-        "done": true,
-        "date": "2026-06-05",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": null
-      },
-      {
         "id": "z00qxkp19wmpxajr4o",
         "text": "HF symposium slides / forms",
         "done": false,
