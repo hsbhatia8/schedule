@@ -79,7 +79,7 @@
       {
         "id": "1ev8aulpomlmpybp2fj",
         "text": "DEA training",
-        "done": false,
+        "done": true,
         "date": null,
         "color": "orange",
         "recurring": false,
