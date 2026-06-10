@@ -242,15 +242,6 @@
     ],
     "deadlines": [
       {
-        "id": "z00qxkp19wmpxajr4o",
-        "text": "HF symposium slides / forms",
-        "done": true,
-        "date": "2026-06-10",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": null
-      },
-      {
         "id": "n9yoziav1qempxaljg9",
         "text": "JACC Adv",
         "done": false,
