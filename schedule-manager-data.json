@@ -341,6 +341,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "5vmaqqncu3smq8ofxqc",
+        "text": "Circ PHO Review",
+        "done": false,
+        "date": "2026-06-24",
+        "color": "red",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ]
   },
@@ -1031,6 +1043,19 @@
       "color": "orange",
       "taskId": "1ev8aulpomlmpybp2fj",
       "done": true,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "sdipn17x5cmmq8ofxqc",
+      "title": "Circ PHO Review",
+      "date": "2026-06-24",
+      "hour": 17,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
