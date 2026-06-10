@@ -1059,6 +1059,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "om1jw6w8zxmq8okx5p",
+      "title": "K08 meeting",
+      "date": "2026-06-16",
+      "hour": 14,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
