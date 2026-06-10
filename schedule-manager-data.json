@@ -251,15 +251,6 @@
         "recurHour": null
       },
       {
-        "id": "cdh2ozo8kmgmpxak4xu",
-        "text": "HF symposium",
-        "done": false,
-        "date": "2026-07-10",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": null
-      },
-      {
         "id": "n9yoziav1qempxaljg9",
         "text": "JACC Adv",
         "done": false,
@@ -382,6 +373,15 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "cdh2ozo8kmgmpxak4xu",
+        "text": "HF symposium",
+        "done": false,
+        "date": "2026-07-10",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
       }
     ]
   },
