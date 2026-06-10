@@ -44,17 +44,6 @@
         "recurHour": null
       },
       {
-        "id": "3hiw38edy6tmpx8eiv3",
-        "text": "Review CARDIA files",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": 9,
-        "recurDays": []
-      },
-      {
         "id": "74sk6dcesxlmq78q7hx",
         "text": "UKB preeclampsia",
         "done": false,
@@ -97,6 +86,17 @@
         "recurDays": null,
         "recurHour": null,
         "recurDay": null
+      },
+      {
+        "id": "3hiw38edy6tmpx8eiv3",
+        "text": "Review CARDIA files",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": 9,
+        "recurDays": []
       },
       {
         "id": "u7z3g6mpz6mmpx8eo73",
