@@ -310,6 +310,18 @@
         "recurHour": null
       },
       {
+        "id": "5vmaqqncu3smq8ofxqc",
+        "text": "Circ PHO Review",
+        "done": false,
+        "date": "2026-06-24",
+        "color": "red",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "ayaxungac6mpydo08e",
         "text": "Filters",
         "done": false,
@@ -335,18 +347,6 @@
         "text": "AHA talk",
         "done": false,
         "date": "2026-11-01",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "5vmaqqncu3smq8ofxqc",
-        "text": "Circ PHO Review",
-        "done": false,
-        "date": "2026-06-24",
         "color": "red",
         "recurring": false,
         "recurDays": [],
