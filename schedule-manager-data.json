@@ -567,8 +567,8 @@
     {
       "id": "pwo0q1hm4dbmpy8ox0l",
       "title": "Admin",
-      "date": "2026-06-03",
-      "hour": 8,
+      "date": "2026-06-17",
+      "hour": 9,
       "duration": 1,
       "type": "manual",
       "color": "red",
@@ -581,12 +581,14 @@
       "done": false,
       "recurExceptions": [
         "2026-06-05",
-        "2026-06-04"
+        "2026-06-04",
+        "2026-06-03"
       ],
       "doneExceptions": [
         "2026-06-10",
         "2026-06-17"
-      ]
+      ],
+      "startMin": 0
     },
     {
       "id": "ufpp3ckar4mpy9216h",
