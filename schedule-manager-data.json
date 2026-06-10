@@ -1023,6 +1023,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "o8vehy70tdpmq87srxb",
+      "title": "CardioCore recording",
+      "date": "2026-06-11",
+      "hour": 11,
+      "startMin": 0,
+      "duration": 1,
+      "color": "orange",
+      "taskId": "hwjklplkbafmq87sp2j",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
