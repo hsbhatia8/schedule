@@ -421,13 +421,13 @@
     {
       "id": "g59nqv4htrmmpx8rbxd",
       "title": "K08 docs",
-      "date": "2026-06-11",
-      "hour": 13,
+      "date": "2026-06-10",
+      "hour": 14,
       "duration": 0.5,
       "type": "task",
       "taskId": "rkyd6b1wwdnmpx8eql3",
       "done": false,
-      "startMin": 0
+      "startMin": 30
     },
     {
       "id": "asfvnac9fsimpx99sc8",
@@ -945,7 +945,7 @@
       "id": "azi1yrnq95mq1lxsap",
       "title": "ARIC carotid data",
       "date": "2026-06-10",
-      "hour": 15,
+      "hour": 14,
       "startMin": 0,
       "duration": 0.5,
       "color": "orange",
@@ -973,8 +973,8 @@
       "id": "zbagrn9ugwmq1lym72",
       "title": "DEA training",
       "date": "2026-06-10",
-      "hour": 14,
-      "startMin": 0,
+      "hour": 16,
+      "startMin": 30,
       "duration": 1,
       "color": "orange",
       "taskId": "1ev8aulpomlmpybp2fj",
