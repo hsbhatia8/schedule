@@ -1065,6 +1065,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "vqo6phnd2hmq88earq",
+      "title": "DEA training",
+      "date": "2026-06-10",
+      "hour": 15,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "orange",
+      "taskId": "1ev8aulpomlmpybp2fj",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
