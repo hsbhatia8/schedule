@@ -650,7 +650,10 @@
         2
       ],
       "done": false,
-      "startMin": 30
+      "startMin": 30,
+      "doneExceptions": [
+        "2026-06-10"
+      ]
     },
     {
       "id": "xje2eaeubbfmpya1x9n",
