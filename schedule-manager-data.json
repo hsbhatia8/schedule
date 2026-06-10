@@ -36,7 +36,7 @@
       {
         "id": "unnsy55c2dmpx9mys0",
         "text": "ARIC carotid data",
-        "done": false,
+        "done": true,
         "date": null,
         "color": "orange",
         "recurring": false,
