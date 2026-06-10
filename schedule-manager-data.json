@@ -370,6 +370,18 @@
         "recurring": false,
         "recurDays": null,
         "recurHour": null
+      },
+      {
+        "id": "ga9mi79qoaumq87x8l4",
+        "text": "AHA talk",
+        "done": false,
+        "date": "2026-11-01",
+        "color": "red",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ]
   },
@@ -610,6 +622,9 @@
       "recurExceptions": [
         "2026-06-05",
         "2026-06-04"
+      ],
+      "doneExceptions": [
+        "2026-06-10"
       ]
     },
     {
@@ -915,8 +930,8 @@
     {
       "id": "uoxfs9p8jnsmq1lxfhm",
       "title": "BEACON score",
-      "date": "2026-06-10",
-      "hour": 9,
+      "date": "2026-06-11",
+      "hour": 12,
       "startMin": 0,
       "duration": 1,
       "color": "gold",
@@ -1033,6 +1048,19 @@
       "duration": 1,
       "color": "orange",
       "taskId": "hwjklplkbafmq87sp2j",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "wkltobzrjmq87x8l4",
+      "title": "AHA talk",
+      "date": "2026-11-01",
+      "hour": 17,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
       "done": false,
       "recurring": false,
       "recurDays": [],
