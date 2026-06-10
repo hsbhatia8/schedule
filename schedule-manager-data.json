@@ -294,6 +294,15 @@
         "recurHour": null
       },
       {
+        "id": "cdh2ozo8kmgmpxak4xu",
+        "text": "HF symposium",
+        "done": false,
+        "date": "2026-07-10",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      },
+      {
         "id": "yw2nclya47mpxamhnz",
         "text": "UCSD training",
         "done": false,
@@ -373,15 +382,6 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
-      },
-      {
-        "id": "cdh2ozo8kmgmpxak4xu",
-        "text": "HF symposium",
-        "done": false,
-        "date": "2026-07-10",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": null
       }
     ]
   },
