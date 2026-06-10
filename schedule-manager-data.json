@@ -118,6 +118,18 @@
         "recurring": false,
         "recurDay": null,
         "recurHour": null
+      },
+      {
+        "id": "hwjklplkbafmq87sp2j",
+        "text": "CardioCore recording",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
