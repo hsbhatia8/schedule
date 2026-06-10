@@ -775,7 +775,10 @@
       "recurDays": [
         2
       ],
-      "done": false
+      "done": false,
+      "doneExceptions": [
+        "2026-06-10"
+      ]
     },
     {
       "id": "kejun8vzw2cmpyap2tc",
@@ -1020,7 +1023,7 @@
     {
       "id": "l6rpso451ykmq76cvri",
       "title": "MASALA Lp(a)",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "hour": 14,
       "startMin": 0,
       "duration": 0.5,
