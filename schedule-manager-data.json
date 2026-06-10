@@ -34,16 +34,6 @@
         "color": "orange"
       },
       {
-        "id": "unnsy55c2dmpx9mys0",
-        "text": "ARIC carotid data",
-        "done": true,
-        "date": null,
-        "color": "orange",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": null
-      },
-      {
         "id": "74sk6dcesxlmq78q7hx",
         "text": "UKB preeclampsia",
         "done": false,
