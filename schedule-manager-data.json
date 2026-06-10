@@ -77,17 +77,6 @@
         "recurDays": []
       },
       {
-        "id": "1ev8aulpomlmpybp2fj",
-        "text": "DEA training",
-        "done": true,
-        "date": null,
-        "color": "orange",
-        "recurring": false,
-        "recurDays": null,
-        "recurHour": null,
-        "recurDay": null
-      },
-      {
         "id": "3hiw38edy6tmpx8eiv3",
         "text": "Review CARDIA files",
         "done": false,
