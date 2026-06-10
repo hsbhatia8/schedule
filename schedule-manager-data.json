@@ -395,7 +395,7 @@
       "taskId": "3hiw38edy6tmpx8eiv3",
       "done": false,
       "duration": 0.5,
-      "startMin": 0
+      "startMin": 30
     },
     {
       "id": "x26igc6r4yfmpx8m3wn",
@@ -1029,8 +1029,8 @@
       "id": "l6rpso451ykmq76cvri",
       "title": "MASALA Lp(a)",
       "date": "2026-06-10",
-      "hour": 11,
-      "startMin": 30,
+      "hour": 14,
+      "startMin": 0,
       "duration": 0.5,
       "color": "gold",
       "taskId": "2twqdjeo364mpyact67",
