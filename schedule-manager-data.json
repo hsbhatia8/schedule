@@ -655,8 +655,8 @@
     {
       "id": "uczkfyl7zpqmpya1c6l",
       "title": "BEACON data",
-      "date": "2026-06-10",
-      "hour": 15,
+      "date": "2026-06-17",
+      "hour": 11,
       "duration": 1,
       "type": "manual",
       "color": "red",
@@ -665,7 +665,7 @@
         2
       ],
       "done": false,
-      "startMin": 30,
+      "startMin": 0,
       "doneExceptions": [
         "2026-06-10"
       ]
