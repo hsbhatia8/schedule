@@ -364,7 +364,7 @@
       "hour": 14,
       "type": "task",
       "taskId": "3hiw38edy6tmpx8eiv3",
-      "done": false,
+      "done": true,
       "duration": 0.5,
       "startMin": 0
     },
