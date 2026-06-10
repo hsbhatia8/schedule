@@ -381,12 +381,12 @@
       "id": "674o8uu1lqnmpx8h7aa",
       "title": "Review CARDIA files",
       "date": "2026-06-10",
-      "hour": 11,
+      "hour": 14,
       "type": "task",
       "taskId": "3hiw38edy6tmpx8eiv3",
       "done": false,
       "duration": 0.5,
-      "startMin": 30
+      "startMin": 0
     },
     {
       "id": "x26igc6r4yfmpx8m3wn",
@@ -512,7 +512,7 @@
       "duration": 1,
       "type": "task",
       "taskId": "z00qxkp19wmpxajr4o",
-      "done": false,
+      "done": true,
       "startMin": 0
     },
     {
