@@ -670,8 +670,8 @@
     {
       "id": "xje2eaeubbfmpya1x9n",
       "title": "Prev Lab",
-      "date": "2026-06-09",
-      "hour": 15,
+      "date": "2026-06-16",
+      "hour": 16,
       "duration": 1,
       "type": "manual",
       "color": "red",
@@ -680,7 +680,7 @@
         1
       ],
       "done": false,
-      "startMin": 30,
+      "startMin": 0,
       "doneExceptions": [
         "2026-06-09"
       ]
