@@ -2,16 +2,6 @@
   "todos": {
     "active": [
       {
-        "id": "2twqdjeo364mpyact67",
-        "text": "MASALA Lp(a)",
-        "done": false,
-        "date": null,
-        "color": "gold",
-        "recurring": false,
-        "recurDays": null,
-        "recurHour": null
-      },
-      {
         "id": "gqel7r3k52gmq1lsyr9",
         "text": "BEACON score",
         "done": false,
