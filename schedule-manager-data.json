@@ -2,6 +2,19 @@
   "todos": {
     "active": [
       {
+        "id": "xt8btmyqofcmpxatqs7",
+        "text": "Journal Reviews",
+        "done": false,
+        "date": null,
+        "recurring": true,
+        "recurDay": 4,
+        "recurHour": 9,
+        "color": "orange",
+        "calDoneExceptions": [
+          "2026-06-11"
+        ]
+      },
+      {
         "id": "gqel7r3k52gmq1lsyr9",
         "text": "BEACON score",
         "done": false,
@@ -78,19 +91,6 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
-      },
-      {
-        "id": "xt8btmyqofcmpxatqs7",
-        "text": "Journal Reviews",
-        "done": false,
-        "date": null,
-        "recurring": true,
-        "recurDay": 4,
-        "recurHour": 9,
-        "color": "orange",
-        "calDoneExceptions": [
-          "2026-06-11"
-        ]
       }
     ],
     "later": [
