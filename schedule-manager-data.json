@@ -14,19 +14,6 @@
         "nextRecur": null
       },
       {
-        "id": "xt8btmyqofcmpxatqs7",
-        "text": "Journal Reviews",
-        "done": false,
-        "date": null,
-        "recurring": true,
-        "recurDay": 4,
-        "recurHour": 9,
-        "color": "orange",
-        "calDoneExceptions": [
-          "2026-06-11"
-        ]
-      },
-      {
         "id": "rkyd6b1wwdnmpx8eql3",
         "text": "K08 docs",
         "done": false,
@@ -91,6 +78,19 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "xt8btmyqofcmpxatqs7",
+        "text": "Journal Reviews",
+        "done": false,
+        "date": null,
+        "recurring": true,
+        "recurDay": 4,
+        "recurHour": 9,
+        "color": "orange",
+        "calDoneExceptions": [
+          "2026-06-11"
+        ]
       }
     ],
     "later": [
