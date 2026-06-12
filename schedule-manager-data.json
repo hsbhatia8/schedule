@@ -1139,12 +1139,6 @@
   "projects": {
     "active": [
       {
-        "id": "ms2cz7jt9nmpyabuo9",
-        "name": "MASALA Lp(a)",
-        "tag": "On Hold",
-        "date": ""
-      },
-      {
         "id": "iilldnvmx8pmpyabnne",
         "name": "JCL Lp(a) Review",
         "tag": "Active",
@@ -1253,6 +1247,12 @@
       {
         "id": "uvh5pyuloimmpyajh2a",
         "name": "Statin allocation",
+        "tag": "On Hold",
+        "date": ""
+      },
+      {
+        "id": "ms2cz7jt9nmpyabuo9",
+        "name": "MASALA Lp(a)",
         "tag": "On Hold",
         "date": ""
       }
