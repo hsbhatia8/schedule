@@ -27,6 +27,17 @@
         ]
       },
       {
+        "id": "rkyd6b1wwdnmpx8eql3",
+        "text": "K08 docs",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": 9,
+        "recurDays": []
+      },
+      {
         "id": "zgmhxhotztmpx9nsle",
         "text": "Prevention rotation",
         "done": false,
@@ -80,17 +91,6 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
-      },
-      {
-        "id": "rkyd6b1wwdnmpx8eql3",
-        "text": "K08 docs",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": 9,
-        "recurDays": []
       }
     ],
     "later": [
