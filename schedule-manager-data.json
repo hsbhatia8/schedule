@@ -15,6 +15,12 @@
         ]
       },
       {
+        "id": "x6xvdn6w1rrmpx9bizw",
+        "text": "JCL Review",
+        "done": false,
+        "date": "2026-06-30"
+      },
+      {
         "id": "gqel7r3k52gmq1lsyr9",
         "text": "BEACON score",
         "done": false,
@@ -25,12 +31,6 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
-      },
-      {
-        "id": "x6xvdn6w1rrmpx9bizw",
-        "text": "JCL Review",
-        "done": false,
-        "date": "2026-06-30"
       },
       {
         "id": "rkyd6b1wwdnmpx8eql3",
