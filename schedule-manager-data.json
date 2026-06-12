@@ -1245,16 +1245,16 @@
         "date": "Jun 10 2026"
       },
       {
-        "id": "uvh5pyuloimmpyajh2a",
-        "name": "Statin allocation",
-        "tag": "On Hold",
-        "date": ""
-      },
-      {
         "id": "ms2cz7jt9nmpyabuo9",
         "name": "MASALA Lp(a)",
         "tag": "Submitted",
         "date": "June 11 2026"
+      },
+      {
+        "id": "uvh5pyuloimmpyajh2a",
+        "name": "Statin allocation",
+        "tag": "On Hold",
+        "date": ""
       }
     ],
     "completed": []
