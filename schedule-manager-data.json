@@ -49,17 +49,6 @@
         "nextRecur": null
       },
       {
-        "id": "rkyd6b1wwdnmpx8eql3",
-        "text": "K08 docs",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": 9,
-        "recurDays": []
-      },
-      {
         "id": "u7z3g6mpz6mmpx8eo73",
         "text": "Post doc",
         "done": false,
@@ -91,6 +80,17 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "rkyd6b1wwdnmpx8eql3",
+        "text": "K08 docs",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": 9,
+        "recurDays": []
       }
     ],
     "later": [
