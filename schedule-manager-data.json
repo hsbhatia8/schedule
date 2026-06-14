@@ -54,6 +54,18 @@
         "recurHour": null
       },
       {
+        "id": "6vv4n8dddd2mqe1ynd3",
+        "text": "HDL-C CAC",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "74sk6dcesxlmq78q7hx",
         "text": "UKB preeclampsia",
         "done": false,
@@ -92,18 +104,6 @@
         "done": false,
         "date": "",
         "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "6vv4n8dddd2mqe1ynd3",
-        "text": "HDL-C CAC",
-        "done": false,
-        "date": "",
-        "color": "gold",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
