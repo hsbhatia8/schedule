@@ -218,6 +218,28 @@
         "recurHour": null
       },
       {
+        "id": "r13tyfawqvrmpy9216h",
+        "text": "JCL Review",
+        "done": false,
+        "date": "2026-06-17",
+        "color": "red",
+        "recurring": false,
+        "recurDays": null,
+        "recurHour": null
+      },
+      {
+        "id": "5vmaqqncu3smq8ofxqc",
+        "text": "Circ PHO Review",
+        "done": false,
+        "date": "2026-06-24",
+        "color": "red",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "pmokbcr90epmpzswfyv",
         "text": "Journal Club",
         "done": false,
@@ -293,20 +315,10 @@
         "recurDays": null
       },
       {
-        "id": "r13tyfawqvrmpy9216h",
-        "text": "JCL Review",
+        "id": "ga9mi79qoaumq87x8l4",
+        "text": "AHA talk",
         "done": false,
-        "date": "2026-06-17",
-        "color": "red",
-        "recurring": false,
-        "recurDays": null,
-        "recurHour": null
-      },
-      {
-        "id": "5vmaqqncu3smq8ofxqc",
-        "text": "Circ PHO Review",
-        "done": false,
-        "date": "2026-06-24",
+        "date": "2026-11-01",
         "color": "red",
         "recurring": false,
         "recurDays": [],
@@ -334,18 +346,6 @@
         "recurring": false,
         "recurDays": null,
         "recurHour": null
-      },
-      {
-        "id": "ga9mi79qoaumq87x8l4",
-        "text": "AHA talk",
-        "done": false,
-        "date": "2026-11-01",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       }
     ]
   },
@@ -1159,7 +1159,7 @@
       {
         "id": "kfzlxdloatcmpyai8od",
         "name": "High HDL-C CAC",
-        "tag": "On Hold",
+        "tag": "Active",
         "date": ""
       },
       {
