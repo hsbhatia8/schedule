@@ -1486,6 +1486,19 @@
             "text": "EJPC",
             "tag": "completed"
           }
+        },
+        {
+          "id": "isv880lb9rnmqh3h8f7",
+          "name": "CAR Review",
+          "status": "Completed",
+          "abstract": {
+            "text": "",
+            "tag": ""
+          },
+          "manuscript": {
+            "text": "CAR",
+            "tag": "completed"
+          }
         }
       ]
     },
