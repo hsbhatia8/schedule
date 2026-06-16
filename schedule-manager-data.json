@@ -1782,7 +1782,21 @@
       "id": "gjukoqndabumq79kvzx",
       "name": "Ryan Salvatore",
       "stage": "Resident",
-      "projects": []
+      "projects": [
+        {
+          "id": "8dpsvc0tzbsmqh3n5fy",
+          "name": "Lp(a) and bleeding",
+          "status": "Active",
+          "abstract": {
+            "text": "AHA",
+            "tag": "tentative"
+          },
+          "manuscript": {
+            "text": "",
+            "tag": ""
+          }
+        }
+      ]
     },
     {
       "id": "awsqjad20h4mq79l2nw",
