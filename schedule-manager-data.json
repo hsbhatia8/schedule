@@ -1855,7 +1855,21 @@
       "id": "agvu7l5zgagmq79letd",
       "name": "Lillian Levy",
       "stage": "Medical Student",
-      "projects": []
+      "projects": [
+        {
+          "id": "b7e4idsoekbmqh3o7oy",
+          "name": "Lp(a), gestational hypertension, CAC",
+          "status": "Active",
+          "abstract": {
+            "text": "",
+            "tag": ""
+          },
+          "manuscript": {
+            "text": "",
+            "tag": ""
+          }
+        }
+      ]
     }
   ],
   "theme": {
