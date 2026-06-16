@@ -1696,6 +1696,19 @@
             "text": "PCVD",
             "tag": "completed"
           }
+        },
+        {
+          "id": "n9qqqfyacpmqh3m0bz",
+          "name": "First ASCVD Review",
+          "status": "Completed",
+          "abstract": {
+            "text": "",
+            "tag": ""
+          },
+          "manuscript": {
+            "text": "",
+            "tag": "completed"
+          }
         }
       ]
     },
