@@ -1709,6 +1709,19 @@
             "text": "",
             "tag": "completed"
           }
+        },
+        {
+          "id": "mflofxmrssmqh3m5cz",
+          "name": "LE7 AVC",
+          "status": "Active",
+          "abstract": {
+            "text": "",
+            "tag": ""
+          },
+          "manuscript": {
+            "text": "",
+            "tag": ""
+          }
         }
       ]
     },
