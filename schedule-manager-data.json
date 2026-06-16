@@ -1729,7 +1729,21 @@
       "id": "2sb65lpje42mq79kl88",
       "name": "Yusi Gong",
       "stage": "Fellow",
-      "projects": []
+      "projects": [
+        {
+          "id": "9mcg506oqy9mqh3mhq7",
+          "name": "Lp(a) Carotid",
+          "status": "Active",
+          "abstract": {
+            "text": "AHA",
+            "tag": "tentative"
+          },
+          "manuscript": {
+            "text": "",
+            "tag": ""
+          }
+        }
+      ]
     },
     {
       "id": "w5crdvpaezimq79kqdp",
