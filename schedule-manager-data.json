@@ -1650,6 +1650,19 @@
             "text": "JACC Advances",
             "tag": "tentative"
           }
+        },
+        {
+          "id": "0mortkhry1smqh3l18z",
+          "name": "Lp(a) Menopause",
+          "status": "Completed",
+          "abstract": {
+            "text": "",
+            "tag": ""
+          },
+          "manuscript": {
+            "text": "AJPC",
+            "tag": "completed"
+          }
         }
       ]
     },
