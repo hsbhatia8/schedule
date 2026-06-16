@@ -1802,7 +1802,21 @@
       "id": "awsqjad20h4mq79l2nw",
       "name": "Patrick Zimmerman",
       "stage": "Resident",
-      "projects": []
+      "projects": [
+        {
+          "id": "kwqam4s7tzamqh3ndpw",
+          "name": "Preventive cardiology outcomes",
+          "status": "Active",
+          "abstract": {
+            "text": "",
+            "tag": ""
+          },
+          "manuscript": {
+            "text": "",
+            "tag": ""
+          }
+        }
+      ]
     },
     {
       "id": "hio5t21b0vjmq79l87d",
