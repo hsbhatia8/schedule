@@ -1230,6 +1230,12 @@
         "date": ""
       },
       {
+        "id": "cdp74bxypuwmq64i1vt",
+        "name": "BEACON score",
+        "tag": "Active",
+        "date": ""
+      },
+      {
         "id": "kfzlxdloatcmpyai8od",
         "name": "High HDL-C CAC",
         "tag": "Active",
@@ -1251,12 +1257,6 @@
         "id": "ms3eco254npmpyaj7w2",
         "name": "apoB thresholds",
         "tag": "On Hold",
-        "date": ""
-      },
-      {
-        "id": "cdp74bxypuwmq64i1vt",
-        "name": "BEACON score",
-        "tag": "Active",
         "date": ""
       }
     ],
