@@ -1762,7 +1762,21 @@
       "id": "w5crdvpaezimq79kqdp",
       "name": "Nandan Thakkar",
       "stage": "Resident",
-      "projects": []
+      "projects": [
+        {
+          "id": "qv5tn8glxvmqh3mue0",
+          "name": "IR and HF",
+          "status": "Active",
+          "abstract": {
+            "text": "ASPC",
+            "tag": "tentative"
+          },
+          "manuscript": {
+            "text": "",
+            "tag": ""
+          }
+        }
+      ]
     },
     {
       "id": "gjukoqndabumq79kvzx",
