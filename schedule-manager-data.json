@@ -1512,6 +1512,19 @@
             "text": "AJPC",
             "tag": "completed"
           }
+        },
+        {
+          "id": "bnxi1ucf5ifmqh3hu9s",
+          "name": "LE7 AVC",
+          "status": "Active",
+          "abstract": {
+            "text": "",
+            "tag": ""
+          },
+          "manuscript": {
+            "text": "",
+            "tag": ""
+          }
         }
       ]
     },
