@@ -1683,7 +1683,21 @@
       "id": "iegwgtoslmmq79kgum",
       "name": "Jonathan Kermanshahchi",
       "stage": "Medical Student",
-      "projects": []
+      "projects": [
+        {
+          "id": "f1fmj632a9dmqh3ls0a",
+          "name": "First ASCVD",
+          "status": "Completed",
+          "abstract": {
+            "text": "ASPC",
+            "tag": "completed"
+          },
+          "manuscript": {
+            "text": "PCVD",
+            "tag": "completed"
+          }
+        }
+      ]
     },
     {
       "id": "2sb65lpje42mq79kl88",
