@@ -1558,6 +1558,19 @@
             "text": "JACC",
             "tag": "tentative"
           }
+        },
+        {
+          "id": "2bceudpstqkmqh3iz4r",
+          "name": "JCL Review",
+          "status": "Active",
+          "abstract": {
+            "text": "",
+            "tag": ""
+          },
+          "manuscript": {
+            "text": "JCL",
+            "tag": "tentative"
+          }
         }
       ]
     },
