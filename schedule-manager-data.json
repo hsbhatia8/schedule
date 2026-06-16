@@ -1578,7 +1578,21 @@
       "id": "uulrz3ddk8omq79k6m4",
       "name": "Apurva Khedagi",
       "stage": "Fellow",
-      "projects": []
+      "projects": [
+        {
+          "id": "frnxvyzz2emqh3j5lj",
+          "name": "South Asian Registry",
+          "status": "Active",
+          "abstract": {
+            "text": "",
+            "tag": ""
+          },
+          "manuscript": {
+            "text": "",
+            "tag": ""
+          }
+        }
+      ]
     },
     {
       "id": "rfhj6hfinzmq79kb1g",
