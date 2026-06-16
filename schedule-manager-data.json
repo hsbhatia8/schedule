@@ -1545,7 +1545,21 @@
       "id": "i822vv7598jmq79k2z8",
       "name": "Gouri Dharmavaram",
       "stage": "Fellow",
-      "projects": []
+      "projects": [
+        {
+          "id": "wfzxyqec8admqh3iob3",
+          "name": "CAC vs PREVENT",
+          "status": "Active",
+          "abstract": {
+            "text": "ASPC",
+            "tag": ""
+          },
+          "manuscript": {
+            "text": "JACC",
+            "tag": "tentative"
+          }
+        }
+      ]
     },
     {
       "id": "uulrz3ddk8omq79k6m4",
