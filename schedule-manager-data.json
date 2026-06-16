@@ -1835,6 +1835,19 @@
             "text": "JACC Advances",
             "tag": "tentative"
           }
+        },
+        {
+          "id": "enojlqnvsvmqh3nzer",
+          "name": "LE7 and AVC",
+          "status": "Active",
+          "abstract": {
+            "text": "",
+            "tag": ""
+          },
+          "manuscript": {
+            "text": "",
+            "tag": ""
+          }
         }
       ]
     },
