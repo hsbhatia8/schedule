@@ -1604,6 +1604,19 @@
             "text": "AJPC",
             "tag": "tentative"
           }
+        },
+        {
+          "id": "ki57idzjwgmqh3jrip",
+          "name": "JCL Review",
+          "status": "Active",
+          "abstract": {
+            "text": "",
+            "tag": ""
+          },
+          "manuscript": {
+            "text": "",
+            "tag": ""
+          }
         }
       ]
     },
