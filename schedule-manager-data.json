@@ -1224,12 +1224,6 @@
         "date": ""
       },
       {
-        "id": "rbwsrbx4k3rmpyaif7p",
-        "name": "Lp(a) First Events",
-        "tag": "On Hold",
-        "date": ""
-      },
-      {
         "id": "cdp74bxypuwmq64i1vt",
         "name": "BEACON score",
         "tag": "Active",
@@ -1326,6 +1320,12 @@
       {
         "id": "uvh5pyuloimmpyajh2a",
         "name": "Statin allocation",
+        "tag": "On Hold",
+        "date": ""
+      },
+      {
+        "id": "rbwsrbx4k3rmpyaif7p",
+        "name": "Lp(a) First Events",
         "tag": "On Hold",
         "date": ""
       }
