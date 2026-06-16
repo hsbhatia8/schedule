@@ -97,6 +97,18 @@
         "recurring": false,
         "recurDay": null,
         "recurHour": null
+      },
+      {
+        "id": "jc0wavplkjamqh919jx",
+        "text": "LE7 AVC",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
