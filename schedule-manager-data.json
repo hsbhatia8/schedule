@@ -1473,7 +1473,21 @@
       "id": "ogar5timqtmmq79jzef",
       "name": "Alex Razavi",
       "stage": "Fellow",
-      "projects": []
+      "projects": [
+        {
+          "id": "t6o58szcicmqh3gyzd",
+          "name": "Lp(a) and optimal risk factors",
+          "status": "Completed",
+          "abstract": {
+            "text": "AHA",
+            "tag": "completed"
+          },
+          "manuscript": {
+            "text": "EJPC",
+            "tag": "completed"
+          }
+        }
+      ]
     },
     {
       "id": "i822vv7598jmq79k2z8",
