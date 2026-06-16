@@ -1499,6 +1499,19 @@
             "text": "CAR",
             "tag": "completed"
           }
+        },
+        {
+          "id": "z31q1r5u7jmqh3hl5w",
+          "name": "Lp(a) menopause",
+          "status": "Completed",
+          "abstract": {
+            "text": "",
+            "tag": ""
+          },
+          "manuscript": {
+            "text": "AJPC",
+            "tag": "completed"
+          }
         }
       ]
     },
