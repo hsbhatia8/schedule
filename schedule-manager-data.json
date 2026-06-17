@@ -1194,6 +1194,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "d4zg7jylyeamqi71vxd",
+      "title": "K08 docs",
+      "date": "2026-06-18",
+      "hour": 13,
+      "startMin": 30,
+      "duration": 1,
+      "color": "orange",
+      "taskId": "rkyd6b1wwdnmpx8eql3",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
