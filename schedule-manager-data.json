@@ -22,6 +22,12 @@
         "color": "orange"
       },
       {
+        "id": "x6xvdn6w1rrmpx9bizw",
+        "text": "JCL Review",
+        "done": false,
+        "date": "2026-06-30"
+      },
+      {
         "id": "gqel7r3k52gmq1lsyr9",
         "text": "BEACON score",
         "done": false,
@@ -248,12 +254,6 @@
         "recurring": false,
         "recurDay": null,
         "recurHour": null
-      },
-      {
-        "id": "x6xvdn6w1rrmpx9bizw",
-        "text": "JCL Review",
-        "done": false,
-        "date": "2026-06-30"
       },
       {
         "id": "nd7fwe8jjqempxam5yp",
@@ -1176,6 +1176,20 @@
       "duration": 1,
       "color": "orange",
       "taskId": "xt8btmyqofcmpxatqs7",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "j01jlmeyu9qmqi71q7b",
+      "title": "JCL Review",
+      "date": "2026-06-18",
+      "hour": 10,
+      "startMin": 30,
+      "duration": 1,
+      "color": "gold",
+      "taskId": "x6xvdn6w1rrmpx9bizw",
       "done": false,
       "recurring": false,
       "recurDays": [],
