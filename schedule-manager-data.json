@@ -208,7 +208,7 @@
       {
         "id": "n9yoziav1qempxaljg9",
         "text": "JACC Adv",
-        "done": false,
+        "done": true,
         "date": "2026-06-11",
         "recurring": false,
         "recurDay": null,
