@@ -1527,7 +1527,21 @@
       "id": "i822vv7598jmq79k2z8",
       "name": "Gouri Dharmavaram",
       "stage": "Fellow",
-      "projects": []
+      "projects": [
+        {
+          "id": "obnp8xvz7msmqi9phk9",
+          "name": "CAC vs PREVENT statin",
+          "status": "Active",
+          "abstract": {
+            "text": "ASPC",
+            "tag": "completed"
+          },
+          "manuscript": {
+            "text": "JACC",
+            "tag": "tentative"
+          }
+        }
+      ]
     },
     {
       "id": "uulrz3ddk8omq79k6m4",
