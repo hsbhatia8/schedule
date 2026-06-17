@@ -1481,6 +1481,19 @@
             "text": "",
             "tag": ""
           }
+        },
+        {
+          "id": "ln26xelsezbmqi9nezy",
+          "name": "Lp(a) menopause",
+          "status": "Completed",
+          "abstract": {
+            "text": "",
+            "tag": ""
+          },
+          "manuscript": {
+            "text": "AJPC",
+            "tag": "completed"
+          }
         }
       ]
     },
