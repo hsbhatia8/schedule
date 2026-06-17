@@ -1797,7 +1797,21 @@
       "id": "awsqjad20h4mq79l2nw",
       "name": "Patrick Zimmerman",
       "stage": "Resident",
-      "projects": []
+      "projects": [
+        {
+          "id": "cn3uqaqo9smqi9x1ev",
+          "name": "Prev card outcomes",
+          "status": "Active",
+          "abstract": {
+            "text": "",
+            "tag": ""
+          },
+          "manuscript": {
+            "text": "",
+            "tag": ""
+          }
+        }
+      ]
     },
     {
       "id": "hio5t21b0vjmq79l87d",
