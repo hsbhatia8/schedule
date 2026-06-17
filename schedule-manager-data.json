@@ -1737,6 +1737,19 @@
             "text": "",
             "tag": ""
           }
+        },
+        {
+          "id": "mueqttxupnqmqi9vtdb",
+          "name": "JCL Review",
+          "status": "Active",
+          "abstract": {
+            "text": "",
+            "tag": ""
+          },
+          "manuscript": {
+            "text": "",
+            "tag": ""
+          }
         }
       ]
     },
