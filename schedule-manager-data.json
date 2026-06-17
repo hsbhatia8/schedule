@@ -1757,7 +1757,21 @@
       "id": "w5crdvpaezimq79kqdp",
       "name": "Nandan Thakkar",
       "stage": "Resident",
-      "projects": []
+      "projects": [
+        {
+          "id": "w8gwboyhhvmqi9wg22",
+          "name": "IR and HR",
+          "status": "Active",
+          "abstract": {
+            "text": "ASPC",
+            "tag": "completed"
+          },
+          "manuscript": {
+            "text": "",
+            "tag": ""
+          }
+        }
+      ]
     },
     {
       "id": "gjukoqndabumq79kvzx",
