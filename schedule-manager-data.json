@@ -1632,7 +1632,21 @@
       "id": "rfhj6hfinzmq79kb1g",
       "name": "Mikaila Reyes",
       "stage": "Medical Student",
-      "projects": []
+      "projects": [
+        {
+          "id": "62e99j6erkymqi9tm41",
+          "name": "MASALA Lp(a)",
+          "status": "On Hold",
+          "abstract": {
+            "text": "",
+            "tag": "completed"
+          },
+          "manuscript": {
+            "text": "JACC Advances",
+            "tag": "tentative"
+          }
+        }
+      ]
     },
     {
       "id": "iegwgtoslmmq79kgum",
