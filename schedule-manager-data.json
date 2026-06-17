@@ -2,17 +2,14 @@
   "todos": {
     "active": [
       {
-        "id": "xt8btmyqofcmpxatqs7",
-        "text": "Journal Reviews",
+        "id": "2twqdjeo364mpyact67",
+        "text": "MASALA Lp(a)",
         "done": false,
         "date": null,
-        "recurring": true,
-        "recurDay": 4,
-        "recurHour": 9,
-        "color": "orange",
-        "calDoneExceptions": [
-          "2026-06-11"
-        ]
+        "color": "gold",
+        "recurring": false,
+        "recurDays": null,
+        "recurHour": null
       },
       {
         "id": "gqel7r3k52gmq1lsyr9",
@@ -27,43 +24,14 @@
         "nextRecur": null
       },
       {
-        "id": "x6xvdn6w1rrmpx9bizw",
-        "text": "JCL Review",
-        "done": false,
-        "date": "2026-06-30"
-      },
-      {
-        "id": "rkyd6b1wwdnmpx8eql3",
-        "text": "K08 docs",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": 9,
-        "recurDays": []
-      },
-      {
-        "id": "zgmhxhotztmpx9nsle",
-        "text": "Prevention rotation",
+        "id": "xt8btmyqofcmpxatqs7",
+        "text": "Journal Reviews",
         "done": false,
         "date": null,
-        "color": "orange",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": null
-      },
-      {
-        "id": "6vv4n8dddd2mqe1ynd3",
-        "text": "HDL-C CAC",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
+        "recurring": true,
+        "recurDay": 4,
         "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
+        "color": "orange"
       },
       {
         "id": "74sk6dcesxlmq78q7hx",
@@ -78,16 +46,25 @@
         "nextRecur": null
       },
       {
-        "id": "jc0wavplkjamqh919jx",
-        "text": "LE7 AVC",
+        "id": "zgmhxhotztmpx9nsle",
+        "text": "Prevention rotation",
+        "done": false,
+        "date": null,
+        "color": "orange",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      },
+      {
+        "id": "rkyd6b1wwdnmpx8eql3",
+        "text": "K08 docs",
         "done": false,
         "date": "",
-        "color": "gold",
+        "color": "orange",
         "recurring": false,
-        "recurDays": [],
+        "recurDay": null,
         "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
+        "recurDays": []
       },
       {
         "id": "u7z3g6mpz6mmpx8eo73",
@@ -109,6 +86,18 @@
         "recurring": false,
         "recurDay": null,
         "recurHour": null
+      },
+      {
+        "id": "hwjklplkbafmq87sp2j",
+        "text": "CardioCore recording",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
@@ -221,26 +210,13 @@
     ],
     "deadlines": [
       {
-        "id": "r13tyfawqvrmpy9216h",
-        "text": "JCL Review",
+        "id": "n9yoziav1qempxaljg9",
+        "text": "JACC Adv",
         "done": false,
-        "date": "2026-06-17",
-        "color": "red",
+        "date": "2026-06-11",
         "recurring": false,
-        "recurDays": null,
+        "recurDay": null,
         "recurHour": null
-      },
-      {
-        "id": "5vmaqqncu3smq8ofxqc",
-        "text": "Circ PHO Review",
-        "done": false,
-        "date": "2026-06-24",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       },
       {
         "id": "pmokbcr90epmpzswfyv",
@@ -260,6 +236,12 @@
         "recurring": false,
         "recurDay": null,
         "recurHour": null
+      },
+      {
+        "id": "x6xvdn6w1rrmpx9bizw",
+        "text": "JCL Review",
+        "done": false,
+        "date": "2026-06-30"
       },
       {
         "id": "nd7fwe8jjqempxam5yp",
@@ -318,10 +300,20 @@
         "recurDays": null
       },
       {
-        "id": "ga9mi79qoaumq87x8l4",
-        "text": "AHA talk",
+        "id": "r13tyfawqvrmpy9216h",
+        "text": "JCL Review",
         "done": false,
-        "date": "2026-11-01",
+        "date": "2026-06-17",
+        "color": "red",
+        "recurring": false,
+        "recurDays": null,
+        "recurHour": null
+      },
+      {
+        "id": "5vmaqqncu3smq8ofxqc",
+        "text": "Circ PHO Review",
+        "done": false,
+        "date": "2026-06-24",
         "color": "red",
         "recurring": false,
         "recurDays": [],
@@ -351,10 +343,10 @@
         "recurHour": null
       },
       {
-        "id": "sv74kei73mfmqgyyzqn",
-        "text": "AJPC editorial",
+        "id": "ga9mi79qoaumq87x8l4",
+        "text": "AHA talk",
         "done": false,
-        "date": "2026-06-30",
+        "date": "2026-11-01",
         "color": "red",
         "recurring": false,
         "recurDays": [],
@@ -594,8 +586,7 @@
       ],
       "doneExceptions": [
         "2026-06-10",
-        "2026-06-17",
-        "2026-06-11"
+        "2026-06-17"
       ],
       "startMin": 0
     },
@@ -641,8 +632,7 @@
       ],
       "done": false,
       "doneExceptions": [
-        "2026-06-09",
-        "2026-06-16"
+        "2026-06-09"
       ]
     },
     {
@@ -659,8 +649,7 @@
       ],
       "done": false,
       "doneExceptions": [
-        "2026-06-09",
-        "2026-06-16"
+        "2026-06-09"
       ]
     },
     {
@@ -898,8 +887,8 @@
     {
       "id": "qrku3onzl1jmq1lx0xf",
       "title": "Prevention rotation",
-      "date": "2026-06-12",
-      "hour": 14,
+      "date": "2026-06-11",
+      "hour": 10,
       "startMin": 0,
       "duration": 0.5,
       "color": "orange",
@@ -912,8 +901,8 @@
     {
       "id": "uoxfs9p8jnsmq1lxfhm",
       "title": "BEACON score",
-      "date": "2026-06-12",
-      "hour": 10,
+      "date": "2026-06-11",
+      "hour": 12,
       "startMin": 0,
       "duration": 1,
       "color": "gold",
@@ -968,7 +957,7 @@
     {
       "id": "0j7lab1ddaimmq2mmnoi",
       "title": "JCL Review",
-      "date": "2026-06-12",
+      "date": "2026-06-11",
       "hour": 9,
       "startMin": 0,
       "duration": 1,
@@ -1016,7 +1005,7 @@
       "duration": 0.5,
       "color": "gold",
       "taskId": "2twqdjeo364mpyact67",
-      "done": true,
+      "done": false,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -1024,8 +1013,8 @@
     {
       "id": "o8vehy70tdpmq87srxb",
       "title": "CardioCore recording",
-      "date": "2026-06-12",
-      "hour": 13,
+      "date": "2026-06-11",
+      "hour": 11,
       "startMin": 0,
       "duration": 1,
       "color": "orange",
@@ -1152,93 +1141,16 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
-    },
-    {
-      "id": "0nt2jup92aalmqe30bfn",
-      "title": "BEACON score",
-      "date": "2026-06-16",
-      "hour": 15,
-      "startMin": 0,
-      "duration": 1,
-      "color": "gold",
-      "taskId": "gqel7r3k52gmq1lsyr9",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
-      "id": "gqodipitcumqe30eqt",
-      "title": "JCL Review",
-      "date": "2026-06-18",
-      "hour": 11,
-      "startMin": 0,
-      "duration": 1,
-      "color": "gold",
-      "taskId": "x6xvdn6w1rrmpx9bizw",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
-      "id": "1npzv8jl3m3mqgyu2km",
-      "title": "Prevention rotation",
-      "date": "2026-06-18",
-      "hour": 16,
-      "startMin": 0,
-      "duration": 0.5,
-      "color": "orange",
-      "taskId": "zgmhxhotztmpx9nsle",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
-      "id": "cxdtdsias3gmqgyvqem",
-      "title": "Journal Reviews",
-      "date": "2026-06-19",
-      "hour": 9,
-      "startMin": 0,
-      "duration": 1,
-      "color": "orange",
-      "taskId": "xt8btmyqofcmpxatqs7",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
-      "id": "62dg0smpi6jmqgyyzqn",
-      "title": "AJPC editorial",
-      "date": "2026-06-30",
-      "hour": 17,
-      "startMin": 0,
-      "duration": 1,
-      "color": "red",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
-      "id": "157h0ti22tcmqh5mlkx",
-      "title": "K08 docs",
-      "date": "2026-06-18",
-      "hour": 13,
-      "startMin": 30,
-      "duration": 1,
-      "color": "orange",
-      "taskId": "rkyd6b1wwdnmpx8eql3",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
     }
   ],
   "projects": {
     "active": [
+      {
+        "id": "ms2cz7jt9nmpyabuo9",
+        "name": "MASALA Lp(a)",
+        "tag": "Active",
+        "date": ""
+      },
       {
         "id": "iilldnvmx8pmpyabnne",
         "name": "JCL Lp(a) Review",
@@ -1248,19 +1160,19 @@
       {
         "id": "mect6lvlc0pmpyajrjd",
         "name": "Lp(a) carotid",
-        "tag": "On Hold",
+        "tag": "Active",
         "date": ""
       },
       {
-        "id": "cdp74bxypuwmq64i1vt",
-        "name": "BEACON score",
-        "tag": "Active",
+        "id": "rbwsrbx4k3rmpyaif7p",
+        "name": "Lp(a) First Events",
+        "tag": "On Hold",
         "date": ""
       },
       {
         "id": "kfzlxdloatcmpyai8od",
         "name": "High HDL-C CAC",
-        "tag": "Active",
+        "tag": "On Hold",
         "date": ""
       },
       {
@@ -1279,6 +1191,12 @@
         "id": "ms3eco254npmpyaj7w2",
         "name": "apoB thresholds",
         "tag": "On Hold",
+        "date": ""
+      },
+      {
+        "id": "cdp74bxypuwmq64i1vt",
+        "name": "BEACON score",
+        "tag": "Active",
         "date": ""
       }
     ],
@@ -1334,27 +1252,15 @@
         "date": "June 2026"
       },
       {
-        "id": "ms2cz7jt9nmpyabuo9",
-        "name": "MASALA Lp(a)",
-        "tag": "Submitted",
-        "date": "June 11 2026"
+        "id": "pssu7n9prjdmpyahz1r",
+        "name": "Lp(a) CAC Timing",
+        "tag": "On Hold",
+        "date": ""
       },
       {
         "id": "uvh5pyuloimmpyajh2a",
         "name": "Statin allocation",
         "tag": "On Hold",
-        "date": ""
-      },
-      {
-        "id": "rbwsrbx4k3rmpyaif7p",
-        "name": "Lp(a) First Events",
-        "tag": "On Hold",
-        "date": ""
-      },
-      {
-        "id": "eex5oev2tzsmqh2b4z7",
-        "name": "Lp(a) CAC timing",
-        "tag": "None",
         "date": ""
       }
     ],
@@ -1501,403 +1407,67 @@
       "id": "ogar5timqtmmq79jzef",
       "name": "Alex Razavi",
       "stage": "Fellow",
-      "projects": [
-        {
-          "id": "t6o58szcicmqh3gyzd",
-          "name": "Lp(a) and optimal risk factors",
-          "status": "Completed",
-          "abstract": {
-            "text": "AHA",
-            "tag": "completed"
-          },
-          "manuscript": {
-            "text": "EJPC",
-            "tag": "completed"
-          }
-        },
-        {
-          "id": "isv880lb9rnmqh3h8f7",
-          "name": "CAR Review",
-          "status": "Completed",
-          "abstract": {
-            "text": "",
-            "tag": ""
-          },
-          "manuscript": {
-            "text": "CAR",
-            "tag": "completed"
-          }
-        },
-        {
-          "id": "z31q1r5u7jmqh3hl5w",
-          "name": "Lp(a) menopause",
-          "status": "Completed",
-          "abstract": {
-            "text": "",
-            "tag": ""
-          },
-          "manuscript": {
-            "text": "AJPC",
-            "tag": "completed"
-          }
-        },
-        {
-          "id": "bnxi1ucf5ifmqh3hu9s",
-          "name": "LE7 AVC",
-          "status": "Active",
-          "abstract": {
-            "text": "",
-            "tag": ""
-          },
-          "manuscript": {
-            "text": "",
-            "tag": ""
-          }
-        },
-        {
-          "id": "53e3tkzwh59mqh3i6l8",
-          "name": "Lp(a) HDOP aspirin",
-          "status": "Active",
-          "abstract": {
-            "text": "",
-            "tag": ""
-          },
-          "manuscript": {
-            "text": "",
-            "tag": ""
-          }
-        }
-      ]
+      "projects": []
     },
     {
       "id": "i822vv7598jmq79k2z8",
       "name": "Gouri Dharmavaram",
       "stage": "Fellow",
-      "projects": [
-        {
-          "id": "wfzxyqec8admqh3iob3",
-          "name": "CAC vs PREVENT",
-          "status": "Active",
-          "abstract": {
-            "text": "ASPC",
-            "tag": ""
-          },
-          "manuscript": {
-            "text": "JACC",
-            "tag": "tentative"
-          }
-        },
-        {
-          "id": "2bceudpstqkmqh3iz4r",
-          "name": "JCL Review",
-          "status": "Active",
-          "abstract": {
-            "text": "",
-            "tag": ""
-          },
-          "manuscript": {
-            "text": "JCL",
-            "tag": "tentative"
-          }
-        }
-      ]
+      "projects": []
     },
     {
       "id": "uulrz3ddk8omq79k6m4",
       "name": "Apurva Khedagi",
       "stage": "Fellow",
-      "projects": [
-        {
-          "id": "frnxvyzz2emqh3j5lj",
-          "name": "South Asian Registry",
-          "status": "Active",
-          "abstract": {
-            "text": "",
-            "tag": ""
-          },
-          "manuscript": {
-            "text": "",
-            "tag": ""
-          }
-        },
-        {
-          "id": "689mcp7f13mmqh3jmp0",
-          "name": "Lp(a) CAC Timing",
-          "status": "Active",
-          "abstract": {
-            "text": "AHA",
-            "tag": "tentative"
-          },
-          "manuscript": {
-            "text": "AJPC",
-            "tag": "tentative"
-          }
-        },
-        {
-          "id": "ki57idzjwgmqh3jrip",
-          "name": "JCL Review",
-          "status": "Active",
-          "abstract": {
-            "text": "",
-            "tag": ""
-          },
-          "manuscript": {
-            "text": "",
-            "tag": ""
-          }
-        },
-        {
-          "id": "kwkxay9fzcmqh3jwrh",
-          "name": "MASALA PREVENT",
-          "status": "On Hold",
-          "abstract": {
-            "text": "",
-            "tag": ""
-          },
-          "manuscript": {
-            "text": "",
-            "tag": ""
-          }
-        }
-      ]
+      "projects": []
     },
     {
       "id": "rfhj6hfinzmq79kb1g",
       "name": "Mikaila Reyes",
       "stage": "Medical Student",
-      "projects": [
-        {
-          "id": "assrfi2ba7qmqh3krum",
-          "name": "MASALA Lp(a)",
-          "status": "On Hold",
-          "abstract": {
-            "text": "",
-            "tag": "completed"
-          },
-          "manuscript": {
-            "text": "JACC Advances",
-            "tag": "tentative"
-          }
-        },
-        {
-          "id": "0mortkhry1smqh3l18z",
-          "name": "Lp(a) Menopause",
-          "status": "Completed",
-          "abstract": {
-            "text": "",
-            "tag": ""
-          },
-          "manuscript": {
-            "text": "AJPC",
-            "tag": "completed"
-          }
-        },
-        {
-          "id": "5gsr6yghfn3mqh3lb1t",
-          "name": "Lp(a) stroke type",
-          "status": "Active",
-          "abstract": {
-            "text": "",
-            "tag": ""
-          },
-          "manuscript": {
-            "text": "",
-            "tag": ""
-          }
-        }
-      ]
+      "projects": []
     },
     {
       "id": "iegwgtoslmmq79kgum",
       "name": "Jonathan Kermanshahchi",
       "stage": "Medical Student",
-      "projects": [
-        {
-          "id": "f1fmj632a9dmqh3ls0a",
-          "name": "First ASCVD",
-          "status": "Completed",
-          "abstract": {
-            "text": "ASPC",
-            "tag": "completed"
-          },
-          "manuscript": {
-            "text": "PCVD",
-            "tag": "completed"
-          }
-        },
-        {
-          "id": "n9qqqfyacpmqh3m0bz",
-          "name": "First ASCVD Review",
-          "status": "Completed",
-          "abstract": {
-            "text": "",
-            "tag": ""
-          },
-          "manuscript": {
-            "text": "",
-            "tag": "completed"
-          }
-        },
-        {
-          "id": "mflofxmrssmqh3m5cz",
-          "name": "LE7 AVC",
-          "status": "Active",
-          "abstract": {
-            "text": "",
-            "tag": ""
-          },
-          "manuscript": {
-            "text": "",
-            "tag": ""
-          }
-        }
-      ]
+      "projects": []
     },
     {
       "id": "2sb65lpje42mq79kl88",
       "name": "Yusi Gong",
       "stage": "Fellow",
-      "projects": [
-        {
-          "id": "9mcg506oqy9mqh3mhq7",
-          "name": "Lp(a) Carotid",
-          "status": "Active",
-          "abstract": {
-            "text": "AHA",
-            "tag": "tentative"
-          },
-          "manuscript": {
-            "text": "",
-            "tag": ""
-          }
-        },
-        {
-          "id": "drd60hn2z9imqh3mlbr",
-          "name": "JCL Review",
-          "status": "Active",
-          "abstract": {
-            "text": "",
-            "tag": ""
-          },
-          "manuscript": {
-            "text": "",
-            "tag": ""
-          }
-        }
-      ]
+      "projects": []
     },
     {
       "id": "w5crdvpaezimq79kqdp",
       "name": "Nandan Thakkar",
       "stage": "Resident",
-      "projects": [
-        {
-          "id": "qv5tn8glxvmqh3mue0",
-          "name": "IR and HF",
-          "status": "Active",
-          "abstract": {
-            "text": "ASPC",
-            "tag": "tentative"
-          },
-          "manuscript": {
-            "text": "",
-            "tag": ""
-          }
-        }
-      ]
+      "projects": []
     },
     {
       "id": "gjukoqndabumq79kvzx",
       "name": "Ryan Salvatore",
       "stage": "Resident",
-      "projects": [
-        {
-          "id": "8dpsvc0tzbsmqh3n5fy",
-          "name": "Lp(a) and bleeding",
-          "status": "Active",
-          "abstract": {
-            "text": "AHA",
-            "tag": "tentative"
-          },
-          "manuscript": {
-            "text": "",
-            "tag": ""
-          }
-        }
-      ]
+      "projects": []
     },
     {
       "id": "awsqjad20h4mq79l2nw",
       "name": "Patrick Zimmerman",
       "stage": "Resident",
-      "projects": [
-        {
-          "id": "kwqam4s7tzamqh3ndpw",
-          "name": "Preventive cardiology outcomes",
-          "status": "Active",
-          "abstract": {
-            "text": "",
-            "tag": ""
-          },
-          "manuscript": {
-            "text": "",
-            "tag": ""
-          }
-        }
-      ]
+      "projects": []
     },
     {
       "id": "hio5t21b0vjmq79l87d",
       "name": "Kavenpreet Bal",
       "stage": "Medical Student",
-      "projects": [
-        {
-          "id": "4vbwo19bd5amqh3nsy4",
-          "name": "MASALA Lp(a)",
-          "status": "Active",
-          "abstract": {
-            "text": "",
-            "tag": "completed"
-          },
-          "manuscript": {
-            "text": "JACC Advances",
-            "tag": "tentative"
-          }
-        },
-        {
-          "id": "enojlqnvsvmqh3nzer",
-          "name": "LE7 and AVC",
-          "status": "Active",
-          "abstract": {
-            "text": "",
-            "tag": ""
-          },
-          "manuscript": {
-            "text": "",
-            "tag": ""
-          }
-        }
-      ]
+      "projects": []
     },
     {
       "id": "agvu7l5zgagmq79letd",
       "name": "Lillian Levy",
       "stage": "Medical Student",
-      "projects": [
-        {
-          "id": "b7e4idsoekbmqh3o7oy",
-          "name": "Lp(a), gestational hypertension, CAC",
-          "status": "Active",
-          "abstract": {
-            "text": "",
-            "tag": ""
-          },
-          "manuscript": {
-            "text": "",
-            "tag": ""
-          }
-        }
-      ]
+      "projects": []
     }
   ],
   "theme": {
