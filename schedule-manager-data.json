@@ -1540,6 +1540,19 @@
             "text": "JACC",
             "tag": "tentative"
           }
+        },
+        {
+          "id": "zjn4gh5xzkamqi9qlxv",
+          "name": "Lp(a) CAC",
+          "status": "Completed",
+          "abstract": {
+            "text": "ACC",
+            "tag": "completed"
+          },
+          "manuscript": {
+            "text": "JACC",
+            "tag": "completed"
+          }
         }
       ]
     },
