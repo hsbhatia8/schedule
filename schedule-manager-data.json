@@ -206,15 +206,6 @@
     ],
     "deadlines": [
       {
-        "id": "n9yoziav1qempxaljg9",
-        "text": "JACC Adv",
-        "done": true,
-        "date": "2026-06-11",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": null
-      },
-      {
         "id": "pmokbcr90epmpzswfyv",
         "text": "Journal Club",
         "done": false,
