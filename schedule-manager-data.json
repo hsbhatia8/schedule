@@ -1658,6 +1658,19 @@
             "text": "AJPC",
             "tag": "completed"
           }
+        },
+        {
+          "id": "nssz2qtkugmqi9uewb",
+          "name": "Lp(a) stroke type",
+          "status": "Active",
+          "abstract": {
+            "text": "",
+            "tag": ""
+          },
+          "manuscript": {
+            "text": "",
+            "tag": ""
+          }
         }
       ]
     },
