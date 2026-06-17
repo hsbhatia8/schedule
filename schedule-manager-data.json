@@ -1586,6 +1586,19 @@
             "text": "",
             "tag": ""
           }
+        },
+        {
+          "id": "sseowvvelpkmqi9spjh",
+          "name": "Lp(a) CAC timing",
+          "status": "Active",
+          "abstract": {
+            "text": "AHA",
+            "tag": "tentative"
+          },
+          "manuscript": {
+            "text": "AJPC",
+            "tag": "tentative"
+          }
         }
       ]
     },
