@@ -1817,7 +1817,21 @@
       "id": "hio5t21b0vjmq79l87d",
       "name": "Kavenpreet Bal",
       "stage": "Medical Student",
-      "projects": []
+      "projects": [
+        {
+          "id": "lbrygzrcuapmqi9xgsy",
+          "name": "MASALA Lp(a)",
+          "status": "On Hold",
+          "abstract": {
+            "text": "",
+            "tag": "completed"
+          },
+          "manuscript": {
+            "text": "JACC Advances",
+            "tag": "tentative"
+          }
+        }
+      ]
     },
     {
       "id": "agvu7l5zgagmq79letd",
