@@ -1455,7 +1455,21 @@
       "id": "ogar5timqtmmq79jzef",
       "name": "Alex Razavi",
       "stage": "Fellow",
-      "projects": []
+      "projects": [
+        {
+          "id": "bqibnqj3chvmqi9mr4y",
+          "name": "Lp(a) traditional risk factors",
+          "status": "Completed",
+          "abstract": {
+            "text": "AHA",
+            "tag": "completed"
+          },
+          "manuscript": {
+            "text": "EJPC",
+            "tag": "completed"
+          }
+        }
+      ]
     },
     {
       "id": "i822vv7598jmq79k2z8",
