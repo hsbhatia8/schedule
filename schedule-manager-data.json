@@ -12,6 +12,16 @@
         "recurHour": null
       },
       {
+        "id": "xt8btmyqofcmpxatqs7",
+        "text": "Journal Reviews",
+        "done": false,
+        "date": null,
+        "recurring": true,
+        "recurDay": 4,
+        "recurHour": 9,
+        "color": "orange"
+      },
+      {
         "id": "gqel7r3k52gmq1lsyr9",
         "text": "BEACON score",
         "done": false,
@@ -22,16 +32,6 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
-      },
-      {
-        "id": "xt8btmyqofcmpxatqs7",
-        "text": "Journal Reviews",
-        "done": false,
-        "date": null,
-        "recurring": true,
-        "recurDay": 4,
-        "recurHour": 9,
-        "color": "orange"
       },
       {
         "id": "74sk6dcesxlmq78q7hx",
