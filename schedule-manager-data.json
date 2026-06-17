@@ -229,6 +229,18 @@
         "recurHour": null
       },
       {
+        "id": "5ojf4j5h0n7mqi70wta",
+        "text": "AJPC editorial",
+        "done": false,
+        "date": "2026-06-30",
+        "color": "red",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "b6ol0ijk2cfmpxalv5x",
         "text": "ASPC",
         "done": false,
@@ -347,18 +359,6 @@
         "text": "AHA talk",
         "done": false,
         "date": "2026-11-01",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "5ojf4j5h0n7mqi70wta",
-        "text": "AJPC editorial",
-        "done": false,
-        "date": "2026-06-30",
         "color": "red",
         "recurring": false,
         "recurDays": [],
