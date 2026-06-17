@@ -1868,5 +1868,6 @@
       "--text2": "#6a5040",
       "--text3": "#9a8878"
     }
-  }
+  },
+  "menteeLayout": "compact"
 }
