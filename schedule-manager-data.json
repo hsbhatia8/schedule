@@ -1228,9 +1228,9 @@
     {
       "id": "d4zg7jylyeamqi71vxd",
       "title": "K08 docs",
-      "date": "2026-06-18",
-      "hour": 13,
-      "startMin": 30,
+      "date": "2026-06-19",
+      "hour": 10,
+      "startMin": 0,
       "duration": 1,
       "color": "orange",
       "taskId": "rkyd6b1wwdnmpx8eql3",
@@ -1242,8 +1242,8 @@
     {
       "id": "kflfo5atiwbmqjnmhgz",
       "title": "Prevention rotation",
-      "date": "2026-06-18",
-      "hour": 16,
+      "date": "2026-06-19",
+      "hour": 11,
       "startMin": 0,
       "duration": 0.5,
       "color": "orange",
