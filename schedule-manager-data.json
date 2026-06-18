@@ -30,6 +30,16 @@
         "nextRecur": null
       },
       {
+        "id": "zgmhxhotztmpx9nsle",
+        "text": "Prevention rotation",
+        "done": false,
+        "date": null,
+        "color": "orange",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      },
+      {
         "id": "74sk6dcesxlmq78q7hx",
         "text": "UKB preeclampsia",
         "done": false,
@@ -40,16 +50,6 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
-      },
-      {
-        "id": "zgmhxhotztmpx9nsle",
-        "text": "Prevention rotation",
-        "done": false,
-        "date": null,
-        "color": "orange",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": null
       },
       {
         "id": "rkyd6b1wwdnmpx8eql3",
@@ -1185,6 +1185,20 @@
       "duration": 1,
       "color": "orange",
       "taskId": "rkyd6b1wwdnmpx8eql3",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "kflfo5atiwbmqjnmhgz",
+      "title": "Prevention rotation",
+      "date": "2026-06-18",
+      "hour": 16,
+      "startMin": 0,
+      "duration": 1,
+      "color": "orange",
+      "taskId": "zgmhxhotztmpx9nsle",
       "done": false,
       "recurring": false,
       "recurDays": [],
