@@ -106,6 +106,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "5eeeayowu6lmqjqzhuv",
+        "text": "ASPC flight",
+        "done": false,
+        "date": "",
+        "color": "blue",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
