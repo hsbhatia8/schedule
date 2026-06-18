@@ -748,6 +748,9 @@
       "recurExceptions": [
         "2026-06-04",
         "2026-06-11"
+      ],
+      "doneExceptions": [
+        "2026-06-18"
       ]
     },
     {
@@ -767,7 +770,10 @@
         "2026-06-04",
         "2026-06-11"
       ],
-      "startMin": 30
+      "startMin": 30,
+      "doneExceptions": [
+        "2026-06-18"
+      ]
     },
     {
       "id": "c14jzf0q05bmpyao9ct",
