@@ -51,6 +51,18 @@
         "recurDays": []
       },
       {
+        "id": "5eeeayowu6lmqjqzhuv",
+        "text": "ASPC flight",
+        "done": false,
+        "date": "",
+        "color": "blue",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "507whmxal8gmqjqycpl",
         "text": "Review LE7 AVC",
         "done": false,
@@ -101,18 +113,6 @@
         "done": false,
         "date": "",
         "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "5eeeayowu6lmqjqzhuv",
-        "text": "ASPC flight",
-        "done": false,
-        "date": "",
-        "color": "blue",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
