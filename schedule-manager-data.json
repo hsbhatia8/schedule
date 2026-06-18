@@ -382,6 +382,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "3z17pejl9vrmqjrfziv",
+        "text": "OC Symposium",
+        "done": false,
+        "date": "2026-10-24",
+        "color": "red",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ]
   },
@@ -1244,6 +1256,19 @@
       "id": "kcour7bffnmqjrfnta",
       "title": "OC Symposium slides",
       "date": "2026-09-23",
+      "hour": 17,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "hn42h8dc4k7mqjrfziv",
+      "title": "OC Symposium",
+      "date": "2026-10-24",
       "hour": 17,
       "startMin": 0,
       "duration": 1,
