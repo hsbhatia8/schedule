@@ -1268,7 +1268,7 @@
       "duration": 0.5,
       "color": "orange",
       "taskId": "zgmhxhotztmpx9nsle",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
