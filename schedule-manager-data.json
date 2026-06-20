@@ -1331,6 +1331,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "xp7felj6c2omqmkr8y3",
+      "title": "Novartis",
+      "date": "2026-06-24",
+      "hour": 8,
+      "startMin": 0,
+      "duration": 1,
+      "color": "gold",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
