@@ -12,6 +12,18 @@
         "color": "orange"
       },
       {
+        "id": "5eeeayowu6lmqjqzhuv",
+        "text": "ASPC flight",
+        "done": false,
+        "date": "",
+        "color": "blue",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "gqel7r3k52gmq1lsyr9",
         "text": "BEACON score",
         "done": false,
@@ -43,18 +55,6 @@
         "recurDay": null,
         "recurHour": 9,
         "recurDays": []
-      },
-      {
-        "id": "5eeeayowu6lmqjqzhuv",
-        "text": "ASPC flight",
-        "done": false,
-        "date": "",
-        "color": "blue",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       },
       {
         "id": "507whmxal8gmqjqycpl",
