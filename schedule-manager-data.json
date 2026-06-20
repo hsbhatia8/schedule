@@ -1339,7 +1339,7 @@
       "hour": 8,
       "startMin": 0,
       "duration": 1,
-      "color": "gold",
+      "color": "red",
       "done": false,
       "recurring": false,
       "recurDays": [],
