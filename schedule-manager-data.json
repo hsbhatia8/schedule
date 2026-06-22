@@ -1508,6 +1508,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "rlfjd8jnaq8mqoourep",
+      "title": "Update BIOLINCC CARDIA CAC",
+      "date": "2026-06-25",
+      "hour": 10,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "orange",
+      "taskId": "xwokanuo2smqjnulu5",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
