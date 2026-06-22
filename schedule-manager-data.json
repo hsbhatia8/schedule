@@ -1610,6 +1610,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "ezz1h8p60akmqoowz5g",
+      "title": "BEACON slides",
+      "date": "2026-06-26",
+      "hour": 13,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "taskId": "t8zej63flpmqli8hwn",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
