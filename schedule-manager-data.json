@@ -1377,7 +1377,7 @@
       "date": "2026-06-23",
       "hour": 13,
       "startMin": 30,
-      "duration": 1,
+      "duration": 0.5,
       "color": "gold",
       "taskId": "507whmxal8gmqjqycpl",
       "done": false,
