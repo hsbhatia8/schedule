@@ -1465,6 +1465,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "yyuejkbo8xmqoosplo",
+      "title": "Prevention rotation",
+      "date": "2026-06-25",
+      "hour": 13,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "orange",
+      "taskId": "zgmhxhotztmpx9nsle",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
