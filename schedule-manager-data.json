@@ -1473,7 +1473,7 @@
       "title": "Prevention rotation",
       "date": "2026-06-25",
       "hour": 13,
-      "startMin": 30,
+      "startMin": 0,
       "duration": 0.5,
       "color": "orange",
       "taskId": "zgmhxhotztmpx9nsle",
