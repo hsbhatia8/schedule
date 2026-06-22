@@ -299,16 +299,6 @@
         "recurDays": null
       },
       {
-        "id": "r13tyfawqvrmpy9216h",
-        "text": "JCL Review",
-        "done": false,
-        "date": "2026-06-17",
-        "color": "red",
-        "recurring": false,
-        "recurDays": null,
-        "recurHour": null
-      },
-      {
         "id": "5vmaqqncu3smq8ofxqc",
         "text": "Circ PHO Review",
         "done": false,
