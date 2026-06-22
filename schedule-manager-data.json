@@ -112,9 +112,7 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
-      }
-    ],
-    "later": [
+      },
       {
         "id": "iyw29mmrhmsmpx9o76p",
         "text": "RPPR publications",
@@ -124,7 +122,9 @@
         "recurring": false,
         "recurDay": null,
         "recurHour": null
-      },
+      }
+    ],
+    "later": [
       {
         "id": "kwrrqt016esmpx9nzcz",
         "text": "UK Biobank",
