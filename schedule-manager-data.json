@@ -1411,6 +1411,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "tkl7zwxaenmqoopdkw",
+      "title": "Review Lipid testing MS",
+      "date": "2026-06-24",
+      "hour": 10,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
