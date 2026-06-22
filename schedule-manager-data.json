@@ -1522,6 +1522,48 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "iw0jfxdfbr8mqoouygf",
+      "title": "Contact FG life",
+      "date": "2026-06-26",
+      "hour": 10,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "blue",
+      "taskId": "37ofu7l9dvjmpx9o2wd",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "kc858uvrzblmqoov0zb",
+      "title": "Unsubscribe trello",
+      "date": "2026-06-26",
+      "hour": 10,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "blue",
+      "taskId": "1xnmtyy92tpmq64ixe6",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "b452adh0hfhmqoov3qq",
+      "title": "UK Biobank",
+      "date": "2026-06-26",
+      "hour": 11,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "orange",
+      "taskId": "kwrrqt016esmpx9nzcz",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
