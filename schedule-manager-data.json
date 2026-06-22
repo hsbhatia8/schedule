@@ -1596,6 +1596,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "dmlfap3sh1mqoowlye",
+      "title": "Resident Lectures",
+      "date": "2026-06-25",
+      "hour": 12,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "taskId": "nd7fwe8jjqempxam5yp",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
