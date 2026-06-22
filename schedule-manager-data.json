@@ -1649,6 +1649,12 @@
         "date": ""
       },
       {
+        "id": "kfzlxdloatcmpyai8od",
+        "name": "High HDL-C CAC",
+        "tag": "On Hold",
+        "date": ""
+      },
+      {
         "id": "mect6lvlc0pmpyajrjd",
         "name": "Lp(a) carotid",
         "tag": "On Hold",
@@ -1657,12 +1663,6 @@
       {
         "id": "rbwsrbx4k3rmpyaif7p",
         "name": "Lp(a) First Events",
-        "tag": "On Hold",
-        "date": ""
-      },
-      {
-        "id": "kfzlxdloatcmpyai8od",
-        "name": "High HDL-C CAC",
         "tag": "On Hold",
         "date": ""
       },
