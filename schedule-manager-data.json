@@ -1661,12 +1661,6 @@
         "date": ""
       },
       {
-        "id": "rbwsrbx4k3rmpyaif7p",
-        "name": "Lp(a) First Events",
-        "tag": "On Hold",
-        "date": ""
-      },
-      {
         "id": "8r21v7xmdmpmpyaiyhk",
         "name": "Lp(a) OxPL meta",
         "tag": "On Hold",
@@ -1757,6 +1751,12 @@
       {
         "id": "uvh5pyuloimmpyajh2a",
         "name": "Statin allocation",
+        "tag": "On Hold",
+        "date": ""
+      },
+      {
+        "id": "rbwsrbx4k3rmpyaif7p",
+        "name": "Lp(a) First Events",
         "tag": "On Hold",
         "date": ""
       }
