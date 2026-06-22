@@ -1583,20 +1583,6 @@
       "recurExceptions": []
     },
     {
-      "id": "lp1zafwllcdmqoovmci",
-      "title": "Get labs",
-      "date": "2026-06-23",
-      "hour": 13,
-      "startMin": 0,
-      "duration": 0.5,
-      "color": "blue",
-      "taskId": "ar141xerkwampx9oqd6",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
       "id": "ziw2l1y7uzmqoow78y",
       "title": "ASPC",
       "date": "2026-06-25",
