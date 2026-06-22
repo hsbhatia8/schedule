@@ -1590,7 +1590,7 @@
       "hour": 11,
       "startMin": 0,
       "duration": 1,
-      "color": "red",
+      "color": "orange",
       "taskId": "b6ol0ijk2cfmpxalv5x",
       "done": false,
       "recurring": false,
