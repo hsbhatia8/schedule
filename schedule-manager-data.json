@@ -1481,6 +1481,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "vowv3m5225rmqoou80k",
+      "title": "Lilly meeting",
+      "date": "2026-06-25",
+      "hour": 16,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
