@@ -753,7 +753,7 @@
     {
       "id": "0hx26yapijf4mpya2b3j",
       "title": "BEACON",
-      "date": "2026-06-25",
+      "date": "2026-07-02",
       "hour": 12,
       "duration": 1.5,
       "type": "manual",
@@ -767,7 +767,8 @@
       "recurExceptions": [
         "2026-06-04",
         "2026-06-11",
-        "2026-06-18"
+        "2026-06-18",
+        "2026-06-25"
       ],
       "doneExceptions": [
         "2026-06-18"
