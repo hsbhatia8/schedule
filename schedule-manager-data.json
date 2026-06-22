@@ -1424,6 +1424,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "29bli6vgn88mqoor3ii",
+      "title": "MASH meeting",
+      "date": "2026-06-25",
+      "hour": 9,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
