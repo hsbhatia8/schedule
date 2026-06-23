@@ -1637,6 +1637,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "aakax3gbfomqq3brg9",
+      "title": "JCL Review",
+      "date": "2026-06-25",
+      "hour": 14,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
