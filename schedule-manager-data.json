@@ -1464,9 +1464,9 @@
     {
       "id": "yyuejkbo8xmqoosplo",
       "title": "Prevention rotation",
-      "date": "2026-06-25",
-      "hour": 13,
-      "startMin": 0,
+      "date": "2026-06-24",
+      "hour": 10,
+      "startMin": 30,
       "duration": 0.5,
       "color": "orange",
       "taskId": "zgmhxhotztmpx9nsle",
