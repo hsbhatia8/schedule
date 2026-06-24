@@ -46,16 +46,6 @@
         "recurHour": null
       },
       {
-        "id": "zgmhxhotztmpx9nsle",
-        "text": "Prevention rotation",
-        "done": false,
-        "date": null,
-        "color": "orange",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": null
-      },
-      {
         "id": "rkyd6b1wwdnmpx8eql3",
         "text": "K08 docs",
         "done": false,
@@ -1457,7 +1447,7 @@
       "duration": 0.5,
       "color": "orange",
       "taskId": "zgmhxhotztmpx9nsle",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
