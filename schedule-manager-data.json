@@ -639,7 +639,8 @@
         "2026-06-10",
         "2026-06-17",
         "2026-06-18",
-        "2026-06-19"
+        "2026-06-19",
+        "2026-06-24"
       ],
       "startMin": 0
     },
@@ -1350,7 +1351,7 @@
       "startMin": 0,
       "duration": 1,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -1378,7 +1379,7 @@
       "duration": 1,
       "color": "gold",
       "taskId": "gqel7r3k52gmq1lsyr9",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
