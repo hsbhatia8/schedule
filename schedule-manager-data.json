@@ -1640,6 +1640,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "4ciggruep1dmqs8q3z7",
+      "title": "FH white paper",
+      "date": "2026-06-30",
+      "hour": 14,
+      "startMin": 0,
+      "duration": 1,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
