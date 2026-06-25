@@ -1528,7 +1528,7 @@
     {
       "id": "b452adh0hfhmqoov3qq",
       "title": "UK Biobank",
-      "date": "2026-06-26",
+      "date": "2026-06-25",
       "hour": 10,
       "startMin": 0,
       "duration": 0.5,
@@ -1542,7 +1542,7 @@
     {
       "id": "ybtzqc41l5mqoov7pj",
       "title": "Update CV",
-      "date": "2026-06-26",
+      "date": "2026-06-25",
       "hour": 10,
       "startMin": 30,
       "duration": 0.5,
@@ -1665,8 +1665,8 @@
       "id": "8r2qgdpc67dmqtwy220",
       "title": "BEACON score",
       "date": "2026-06-26",
-      "hour": 15,
-      "startMin": 30,
+      "hour": 10,
+      "startMin": 0,
       "duration": 1,
       "color": "gold",
       "taskId": "gqel7r3k52gmq1lsyr9",
