@@ -1596,9 +1596,9 @@
     {
       "id": "y3371mtx6cmqoox5u1",
       "title": "RPPR",
-      "date": "2026-06-26",
-      "hour": 14,
-      "startMin": 30,
+      "date": "2026-06-25",
+      "hour": 10,
+      "startMin": 0,
       "duration": 0.5,
       "color": "red",
       "taskId": "93c236pulzmmpxamp96",
