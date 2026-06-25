@@ -1435,7 +1435,7 @@
       "duration": 0.5,
       "color": "orange",
       "taskId": "iyw29mmrhmsmpx9o76p",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -1693,7 +1693,7 @@
       "date": "2026-06-25",
       "hour": 16,
       "startMin": 0,
-      "duration": 1,
+      "duration": 0.5,
       "color": "orange",
       "taskId": "iyw29mmrhmsmpx9o76p",
       "done": false,
