@@ -1598,8 +1598,8 @@
     {
       "id": "y3371mtx6cmqoox5u1",
       "title": "RPPR",
-      "date": "2026-06-25",
-      "hour": 16,
+      "date": "2026-06-26",
+      "hour": 17,
       "startMin": 0,
       "duration": 0.5,
       "color": "red",
@@ -1692,13 +1692,13 @@
     {
       "id": "h5km6njek14mqu0gptt",
       "title": "RPPR publications",
-      "date": "2026-06-26",
-      "hour": 17,
+      "date": "2026-06-25",
+      "hour": 16,
       "startMin": 0,
       "duration": 0.5,
       "color": "orange",
       "taskId": "iyw29mmrhmsmpx9o76p",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
