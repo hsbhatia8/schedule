@@ -1672,6 +1672,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "7xxwn2dosnfmqtz14bs",
+      "title": "ASPC flight",
+      "date": "2026-06-26",
+      "hour": 11,
+      "startMin": 30,
+      "duration": 1,
+      "color": "blue",
+      "taskId": "5eeeayowu6lmqjqzhuv",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
