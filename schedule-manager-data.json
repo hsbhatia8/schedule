@@ -1530,7 +1530,7 @@
       "duration": 0.5,
       "color": "blue",
       "taskId": "1xnmtyy92tpmq64ixe6",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
