@@ -1686,6 +1686,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "h5km6njek14mqu0gptt",
+      "title": "RPPR publications",
+      "date": "2026-06-25",
+      "hour": 16,
+      "startMin": 0,
+      "duration": 1,
+      "color": "orange",
+      "taskId": "iyw29mmrhmsmpx9o76p",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
