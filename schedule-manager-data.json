@@ -126,18 +126,6 @@
         "recurHour": null
       },
       {
-        "id": "1xnmtyy92tpmq64ixe6",
-        "text": "Unsubscribe trello",
-        "done": false,
-        "date": "",
-        "color": "blue",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "aq1fy5q9r4cmpx9nvzd",
         "text": "Update CV",
         "done": false,
