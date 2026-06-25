@@ -1679,7 +1679,7 @@
       "date": "2026-06-26",
       "hour": 11,
       "startMin": 30,
-      "duration": 1,
+      "duration": 0.5,
       "color": "blue",
       "taskId": "5eeeayowu6lmqjqzhuv",
       "done": false,
