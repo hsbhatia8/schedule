@@ -1484,9 +1484,9 @@
     {
       "id": "rlfjd8jnaq8mqoourep",
       "title": "Update BIOLINCC CARDIA CAC",
-      "date": "2026-06-25",
+      "date": "2026-06-26",
       "hour": 16,
-      "startMin": 0,
+      "startMin": 30,
       "duration": 0.5,
       "color": "orange",
       "taskId": "xwokanuo2smqjnulu5",
