@@ -1763,6 +1763,12 @@
         "date": ""
       },
       {
+        "id": "iilldnvmx8pmpyabnne",
+        "name": "JCL Lp(a) Review",
+        "tag": "Submitted",
+        "date": "Jun 2026"
+      },
+      {
         "id": "pssu7n9prjdmpyahz1r",
         "name": "Lp(a) CAC Timing",
         "tag": "On Hold",
@@ -1773,12 +1779,6 @@
         "name": "Statin allocation",
         "tag": "On Hold",
         "date": ""
-      },
-      {
-        "id": "iilldnvmx8pmpyabnne",
-        "name": "JCL Lp(a) Review",
-        "tag": "Submitted",
-        "date": "Jun 2026"
       }
     ],
     "completed": []
