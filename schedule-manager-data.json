@@ -1663,12 +1663,6 @@
   "projects": {
     "active": [
       {
-        "id": "iilldnvmx8pmpyabnne",
-        "name": "JCL Lp(a) Review",
-        "tag": "Active",
-        "date": ""
-      },
-      {
         "id": "kfzlxdloatcmpyai8od",
         "name": "High HDL-C CAC",
         "tag": "Active",
@@ -1778,6 +1772,12 @@
         "id": "uvh5pyuloimmpyajh2a",
         "name": "Statin allocation",
         "tag": "On Hold",
+        "date": ""
+      },
+      {
+        "id": "iilldnvmx8pmpyabnne",
+        "name": "JCL Lp(a) Review",
+        "tag": "Active",
         "date": ""
       }
     ],
