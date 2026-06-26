@@ -651,7 +651,7 @@
     {
       "id": "8xbdqxeeef2mpy9zqht",
       "title": "CLINIC",
-      "date": "2026-06-15",
+      "date": "2026-06-22",
       "hour": 8,
       "duration": 9,
       "type": "manual",
@@ -667,7 +667,8 @@
       ],
       "recurExceptions": [
         "2026-06-01",
-        "2026-06-08"
+        "2026-06-08",
+        "2026-06-15"
       ]
     },
     {
