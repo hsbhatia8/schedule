@@ -1797,6 +1797,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "w25emcoquhmqvk0c8d",
+      "title": "Fellow orientation",
+      "date": "2026-07-02",
+      "hour": 8,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
