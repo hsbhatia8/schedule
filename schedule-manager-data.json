@@ -582,7 +582,8 @@
         "2026-06-05",
         "2026-06-04",
         "2026-06-03",
-        "2026-06-17"
+        "2026-06-17",
+        "2026-06-24"
       ],
       "doneExceptions": [
         "2026-06-10",
@@ -1760,6 +1761,19 @@
       "title": "Immigrant health meeting",
       "date": "2026-06-29",
       "hour": 13,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "q1kvaxdr4tmqvjz1do",
+      "title": "Admin",
+      "date": "2026-06-24",
+      "hour": 8,
       "startMin": 0,
       "duration": 1,
       "color": "red",
