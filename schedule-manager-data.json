@@ -9,7 +9,10 @@
         "recurring": true,
         "recurDay": 4,
         "recurHour": 9,
-        "color": "orange"
+        "color": "orange",
+        "calDoneExceptions": [
+          "2026-06-26"
+        ]
       },
       {
         "id": "5eeeayowu6lmqjqzhuv",
