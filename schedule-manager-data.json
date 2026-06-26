@@ -39,27 +39,6 @@
         "nextRecur": null
       },
       {
-        "id": "iyw29mmrhmsmpx9o76p",
-        "text": "RPPR publications",
-        "done": true,
-        "date": null,
-        "color": "orange",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": null
-      },
-      {
-        "id": "rkyd6b1wwdnmpx8eql3",
-        "text": "K08 docs",
-        "done": true,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": 9,
-        "recurDays": []
-      },
-      {
         "id": "xzkrif7zkzfmpx9chcu",
         "text": "R01",
         "done": false,
