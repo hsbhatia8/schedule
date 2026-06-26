@@ -566,7 +566,7 @@
     {
       "id": "pwo0q1hm4dbmpy8ox0l",
       "title": "Admin",
-      "date": "2026-06-17",
+      "date": "2026-06-24",
       "hour": 8,
       "duration": 1,
       "type": "manual",
@@ -581,7 +581,8 @@
       "recurExceptions": [
         "2026-06-05",
         "2026-06-04",
-        "2026-06-03"
+        "2026-06-03",
+        "2026-06-17"
       ],
       "doneExceptions": [
         "2026-06-10",
