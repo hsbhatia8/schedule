@@ -651,7 +651,7 @@
     {
       "id": "8xbdqxeeef2mpy9zqht",
       "title": "CLINIC",
-      "date": "2026-06-01",
+      "date": "2026-06-15",
       "hour": 8,
       "duration": 9,
       "type": "manual",
@@ -664,12 +664,16 @@
       "doneExceptions": [
         "2026-06-08",
         "2026-06-22"
+      ],
+      "recurExceptions": [
+        "2026-06-01",
+        "2026-06-08"
       ]
     },
     {
       "id": "ve72zputuampya0gbd",
       "title": "CLINIC",
-      "date": "2026-06-02",
+      "date": "2026-06-09",
       "hour": 8,
       "duration": 5,
       "type": "manual",
@@ -682,6 +686,9 @@
       "doneExceptions": [
         "2026-06-09",
         "2026-06-23"
+      ],
+      "recurExceptions": [
+        "2026-06-02"
       ]
     },
     {
