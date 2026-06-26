@@ -716,6 +716,7 @@
         "2026-06-23"
       ],
       "recurExceptions": [
+        "2026-06-02",
         "2026-06-02"
       ]
     },
@@ -1726,6 +1727,19 @@
     },
     {
       "id": "gsjj10uprjqmqv5lkg6",
+      "title": "Block",
+      "date": "2026-06-02",
+      "hour": 13,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "99kw1drt3ivmqv5lo29",
       "title": "Block",
       "date": "2026-06-02",
       "hour": 13,
