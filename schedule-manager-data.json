@@ -958,7 +958,9 @@
         2,
         4
       ],
-      "recurExceptions": [],
+      "recurExceptions": [
+        "2026-06-03"
+      ],
       "doneExceptions": [
         "2026-06-05",
         "2026-06-10",
@@ -1745,6 +1747,19 @@
       "title": "Block",
       "date": "2026-06-02",
       "hour": 13,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "irgv2t3zmjomqv5mj7r",
+      "title": "Lunch",
+      "date": "2026-06-03",
+      "hour": 12,
       "startMin": 0,
       "duration": 1,
       "color": "red",
