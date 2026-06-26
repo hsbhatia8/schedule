@@ -193,16 +193,6 @@
     ],
     "deadlines": [
       {
-        "id": "pmokbcr90epmpzswfyv",
-        "text": "Journal Club",
-        "done": false,
-        "date": "2026-06-25",
-        "color": "red",
-        "recurring": false,
-        "recurDays": null,
-        "recurHour": null
-      },
-      {
         "id": "5ojf4j5h0n7mqi70wta",
         "text": "AJPC editorial",
         "done": false,
@@ -278,18 +268,6 @@
         "recurHour": null,
         "color": "red",
         "recurDays": null
-      },
-      {
-        "id": "5vmaqqncu3smq8ofxqc",
-        "text": "Circ PHO Review",
-        "done": false,
-        "date": "2026-06-24",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       },
       {
         "id": "ayaxungac6mpydo08e",
@@ -1143,7 +1121,7 @@
       "startMin": 0,
       "duration": 1,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
