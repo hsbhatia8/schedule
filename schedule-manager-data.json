@@ -1782,6 +1782,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "i5y9bucu1bdmqvjzrey",
+      "title": "Resident lectures",
+      "date": "2026-07-01",
+      "hour": 8,
+      "startMin": 0,
+      "duration": 2,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
