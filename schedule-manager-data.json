@@ -1972,12 +1972,6 @@
         "date": ""
       },
       {
-        "id": "rbwsrbx4k3rmpyaif7p",
-        "name": "Lp(a) First Events",
-        "tag": "None",
-        "date": ""
-      },
-      {
         "id": "iilldnvmx8pmpyabnne",
         "name": "JCL Lp(a) Review",
         "tag": "Submitted",
@@ -1988,6 +1982,12 @@
         "name": "Lp(a) CAC Timing",
         "tag": "Submitted",
         "date": "June 28 2026 AJPC"
+      },
+      {
+        "id": "rbwsrbx4k3rmpyaif7p",
+        "name": "Lp(a) First Events",
+        "tag": "None",
+        "date": ""
       },
       {
         "id": "uvh5pyuloimmpyajh2a",
