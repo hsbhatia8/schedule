@@ -51,6 +51,18 @@
         "nextRecur": null
       },
       {
+        "id": "gteq41yw1qkmqooyvwu",
+        "text": "HDL-C CAC",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "xzkrif7zkzfmpx9chcu",
         "text": "R01",
         "done": false,
@@ -66,18 +78,6 @@
         "done": false,
         "date": "",
         "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "gteq41yw1qkmqooyvwu",
-        "text": "HDL-C CAC",
-        "done": false,
-        "date": "",
-        "color": "gold",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
