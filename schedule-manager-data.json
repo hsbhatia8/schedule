@@ -39,6 +39,18 @@
         "nextRecur": null
       },
       {
+        "id": "hx68kuk3s8jmqwyqbcj",
+        "text": "Review LS7 AVC",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "xzkrif7zkzfmpx9chcu",
         "text": "R01",
         "done": false,
@@ -86,18 +98,6 @@
       {
         "id": "74sk6dcesxlmq78q7hx",
         "text": "UKB preeclampsia",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "hx68kuk3s8jmqwyqbcj",
-        "text": "Review LS7 AVC",
         "done": false,
         "date": "",
         "color": "gold",
