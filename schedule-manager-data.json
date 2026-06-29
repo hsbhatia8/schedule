@@ -15,18 +15,6 @@
         ]
       },
       {
-        "id": "5eeeayowu6lmqjqzhuv",
-        "text": "ASPC flight",
-        "done": false,
-        "date": "",
-        "color": "blue",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "gqel7r3k52gmq1lsyr9",
         "text": "BEACON score",
         "done": false,
@@ -1680,7 +1668,7 @@
       "duration": 0.5,
       "color": "blue",
       "taskId": "5eeeayowu6lmqjqzhuv",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
