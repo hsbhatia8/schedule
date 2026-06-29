@@ -1898,6 +1898,12 @@
         "date": ""
       },
       {
+        "id": "cdp74bxypuwmq64i1vt",
+        "name": "BEACON score",
+        "tag": "On Hold",
+        "date": ""
+      },
+      {
         "id": "mect6lvlc0pmpyajrjd",
         "name": "Lp(a) carotid",
         "tag": "On Hold",
@@ -1919,12 +1925,6 @@
         "id": "ms3eco254npmpyaj7w2",
         "name": "apoB thresholds",
         "tag": "On Hold",
-        "date": ""
-      },
-      {
-        "id": "cdp74bxypuwmq64i1vt",
-        "name": "BEACON score",
-        "tag": "Active",
         "date": ""
       }
     ],
