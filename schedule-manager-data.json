@@ -780,7 +780,7 @@
     {
       "id": "sj4boa8wpa9mpyaooab",
       "title": "Prevention Group",
-      "date": "2026-06-03",
+      "date": "2026-06-17",
       "hour": 13,
       "duration": 1,
       "type": "manual",
@@ -791,6 +791,10 @@
       ],
       "done": false,
       "doneExceptions": [
+        "2026-06-10"
+      ],
+      "recurExceptions": [
+        "2026-06-03",
         "2026-06-10"
       ]
     },
@@ -1884,6 +1888,19 @@
       "duration": 0.5,
       "color": "orange",
       "done": true,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "126hrl3cfufmqzrtcxl",
+      "title": "Prevention Group",
+      "date": "2026-06-10",
+      "hour": 13,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
