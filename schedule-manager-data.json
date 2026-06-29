@@ -1898,6 +1898,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "s2o0baaud4mqze6npd",
+      "title": "Send PeerView slides",
+      "date": "2026-06-29",
+      "hour": 12,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
