@@ -1477,9 +1477,9 @@
     {
       "id": "rlfjd8jnaq8mqoourep",
       "title": "Update BIOLINCC CARDIA CAC",
-      "date": "2026-07-01",
-      "hour": 14,
-      "startMin": 0,
+      "date": "2026-07-02",
+      "hour": 9,
+      "startMin": 30,
       "duration": 0.5,
       "color": "orange",
       "taskId": "xwokanuo2smqjnulu5",
@@ -1629,8 +1629,8 @@
     {
       "id": "4ciggruep1dmqs8q3z7",
       "title": "FH white paper",
-      "date": "2026-06-30",
-      "hour": 8,
+      "date": "2026-07-01",
+      "hour": 10,
       "startMin": 30,
       "duration": 0.5,
       "color": "orange",
