@@ -1944,6 +1944,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "a5rbytxgzwdmr1aco9i",
+      "title": "Lp(a) MI paper",
+      "date": "2026-07-02",
+      "hour": 11,
+      "startMin": 30,
+      "duration": 1,
+      "color": "gold",
+      "taskId": "9ih7i1bn9xdmr1acgh8",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
