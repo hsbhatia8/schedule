@@ -1491,9 +1491,9 @@
     {
       "id": "iw0jfxdfbr8mqoouygf",
       "title": "Contact FG life",
-      "date": "2026-07-01",
-      "hour": 15,
-      "startMin": 30,
+      "date": "2026-07-02",
+      "hour": 10,
+      "startMin": 0,
       "duration": 0.5,
       "color": "blue",
       "taskId": "37ofu7l9dvjmpx9o2wd",
@@ -1519,8 +1519,8 @@
     {
       "id": "b452adh0hfhmqoov3qq",
       "title": "UK Biobank",
-      "date": "2026-06-30",
-      "hour": 9,
+      "date": "2026-07-01",
+      "hour": 14,
       "startMin": 0,
       "duration": 0.5,
       "color": "orange",
