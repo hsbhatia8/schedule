@@ -94,6 +94,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "9ih7i1bn9xdmr1acgh8",
+        "text": "Lp(a) MI paper",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
