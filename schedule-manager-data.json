@@ -15,6 +15,18 @@
         ]
       },
       {
+        "id": "cnywi2v0zn9mr1a865z",
+        "text": "MASALA Lp(A)",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "hx68kuk3s8jmqwyqbcj",
         "text": "Review LS7 AVC",
         "done": false,
@@ -74,18 +86,6 @@
       {
         "id": "74sk6dcesxlmq78q7hx",
         "text": "UKB preeclampsia",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "cnywi2v0zn9mr1a865z",
-        "text": "MASALA Lp(A)",
         "done": false,
         "date": "",
         "color": "gold",
