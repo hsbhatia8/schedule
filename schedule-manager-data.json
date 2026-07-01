@@ -1947,6 +1947,12 @@
         "date": ""
       },
       {
+        "id": "pssu7n9prjdmpyahz1r",
+        "name": "Lp(a) CAC Timing",
+        "tag": "None",
+        "date": "June 28 2026 AJPC"
+      },
+      {
         "id": "cdp74bxypuwmq64i1vt",
         "name": "BEACON score",
         "tag": "On Hold",
@@ -2039,12 +2045,6 @@
         "name": "JCL Lp(a) Review",
         "tag": "Submitted",
         "date": "Jun 2026"
-      },
-      {
-        "id": "pssu7n9prjdmpyahz1r",
-        "name": "Lp(a) CAC Timing",
-        "tag": "None",
-        "date": "June 28 2026 AJPC"
       },
       {
         "id": "rbwsrbx4k3rmpyaif7p",
