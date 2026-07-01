@@ -1820,7 +1820,7 @@
       "startMin": 0,
       "duration": 2,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
