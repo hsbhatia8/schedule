@@ -1947,16 +1947,16 @@
         "date": ""
       },
       {
-        "id": "kfzlxdloatcmpyai8od",
-        "name": "High HDL-C CAC",
-        "tag": "Active",
-        "date": ""
-      },
-      {
         "id": "pssu7n9prjdmpyahz1r",
         "name": "Lp(a) CAC Timing",
         "tag": "Active",
         "date": "June 28 2026 AJPC"
+      },
+      {
+        "id": "kfzlxdloatcmpyai8od",
+        "name": "High HDL-C CAC",
+        "tag": "Active",
+        "date": ""
       },
       {
         "id": "cdp74bxypuwmq64i1vt",
