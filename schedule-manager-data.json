@@ -196,15 +196,6 @@
         "nextRecur": null
       },
       {
-        "id": "nd7fwe8jjqempxam5yp",
-        "text": "Resident Lectures",
-        "done": false,
-        "date": "2026-07-01",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": null
-      },
-      {
         "id": "cdh2ozo8kmgmpxak4xu",
         "text": "HF symposium",
         "done": false,
