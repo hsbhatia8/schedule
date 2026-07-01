@@ -707,8 +707,8 @@
     {
       "id": "uczkfyl7zpqmpya1c6l",
       "title": "BEACON data",
-      "date": "2026-06-17",
-      "hour": 11,
+      "date": "2026-07-01",
+      "hour": 14,
       "duration": 1,
       "type": "manual",
       "color": "red",
@@ -1488,7 +1488,7 @@
     {
       "id": "mty6zvbz71pmqoouek7",
       "title": "R01",
-      "date": "2026-07-01",
+      "date": "2026-06-30",
       "hour": 14,
       "startMin": 30,
       "duration": 0.5,
@@ -1544,7 +1544,7 @@
     {
       "id": "b452adh0hfhmqoov3qq",
       "title": "UK Biobank",
-      "date": "2026-07-01",
+      "date": "2026-06-30",
       "hour": 14,
       "startMin": 0,
       "duration": 0.5,
@@ -1600,7 +1600,7 @@
     {
       "id": "ezz1h8p60akmqoowz5g",
       "title": "BEACON slides",
-      "date": "2026-07-01",
+      "date": "2026-06-30",
       "hour": 15,
       "startMin": 0,
       "duration": 1,
