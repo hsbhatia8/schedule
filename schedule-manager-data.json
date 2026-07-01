@@ -746,7 +746,7 @@
     {
       "id": "0hx26yapijf4mpya2b3j",
       "title": "BEACON",
-      "date": "2026-07-02",
+      "date": "2026-07-09",
       "hour": 12,
       "duration": 1.5,
       "type": "manual",
@@ -761,7 +761,8 @@
         "2026-06-04",
         "2026-06-11",
         "2026-06-18",
-        "2026-06-25"
+        "2026-06-25",
+        "2026-07-02"
       ],
       "doneExceptions": [
         "2026-06-18"
@@ -1935,8 +1936,8 @@
       "id": "lkvok7gw2jpmr1a8id4",
       "title": "MASALA Lp(A)",
       "date": "2026-07-02",
-      "hour": 9,
-      "startMin": 0,
+      "hour": 12,
+      "startMin": 30,
       "duration": 0.5,
       "color": "gold",
       "taskId": "cnywi2v0zn9mr1a865z",
