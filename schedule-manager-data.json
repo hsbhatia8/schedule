@@ -1941,6 +1941,12 @@
   "projects": {
     "active": [
       {
+        "id": "ms2cz7jt9nmpyabuo9",
+        "name": "MASALA Lp(a)",
+        "tag": "Active",
+        "date": ""
+      },
+      {
         "id": "kfzlxdloatcmpyai8od",
         "name": "High HDL-C CAC",
         "tag": "Active",
@@ -1980,12 +1986,6 @@
         "id": "ms3eco254npmpyaj7w2",
         "name": "apoB thresholds",
         "tag": "On Hold",
-        "date": ""
-      },
-      {
-        "id": "ms2cz7jt9nmpyabuo9",
-        "name": "MASALA Lp(a)",
-        "tag": "Active",
         "date": ""
       }
     ],
