@@ -793,7 +793,8 @@
       "startMin": 30,
       "doneExceptions": [
         "2026-06-18",
-        "2026-06-25"
+        "2026-06-25",
+        "2026-07-02"
       ]
     },
     {
@@ -1592,8 +1593,8 @@
     {
       "id": "ezz1h8p60akmqoowz5g",
       "title": "BEACON slides",
-      "date": "2026-07-02",
-      "hour": 13,
+      "date": "2026-07-03",
+      "hour": 10,
       "startMin": 30,
       "duration": 1,
       "color": "red",
