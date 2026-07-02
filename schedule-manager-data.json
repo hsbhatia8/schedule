@@ -27,18 +27,6 @@
         "nextRecur": null
       },
       {
-        "id": "9ih7i1bn9xdmr1acgh8",
-        "text": "Lp(a) MI paper",
-        "done": true,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "16uws4d4t4vmr3u8u5s",
         "text": "Lp(a) CAC timing",
         "done": false,
