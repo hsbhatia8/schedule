@@ -63,6 +63,18 @@
         "nextRecur": null
       },
       {
+        "id": "wco5eerbe6mr3ukh54",
+        "text": "Lp(a) stroke",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "gteq41yw1qkmqooyvwu",
         "text": "HDL-C CAC",
         "done": false,
