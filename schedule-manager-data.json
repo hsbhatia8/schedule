@@ -122,16 +122,6 @@
     ],
     "later": [
       {
-        "id": "kwrrqt016esmpx9nzcz",
-        "text": "UK Biobank",
-        "done": false,
-        "date": null,
-        "color": "orange",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": null
-      },
-      {
         "id": "aq1fy5q9r4cmpx9nvzd",
         "text": "Update CV",
         "done": false,
