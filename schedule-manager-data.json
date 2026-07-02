@@ -358,6 +358,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "iayp0yymr6mr3tugjq",
+        "text": "Prevention student",
+        "done": false,
+        "date": "2026-07-27",
+        "color": "red",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ]
   },
@@ -1932,6 +1944,19 @@
       "duration": 0.5,
       "color": "gold",
       "taskId": "9ih7i1bn9xdmr1acgh8",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "kvtm8wlclrmr3tugjq",
+      "title": "Prevention student",
+      "date": "2026-07-27",
+      "hour": 17,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
       "done": false,
       "recurring": false,
       "recurDays": [],
