@@ -1552,7 +1552,7 @@
       "duration": 0.5,
       "color": "orange",
       "taskId": "kwrrqt016esmpx9nzcz",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
