@@ -2040,6 +2040,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "q8h8pg5rdkmr5rho9z",
+      "title": "Review LS7 AVC",
+      "date": "2026-07-07",
+      "hour": 14,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "gold",
+      "taskId": "hx68kuk3s8jmqwyqbcj",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
