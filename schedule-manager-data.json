@@ -2054,6 +2054,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "yrlzgt3ygxmr5rhrhx",
+      "title": "Lp(a) stroke",
+      "date": "2026-07-07",
+      "hour": 15,
+      "startMin": 0,
+      "duration": 1,
+      "color": "gold",
+      "taskId": "wco5eerbe6mr3ukh54",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
