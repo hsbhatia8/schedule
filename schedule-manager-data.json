@@ -1984,6 +1984,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "r55ohlekfvmr5rgnrw",
+      "title": "MASALA Lp(A)",
+      "date": "2026-07-07",
+      "hour": 14,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "gold",
+      "taskId": "cnywi2v0zn9mr1a865z",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
