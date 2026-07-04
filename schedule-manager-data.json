@@ -1953,6 +1953,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "g4db091tsgmr5rfgms",
+      "title": "BEACON",
+      "date": "2026-07-08",
+      "hour": 8,
+      "startMin": 0,
+      "duration": 7.5,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
