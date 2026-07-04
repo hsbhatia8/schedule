@@ -2122,6 +2122,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "b63yu3yk83pmr5rjzd4",
+      "title": "FH white paper",
+      "date": "2026-07-08",
+      "hour": 15,
+      "startMin": 30,
+      "duration": 1,
+      "color": "orange",
+      "taskId": "7o1xzndevamr5rjn5n",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
