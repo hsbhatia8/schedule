@@ -1522,7 +1522,7 @@
       "duration": 0.5,
       "color": "orange",
       "taskId": "xzkrif7zkzfmpx9chcu",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -1536,7 +1536,7 @@
       "duration": 0.5,
       "color": "orange",
       "taskId": "xwokanuo2smqjnulu5",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -1578,7 +1578,7 @@
       "duration": 0.5,
       "color": "orange",
       "taskId": "aq1fy5q9r4cmpx9nvzd",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -1874,7 +1874,7 @@
       "duration": 1,
       "color": "gold",
       "taskId": "gteq41yw1qkmqooyvwu",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
