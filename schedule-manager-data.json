@@ -712,7 +712,7 @@
     {
       "id": "uczkfyl7zpqmpya1c6l",
       "title": "BEACON data",
-      "date": "2026-07-01",
+      "date": "2026-07-08",
       "hour": 14,
       "duration": 1,
       "type": "manual",
@@ -726,6 +726,9 @@
       "doneExceptions": [
         "2026-06-10",
         "2026-07-08"
+      ],
+      "recurExceptions": [
+        "2026-07-01"
       ]
     },
     {
