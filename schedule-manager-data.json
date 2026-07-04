@@ -11,7 +11,8 @@
         "recurHour": 9,
         "color": "orange",
         "calDoneExceptions": [
-          "2026-06-26"
+          "2026-06-26",
+          "2026-07-03"
         ]
       },
       {
@@ -1939,7 +1940,7 @@
       "duration": 0.5,
       "color": "gold",
       "taskId": "cnywi2v0zn9mr1a865z",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
