@@ -1998,6 +1998,34 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "e797eshczrfmr5rh29y",
+      "title": "Update CV",
+      "date": "2026-07-09",
+      "hour": 16,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "orange",
+      "taskId": "aq1fy5q9r4cmpx9nvzd",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "w9xixmm5f6mr5rh57v",
+      "title": "Contact FG life",
+      "date": "2026-07-10",
+      "hour": 9,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "blue",
+      "taskId": "37ofu7l9dvjmpx9o2wd",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
