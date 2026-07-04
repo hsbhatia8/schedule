@@ -118,6 +118,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "7o1xzndevamr5rjn5n",
+        "text": "FH white paper",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
