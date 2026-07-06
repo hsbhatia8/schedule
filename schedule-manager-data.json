@@ -315,18 +315,6 @@
         "nextRecur": null
       },
       {
-        "id": "9a1b5l624fmqoi0sm6",
-        "text": "ATH Review",
-        "done": true,
-        "date": "2026-07-05",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "9hk2sr8i7vfmqsbrbr5",
         "text": "Prevention email",
         "done": false,
