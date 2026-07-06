@@ -2059,9 +2059,9 @@
     {
       "id": "yrlzgt3ygxmr5rhrhx",
       "title": "Lp(a) stroke",
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "hour": 15,
-      "startMin": 0,
+      "startMin": 30,
       "duration": 1,
       "color": "gold",
       "taskId": "wco5eerbe6mr3ukh54",
@@ -2115,8 +2115,8 @@
     {
       "id": "b63yu3yk83pmr5rjzd4",
       "title": "FH white paper",
-      "date": "2026-07-08",
-      "hour": 16,
+      "date": "2026-07-07",
+      "hour": 15,
       "startMin": 0,
       "duration": 1,
       "color": "orange",
