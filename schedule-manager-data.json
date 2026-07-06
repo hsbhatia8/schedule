@@ -2181,6 +2181,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "yosmnhp380pmr8nyuw4",
+      "title": "RPPR",
+      "date": "2026-07-09",
+      "hour": 9,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "red",
+      "taskId": "93c236pulzmmpxamp96",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
