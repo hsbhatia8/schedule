@@ -315,18 +315,6 @@
         "nextRecur": null
       },
       {
-        "id": "v8r6dto99nmqlhq5s1",
-        "text": "JCL Review",
-        "done": false,
-        "date": "2026-07-03",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "9a1b5l624fmqoi0sm6",
         "text": "ATH Review",
         "done": false,
