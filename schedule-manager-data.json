@@ -665,7 +665,7 @@
     {
       "id": "iyzp8kqbw8fmpya0uup",
       "title": "Block",
-      "date": "2026-07-07",
+      "date": "2026-07-14",
       "hour": 13,
       "duration": 1,
       "type": "manual",
@@ -686,7 +686,8 @@
         "2026-06-09",
         "2026-06-16",
         "2026-06-23",
-        "2026-06-30"
+        "2026-06-30",
+        "2026-07-07"
       ]
     },
     {
@@ -1969,7 +1970,7 @@
       "id": "r55ohlekfvmr5rgnrw",
       "title": "MASALA Lp(A)",
       "date": "2026-07-07",
-      "hour": 14,
+      "hour": 13,
       "startMin": 0,
       "duration": 0.5,
       "color": "gold",
@@ -2025,7 +2026,7 @@
       "id": "q8h8pg5rdkmr5rho9z",
       "title": "Review LS7 AVC",
       "date": "2026-07-07",
-      "hour": 14,
+      "hour": 13,
       "startMin": 30,
       "duration": 0.5,
       "color": "gold",
