@@ -2163,7 +2163,7 @@
       "duration": 0.5,
       "color": "red",
       "taskId": "t8zej63flpmqli8hwn",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
