@@ -2113,7 +2113,7 @@
       "duration": 1,
       "color": "orange",
       "taskId": "7o1xzndevamr5rjn5n",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
