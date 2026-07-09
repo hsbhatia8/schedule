@@ -2064,20 +2064,6 @@
       "recurExceptions": []
     },
     {
-      "id": "xe13v7ygpximr5rhv8f",
-      "title": "HDL-C CAC",
-      "date": "2026-07-09",
-      "hour": 10,
-      "startMin": 0,
-      "duration": 2,
-      "color": "gold",
-      "taskId": "gteq41yw1qkmqooyvwu",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
       "id": "pikk2002iormr5ri1kp",
       "title": "R01",
       "date": "2026-07-09",
