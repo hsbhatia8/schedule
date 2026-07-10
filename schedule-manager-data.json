@@ -110,30 +110,6 @@
         "nextRecur": null
       },
       {
-        "id": "7o1xzndevamr5rjn5n",
-        "text": "FH white paper",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "1xg65ivf5mxmrf3ipqg",
-        "text": "T32 questions",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "ifamxnl1a1mrf3t8go",
         "text": "T32 paperwork by Aug 5",
         "done": false,
