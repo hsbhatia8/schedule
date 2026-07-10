@@ -2456,6 +2456,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "uvuhfmnezqmrfl0lf9",
+      "title": "Cosmos MS",
+      "date": "2026-07-16",
+      "hour": 13,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
