@@ -745,7 +745,8 @@
         "2026-06-11",
         "2026-06-18",
         "2026-06-25",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-16"
       ],
       "doneExceptions": [
         "2026-06-18",
@@ -2217,7 +2218,7 @@
       "date": "2026-07-16",
       "hour": 10,
       "startMin": 0,
-      "duration": 1,
+      "duration": 2,
       "color": "gold",
       "taskId": "gteq41yw1qkmqooyvwu",
       "done": false,
