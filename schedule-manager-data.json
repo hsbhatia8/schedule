@@ -2310,6 +2310,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "2euyra71d25mrfks529",
+      "title": "Lunch",
+      "date": "2026-07-16",
+      "hour": 12,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
