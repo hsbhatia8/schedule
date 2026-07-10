@@ -2206,6 +2206,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "uy4juok7c4mrfkn040",
+      "title": "Lilly",
+      "date": "2026-07-15",
+      "hour": 14,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
