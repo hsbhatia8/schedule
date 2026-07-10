@@ -17,6 +17,18 @@
         ]
       },
       {
+        "id": "k2y3ih26ehfmrfkt8b3",
+        "text": "BEACON score",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "cnywi2v0zn9mr1a865z",
         "text": "MASALA Lp(A)",
         "done": false,
@@ -115,18 +127,6 @@
         "done": false,
         "date": "",
         "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "k2y3ih26ehfmrfkt8b3",
-        "text": "BEACON score",
-        "done": false,
-        "date": "",
-        "color": "gold",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
@@ -2359,6 +2359,20 @@
       "duration": 0.5,
       "color": "blue",
       "taskId": "ar141xerkwampx9oqd6",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "ptbhik918zomrfktc65",
+      "title": "BEACON score",
+      "date": "2026-07-15",
+      "hour": 10,
+      "startMin": 0,
+      "duration": 1,
+      "color": "gold",
+      "taskId": "k2y3ih26ehfmrfkt8b3",
       "done": false,
       "recurring": false,
       "recurDays": [],
