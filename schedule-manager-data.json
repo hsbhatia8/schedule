@@ -2277,6 +2277,20 @@
         2
       ],
       "recurExceptions": []
+    },
+    {
+      "id": "wvjk7xg82xomrfkpfvg",
+      "title": "R01",
+      "date": "2026-07-15",
+      "hour": 14,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "orange",
+      "taskId": "xzkrif7zkzfmpx9chcu",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
