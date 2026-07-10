@@ -2417,6 +2417,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "yig3tjvvvarmrfkus0v",
+      "title": "AJPC editorial",
+      "date": "2026-07-16",
+      "hour": 11,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "taskId": "5ojf4j5h0n7mqi70wta",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
