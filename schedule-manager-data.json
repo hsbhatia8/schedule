@@ -359,6 +359,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "lcz7nt54r5mmrfkwmni",
+        "text": "JACC Adv Review",
+        "done": false,
+        "date": "2026-07-20",
+        "color": "red",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ]
   },
@@ -2427,6 +2439,19 @@
       "duration": 1,
       "color": "red",
       "taskId": "5ojf4j5h0n7mqi70wta",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "kzhti7ij34mrfkwmnj",
+      "title": "JACC Adv Review",
+      "date": "2026-07-20",
+      "hour": 17,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
       "done": false,
       "recurring": false,
       "recurDays": [],
