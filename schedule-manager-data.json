@@ -2298,20 +2298,6 @@
       "recurExceptions": []
     },
     {
-      "id": "n7xiupsf7tmrfkrrix",
-      "title": "Lp(a) stroke",
-      "date": "2026-07-15",
-      "hour": 10,
-      "startMin": 0,
-      "duration": 1,
-      "color": "gold",
-      "taskId": "wco5eerbe6mr3ukh54",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
       "id": "2euyra71d25mrfks529",
       "title": "Lunch",
       "date": "2026-07-16",
