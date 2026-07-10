@@ -2262,6 +2262,21 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "urdbcug4qemrfkp9i6",
+      "title": "Admin",
+      "date": "2026-07-15",
+      "hour": 8,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": true,
+      "recurDays": [
+        2
+      ],
+      "recurExceptions": []
     }
   ],
   "projects": {
