@@ -766,7 +766,8 @@
         "2026-07-02"
       ],
       "doneExceptions": [
-        "2026-06-18"
+        "2026-06-18",
+        "2026-07-09"
       ]
     },
     {
@@ -790,7 +791,8 @@
       "doneExceptions": [
         "2026-06-18",
         "2026-06-25",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-09"
       ]
     },
     {
@@ -1975,7 +1977,7 @@
       "startMin": 30,
       "duration": 1,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -2053,9 +2055,9 @@
     {
       "id": "yrlzgt3ygxmr5rhrhx",
       "title": "Lp(a) stroke",
-      "date": "2026-07-09",
-      "hour": 16,
-      "startMin": 30,
+      "date": "2026-07-10",
+      "hour": 11,
+      "startMin": 0,
       "duration": 1,
       "color": "gold",
       "taskId": "wco5eerbe6mr3ukh54",
@@ -2067,9 +2069,9 @@
     {
       "id": "pikk2002iormr5ri1kp",
       "title": "R01",
-      "date": "2026-07-09",
-      "hour": 16,
-      "startMin": 0,
+      "date": "2026-07-10",
+      "hour": 10,
+      "startMin": 30,
       "duration": 0.5,
       "color": "orange",
       "taskId": "xzkrif7zkzfmpx9chcu",
@@ -2081,7 +2083,7 @@
     {
       "id": "5bvzqk3shqkmr5rioc2",
       "title": "Update BIOLINCC CARDIA CAC",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "hour": 9,
       "startMin": 30,
       "duration": 0.5,
@@ -2110,7 +2112,7 @@
       "id": "pm1wxdcvxkpmr5rk8mx",
       "title": "Journal Reviews",
       "date": "2026-07-10",
-      "hour": 12,
+      "hour": 10,
       "startMin": 0,
       "duration": 0.5,
       "color": "orange",
@@ -2192,10 +2194,10 @@
     {
       "id": "elti0aftk4mrdq0rwu",
       "title": "MASALA Lp(A)",
-      "date": "2026-07-09",
-      "hour": 10,
+      "date": "2026-07-10",
+      "hour": 9,
       "startMin": 0,
-      "duration": 1,
+      "duration": 0.5,
       "color": "gold",
       "taskId": "cnywi2v0zn9mr1a865z",
       "done": false,
