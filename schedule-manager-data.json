@@ -545,12 +545,13 @@
     {
       "id": "5p57qkzv87mpxamhnz",
       "title": "⏰ UCSD training",
-      "date": "2026-07-13",
+      "date": "2026-07-16",
       "hour": 17,
       "duration": 0.5,
       "type": "task",
       "taskId": "yw2nclya47mpxamhnz",
-      "done": false
+      "done": false,
+      "startMin": 0
     },
     {
       "id": "qoehz6t1659mpxamp96",
