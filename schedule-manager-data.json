@@ -111,6 +111,18 @@
         "nextRecur": null
       },
       {
+        "id": "3oo8yw8ud1imrkw05zc",
+        "text": "E&I",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "u7z3g6mpz6mmpx8eo73",
         "text": "Post doc",
         "done": false,
@@ -136,18 +148,6 @@
       {
         "id": "ifamxnl1a1mrf3t8go",
         "text": "T32 paperwork by Aug 5",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "3oo8yw8ud1imrkw05zc",
-        "text": "E&I",
         "done": false,
         "date": "",
         "color": "orange",
