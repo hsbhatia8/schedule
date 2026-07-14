@@ -325,18 +325,6 @@
         "nextRecur": null
       },
       {
-        "id": "jlfizrmx92mqzdxy3s",
-        "text": "EHJ Review",
-        "done": false,
-        "date": "2026-07-08",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "iayp0yymr6mr3tugjq",
         "text": "Prevention student",
         "done": false,
@@ -651,7 +639,8 @@
       "doneExceptions": [
         "2026-06-08",
         "2026-06-22",
-        "2026-07-06"
+        "2026-07-06",
+        "2026-07-13"
       ],
       "recurExceptions": [
         "2026-06-01",
@@ -2493,7 +2482,7 @@
       "duration": 1,
       "color": "red",
       "taskId": "jlfizrmx92mqzdxy3s",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
