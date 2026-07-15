@@ -2332,7 +2332,10 @@
       "recurDays": [
         2
       ],
-      "recurExceptions": []
+      "recurExceptions": [],
+      "doneExceptions": [
+        "2026-07-15"
+      ]
     },
     {
       "id": "wvjk7xg82xomrfkpfvg",
