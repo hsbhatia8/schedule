@@ -230,15 +230,6 @@
         "nextRecur": null
       },
       {
-        "id": "yw2nclya47mpxamhnz",
-        "text": "UCSD training",
-        "done": false,
-        "date": "2026-07-13",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": null
-      },
-      {
         "id": "jlz3k3r2yjsmpxamzp3",
         "text": "SCI",
         "done": false,
@@ -565,7 +556,7 @@
       "duration": 0.5,
       "type": "task",
       "taskId": "yw2nclya47mpxamhnz",
-      "done": false,
+      "done": true,
       "startMin": 0
     },
     {
