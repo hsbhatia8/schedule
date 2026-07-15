@@ -101,7 +101,7 @@
       {
         "id": "xwokanuo2smqjnulu5",
         "text": "Update BIOLINCC CARDIA CAC",
-        "done": false,
+        "done": true,
         "date": "",
         "color": "orange",
         "recurring": false,
@@ -2246,7 +2246,7 @@
       "startMin": 0,
       "duration": 1,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -2606,7 +2606,7 @@
       "duration": 0.5,
       "color": "orange",
       "taskId": "xwokanuo2smqjnulu5",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
