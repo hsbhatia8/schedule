@@ -812,9 +812,9 @@
     {
       "id": "h8ymgiz853mmpya2tug",
       "title": "Fellowship",
-      "date": "2026-06-18",
-      "hour": 14,
-      "duration": 1.5,
+      "date": "2026-07-16",
+      "hour": 15,
+      "duration": 1,
       "type": "manual",
       "color": "red",
       "recurring": true,
@@ -826,7 +826,7 @@
         "2026-06-04",
         "2026-06-11"
       ],
-      "startMin": 30,
+      "startMin": 0,
       "doneExceptions": [
         "2026-06-18",
         "2026-06-25",
