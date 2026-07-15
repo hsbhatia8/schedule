@@ -99,18 +99,6 @@
         "recurHour": null
       },
       {
-        "id": "xwokanuo2smqjnulu5",
-        "text": "Update BIOLINCC CARDIA CAC",
-        "done": true,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "3oo8yw8ud1imrkw05zc",
         "text": "E&I",
         "done": false,
