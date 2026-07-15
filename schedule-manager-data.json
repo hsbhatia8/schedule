@@ -398,6 +398,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "09f3hii3a0bamrm87ylq",
+        "text": "EJPC Review",
+        "done": false,
+        "date": "2026-07-24",
+        "color": "red",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ]
   },
@@ -2564,6 +2576,19 @@
       "duration": 0.5,
       "color": "gold",
       "taskId": "cnywi2v0zn9mr1a865z",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "lcso1avq2jcmrm87ylq",
+      "title": "EJPC Review",
+      "date": "2026-07-24",
+      "hour": 17,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
       "done": false,
       "recurring": false,
       "recurDays": [],
