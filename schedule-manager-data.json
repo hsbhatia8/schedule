@@ -2431,7 +2431,7 @@
       "duration": 0.5,
       "color": "gold",
       "taskId": "k2y3ih26ehfmrfkt8b3",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -2561,8 +2561,8 @@
     {
       "id": "ye5gtp4sy7smrl6tfv6",
       "title": "MASALA Lp(A)",
-      "date": "2026-07-15",
-      "hour": 14,
+      "date": "2026-07-16",
+      "hour": 11,
       "startMin": 0,
       "duration": 0.5,
       "color": "gold",
