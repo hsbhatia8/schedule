@@ -2263,20 +2263,6 @@
       "recurExceptions": []
     },
     {
-      "id": "tr55qbtic6qmrfkopk2",
-      "title": "HDL-C CAC",
-      "date": "2026-07-16",
-      "hour": 11,
-      "startMin": 30,
-      "duration": 0.5,
-      "color": "gold",
-      "taskId": "gteq41yw1qkmqooyvwu",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
       "id": "kvepjdrgm3mrfkor0q",
       "title": "HDL-C CAC",
       "date": "2026-07-15",
@@ -2344,7 +2330,7 @@
       "startMin": 0,
       "duration": 1,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
