@@ -2591,6 +2591,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "okk8q3g4ximrp8iy3z",
+      "title": "Update CV",
+      "date": "2026-08-28",
+      "hour": 9,
+      "startMin": 0,
+      "duration": 1,
+      "color": "orange",
+      "taskId": "aq1fy5q9r4cmpx9nvzd",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
