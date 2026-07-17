@@ -99,6 +99,18 @@
         "nextRecur": null
       },
       {
+        "id": "37mqddnmgadmrp3z82b",
+        "text": "Lp(a) stroke",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "m4pu2gljw3mrp3s4mf",
         "text": "HF insulin paper",
         "done": false,
@@ -163,18 +175,6 @@
         "done": false,
         "date": "",
         "color": "blue",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "37mqddnmgadmrp3z82b",
-        "text": "Lp(a) stroke",
-        "done": false,
-        "date": "",
-        "color": "gold",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
