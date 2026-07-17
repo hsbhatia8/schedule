@@ -2686,6 +2686,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "tj3rkgqaqsemrp9jxur",
+      "title": "HF insulin paper",
+      "date": "2026-07-23",
+      "hour": 10,
+      "startMin": 0,
+      "duration": 1,
+      "color": "gold",
+      "taskId": "m4pu2gljw3mrp3s4mf",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
