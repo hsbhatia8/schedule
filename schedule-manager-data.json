@@ -2591,6 +2591,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "gpmkf9rdw0nmrp9hd7a",
+      "title": "FSR",
+      "date": "2026-07-21",
+      "hour": 15,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
