@@ -389,6 +389,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "4oq1sokew8smrp3ufi2",
+        "text": "Med Review",
+        "done": false,
+        "date": "2026-07-27",
+        "color": "red",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ]
   },
@@ -2562,6 +2574,19 @@
       "duration": 1,
       "color": "gold",
       "taskId": "gteq41yw1qkmqooyvwu",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "ovthn0ubgalmrp3ufi2",
+      "title": "Med Review",
+      "date": "2026-07-27",
+      "hour": 17,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
       "done": false,
       "recurring": false,
       "recurDays": [],
