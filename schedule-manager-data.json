@@ -2617,6 +2617,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "o90dn82stdmrp9idj5",
+      "title": "CVC meeting",
+      "date": "2026-07-23",
+      "hour": 14,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
