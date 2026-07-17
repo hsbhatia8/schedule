@@ -185,16 +185,6 @@
     ],
     "later": [
       {
-        "id": "aq1fy5q9r4cmpx9nvzd",
-        "text": "Update CV",
-        "done": false,
-        "date": null,
-        "color": "orange",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": null
-      },
-      {
         "id": "37ofu7l9dvjmpx9o2wd",
         "text": "Contact FG life",
         "done": false,
@@ -239,6 +229,16 @@
         "text": "Residual risk idea",
         "done": false,
         "date": null
+      },
+      {
+        "id": "aq1fy5q9r4cmpx9nvzd",
+        "text": "Update CV",
+        "done": false,
+        "date": null,
+        "color": "orange",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
       }
     ],
     "deadlines": [
