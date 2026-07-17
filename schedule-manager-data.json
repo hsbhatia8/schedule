@@ -2604,6 +2604,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "5653mhljljjmrp9i05f",
+      "title": "Fellows Clinic",
+      "date": "2026-07-22",
+      "hour": 13,
+      "startMin": 0,
+      "duration": 4,
+      "color": "purple",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
