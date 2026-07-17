@@ -53,6 +53,18 @@
         "nextRecur": null
       },
       {
+        "id": "3oo8yw8ud1imrkw05zc",
+        "text": "E&I",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "16uws4d4t4vmr3u8u5s",
         "text": "Lp(a) CAC timing",
         "done": false,
@@ -109,18 +121,6 @@
         "recurring": false,
         "recurDay": null,
         "recurHour": null
-      },
-      {
-        "id": "3oo8yw8ud1imrkw05zc",
-        "text": "E&I",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       },
       {
         "id": "inmmq1h3mxlmrl3h90k",
