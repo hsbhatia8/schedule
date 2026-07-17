@@ -2403,20 +2403,6 @@
       "recurExceptions": []
     },
     {
-      "id": "uvj8mugqc5cmrfktzn0",
-      "title": "BEACON cohort",
-      "date": "2026-07-17",
-      "hour": 14,
-      "startMin": 0,
-      "duration": 1,
-      "color": "orange",
-      "taskId": "u3g8iiiyv6mrfktqd2",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
       "id": "87d660nehv3mrfku79j",
       "title": "Journal Reviews",
       "date": "2026-07-17",
