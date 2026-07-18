@@ -2791,12 +2791,6 @@
   "projects": {
     "active": [
       {
-        "id": "ms2cz7jt9nmpyabuo9",
-        "name": "MASALA Lp(a)",
-        "tag": "Active",
-        "date": ""
-      },
-      {
         "id": "pssu7n9prjdmpyahz1r",
         "name": "Lp(a) CAC Timing",
         "tag": "Active",
@@ -2906,6 +2900,12 @@
         "id": "rbwsrbx4k3rmpyaif7p",
         "name": "Lp(a) First Events",
         "tag": "None",
+        "date": ""
+      },
+      {
+        "id": "ms2cz7jt9nmpyabuo9",
+        "name": "MASALA Lp(a)",
+        "tag": "Active",
         "date": ""
       }
     ],
