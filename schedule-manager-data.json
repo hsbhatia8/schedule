@@ -2891,16 +2891,16 @@
         "date": "Jun 2026"
       },
       {
-        "id": "uvh5pyuloimmpyajh2a",
-        "name": "Statin allocation",
-        "tag": "Submitted",
-        "date": "JACC Adv July 17 2026"
-      },
-      {
         "id": "ms2cz7jt9nmpyabuo9",
         "name": "MASALA Lp(a)",
         "tag": "Submitted",
         "date": "R1 Jul 17 2026"
+      },
+      {
+        "id": "uvh5pyuloimmpyajh2a",
+        "name": "Statin allocation",
+        "tag": "Submitted",
+        "date": "JACC Adv July 17 2026"
       },
       {
         "id": "rbwsrbx4k3rmpyaif7p",
