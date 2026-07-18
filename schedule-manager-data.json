@@ -2897,16 +2897,16 @@
         "date": "July 15 2026"
       },
       {
-        "id": "rbwsrbx4k3rmpyaif7p",
-        "name": "Lp(a) First Events",
-        "tag": "None",
-        "date": ""
-      },
-      {
         "id": "ms2cz7jt9nmpyabuo9",
         "name": "MASALA Lp(a)",
         "tag": "Submitted",
         "date": "R1 Jul 2026"
+      },
+      {
+        "id": "rbwsrbx4k3rmpyaif7p",
+        "name": "Lp(a) First Events",
+        "tag": "None",
+        "date": ""
       }
     ],
     "completed": []
