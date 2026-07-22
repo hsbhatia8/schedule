@@ -2319,24 +2319,6 @@
       "recurExceptions": []
     },
     {
-      "id": "urdbcug4qemrfkp9i6",
-      "title": "Admin",
-      "date": "2026-07-15",
-      "hour": 8,
-      "startMin": 0,
-      "duration": 1,
-      "color": "red",
-      "done": false,
-      "recurring": true,
-      "recurDays": [
-        2
-      ],
-      "recurExceptions": [],
-      "doneExceptions": [
-        "2026-07-15"
-      ]
-    },
-    {
       "id": "7bmga4l6b6pmrfkpmxw",
       "title": "Update BIOLINCC CARDIA CAC",
       "date": "2026-07-14",
