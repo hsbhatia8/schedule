@@ -38,18 +38,6 @@
         "nextRecur": null
       },
       {
-        "id": "16uws4d4t4vmr3u8u5s",
-        "text": "Lp(a) CAC timing",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "37mqddnmgadmrp3z82b",
         "text": "Lp(a) stroke",
         "done": false,
