@@ -3061,10 +3061,6 @@
       {
         "id": "e300fyh0ctqmq0hafct",
         "text": "BIOLINCC"
-      },
-      {
-        "id": "alp2yroh9jhmq0haiz0",
-        "text": "HDL-C CAC"
       }
     ],
     "iproj-active": [
@@ -3087,6 +3083,10 @@
       {
         "id": "fgdlms1wtd8mq0h9rx1",
         "text": "MASALA Lp(a) levels"
+      },
+      {
+        "id": "alp2yroh9jhmq0haiz0",
+        "text": "HDL-C CAC"
       }
     ],
     "iproj-completed": [
