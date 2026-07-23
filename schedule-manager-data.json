@@ -2815,6 +2815,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "e79qp4dznwvmrxo06qj",
+      "title": "Lp(a) CAC timing",
+      "date": "2026-07-23",
+      "hour": 9,
+      "startMin": 0,
+      "duration": 1,
+      "color": "gold",
+      "taskId": "16uws4d4t4vmr3u8u5s",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
