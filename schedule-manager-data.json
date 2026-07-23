@@ -3031,24 +3031,8 @@
     ],
     "cohort": [
       {
-        "id": "dln9izfptd7mq0h94j7",
-        "text": "New CAC"
-      },
-      {
-        "id": "534u4n3suaomq0h9db7",
-        "text": "Statin allocation"
-      },
-      {
         "id": "r6ivzi3h8shmq0h9gyt",
         "text": "SA registry"
-      },
-      {
-        "id": "xx0vnc6smq0h9lbw",
-        "text": "Lp(a) CAC timing"
-      },
-      {
-        "id": "ncvoftvcpddmq0h9xpl",
-        "text": "High Lp(a) bleeding"
       },
       {
         "id": "bpcu23i9ekvmq0hab69",
@@ -3087,6 +3071,22 @@
       {
         "id": "ha7ger8iz0vmq0ha50r",
         "text": "Carotid US Lp(a)"
+      },
+      {
+        "id": "ncvoftvcpddmq0h9xpl",
+        "text": "High Lp(a) bleeding"
+      },
+      {
+        "id": "xx0vnc6smq0h9lbw",
+        "text": "Lp(a) CAC timing"
+      },
+      {
+        "id": "534u4n3suaomq0h9db7",
+        "text": "Statin allocation"
+      },
+      {
+        "id": "dln9izfptd7mq0h94j7",
+        "text": "New CAC"
       }
     ],
     "iproj-completed": [
