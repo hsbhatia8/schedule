@@ -356,18 +356,6 @@
         "nextRecur": null
       },
       {
-        "id": "lcz7nt54r5mmrfkwmni",
-        "text": "JACC Adv Review",
-        "done": false,
-        "date": "2026-07-20",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "9d9twxhf24mrl3309l",
         "text": "EJPC Review",
         "done": false,
