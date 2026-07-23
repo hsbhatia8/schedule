@@ -2825,7 +2825,7 @@
       "duration": 1,
       "color": "gold",
       "taskId": "16uws4d4t4vmr3u8u5s",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
