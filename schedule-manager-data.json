@@ -108,6 +108,18 @@
         "nextRecur": null
       },
       {
+        "id": "rnr7rgx05xdmrxrd0ss",
+        "text": "Lp(a) carotid",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "u7z3g6mpz6mmpx8eo73",
         "text": "Post doc",
         "done": false,
@@ -169,18 +181,6 @@
           "2026-07-10",
           "2026-07-17"
         ]
-      },
-      {
-        "id": "rnr7rgx05xdmrxrd0ss",
-        "text": "Lp(a) carotid",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       }
     ],
     "later": [
