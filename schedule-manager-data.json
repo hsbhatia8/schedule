@@ -2852,7 +2852,7 @@
       "duration": 1,
       "color": "orange",
       "taskId": "6kpgu762j5rmpx9ov6t",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
