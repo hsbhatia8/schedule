@@ -26,11 +26,11 @@
         "nextRecur": null
       },
       {
-        "id": "3oo8yw8ud1imrkw05zc",
-        "text": "E&I",
+        "id": "37mqddnmgadmrp3z82b",
+        "text": "Lp(a) stroke",
         "done": false,
         "date": "",
-        "color": "orange",
+        "color": "gold",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
@@ -38,11 +38,11 @@
         "nextRecur": null
       },
       {
-        "id": "37mqddnmgadmrp3z82b",
-        "text": "Lp(a) stroke",
+        "id": "3oo8yw8ud1imrkw05zc",
+        "text": "E&I",
         "done": false,
         "date": "",
-        "color": "gold",
+        "color": "orange",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
