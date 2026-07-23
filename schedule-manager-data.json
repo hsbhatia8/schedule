@@ -2832,6 +2832,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "2cayrhgjcibmrxthru5",
+      "title": "Prevention email",
+      "date": "2026-08-19",
+      "hour": 16,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "taskId": "9hk2sr8i7vfmqsbrbr5",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
