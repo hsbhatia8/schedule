@@ -3047,10 +3047,6 @@
         "text": "Lp(a) CAC timing"
       },
       {
-        "id": "fgdlms1wtd8mq0h9rx1",
-        "text": "MASALA Lp(a) levels"
-      },
-      {
         "id": "ncvoftvcpddmq0h9xpl",
         "text": "High Lp(a) bleeding"
       },
@@ -3087,6 +3083,10 @@
       {
         "id": "5njir86lewmq0h8u1u",
         "text": "Lp(a) first events"
+      },
+      {
+        "id": "fgdlms1wtd8mq0h9rx1",
+        "text": "MASALA Lp(a) levels"
       }
     ],
     "iproj-completed": [
