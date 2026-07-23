@@ -3051,10 +3051,6 @@
         "text": "High Lp(a) bleeding"
       },
       {
-        "id": "ha7ger8iz0vmq0ha50r",
-        "text": "Carotid US Lp(a)"
-      },
-      {
         "id": "bpcu23i9ekvmq0hab69",
         "text": "When to start LLT high Lp(a)"
       },
@@ -3087,6 +3083,10 @@
       {
         "id": "alp2yroh9jhmq0haiz0",
         "text": "HDL-C CAC"
+      },
+      {
+        "id": "ha7ger8iz0vmq0ha50r",
+        "text": "Carotid US Lp(a)"
       }
     ],
     "iproj-completed": [
