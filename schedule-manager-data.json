@@ -74,6 +74,18 @@
         "nextRecur": null
       },
       {
+        "id": "rnr7rgx05xdmrxrd0ss",
+        "text": "Lp(a) carotid",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "xzkrif7zkzfmpx9chcu",
         "text": "R01",
         "done": false,
@@ -89,18 +101,6 @@
         "done": false,
         "date": "",
         "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "rnr7rgx05xdmrxrd0ss",
-        "text": "Lp(a) carotid",
-        "done": false,
-        "date": "",
-        "color": "gold",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
