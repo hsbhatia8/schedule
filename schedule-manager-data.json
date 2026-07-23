@@ -26,18 +26,6 @@
         "nextRecur": null
       },
       {
-        "id": "37mqddnmgadmrp3z82b",
-        "text": "Lp(a) stroke",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "3oo8yw8ud1imrkw05zc",
         "text": "E&I",
         "done": false,
@@ -2635,7 +2623,7 @@
       "duration": 1,
       "color": "gold",
       "taskId": "37mqddnmgadmrp3z82b",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
