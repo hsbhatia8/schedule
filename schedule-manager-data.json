@@ -2897,6 +2897,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "tguabo0ofsrmrzeasw0",
+      "title": "Lp(a) carotid",
+      "date": "2026-07-29",
+      "hour": 15,
+      "startMin": 30,
+      "duration": 1,
+      "color": "gold",
+      "taskId": "rnr7rgx05xdmrxrd0ss",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
