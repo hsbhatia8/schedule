@@ -2662,20 +2662,6 @@
       "recurExceptions": []
     },
     {
-      "id": "nif2ofs3nymrp9kzcy",
-      "title": "Contact FG life",
-      "date": "2026-07-24",
-      "hour": 11,
-      "startMin": 0,
-      "duration": 0.5,
-      "color": "blue",
-      "taskId": "37ofu7l9dvjmpx9o2wd",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
       "id": "erda5b2bw0gmrp9le2t",
       "title": "Organize BIOLINCC",
       "date": "2026-07-24",
