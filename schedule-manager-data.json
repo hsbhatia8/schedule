@@ -829,7 +829,8 @@
       "done": false,
       "recurExceptions": [
         "2026-06-04",
-        "2026-06-11"
+        "2026-06-11",
+        "2026-07-30"
       ],
       "startMin": 0,
       "doneExceptions": [
