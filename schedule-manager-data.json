@@ -2798,6 +2798,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "pupdp0hpulsmrze2uu9",
+      "title": "Skaggs seminar",
+      "date": "2026-07-29",
+      "hour": 8,
+      "startMin": 30,
+      "duration": 2,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
