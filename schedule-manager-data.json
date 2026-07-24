@@ -38,6 +38,18 @@
         "nextRecur": null
       },
       {
+        "id": "37mqddnmgadmrp3z82b",
+        "text": "Lp(a) stroke",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "gteq41yw1qkmqooyvwu",
         "text": "HDL-C CAC",
         "done": false,
@@ -2836,6 +2848,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "jq3bhmjczhmrz3jsza",
+      "title": "BEACON email",
+      "date": "2026-07-24",
+      "hour": 11,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
@@ -2861,7 +2886,7 @@
       {
         "id": "mect6lvlc0pmpyajrjd",
         "name": "Lp(a) carotid",
-        "tag": "Active",
+        "tag": "On Hold",
         "date": ""
       },
       {
@@ -2887,7 +2912,7 @@
       {
         "id": "7gh1cvsi3g3mpyajnjz",
         "name": "Lp(a) stroke COSMOS",
-        "tag": "On Hold",
+        "tag": "Active",
         "date": ""
       },
       {
@@ -2899,7 +2924,7 @@
       {
         "id": "2h3i064fcz5mpyaqgo1",
         "name": "Insulin resistance HF",
-        "tag": "Active",
+        "tag": "On Hold",
         "date": ""
       },
       {
@@ -2994,10 +3019,6 @@
       {
         "id": "jbz6qn36e8bmq0gxv05",
         "text": "Lp(a) and DOACs"
-      },
-      {
-        "id": "keidb1q95yhmrxzua0x",
-        "text": "Molar vs mass assay risk prediction"
       }
     ],
     "ukb": [
@@ -3020,8 +3041,32 @@
     ],
     "cohort": [
       {
+        "id": "dln9izfptd7mq0h94j7",
+        "text": "New CAC"
+      },
+      {
+        "id": "534u4n3suaomq0h9db7",
+        "text": "Statin allocation"
+      },
+      {
         "id": "r6ivzi3h8shmq0h9gyt",
         "text": "SA registry"
+      },
+      {
+        "id": "xx0vnc6smq0h9lbw",
+        "text": "Lp(a) CAC timing"
+      },
+      {
+        "id": "fgdlms1wtd8mq0h9rx1",
+        "text": "MASALA Lp(a) levels"
+      },
+      {
+        "id": "ncvoftvcpddmq0h9xpl",
+        "text": "High Lp(a) bleeding"
+      },
+      {
+        "id": "ha7ger8iz0vmq0ha50r",
+        "text": "Carotid US Lp(a)"
       },
       {
         "id": "bpcu23i9ekvmq0hab69",
@@ -3032,12 +3077,8 @@
         "text": "BIOLINCC"
       },
       {
-        "id": "t5xh8hdf78mrxzv3st",
-        "text": "MASALA Lp(a) A1c"
-      },
-      {
-        "id": "ze9hhgr9kmdmrxzv9kp",
-        "text": "Cumulative LDL-C CAC 0"
+        "id": "alp2yroh9jhmq0haiz0",
+        "text": "HDL-C CAC"
       }
     ],
     "iproj-active": [
@@ -3056,34 +3097,6 @@
       {
         "id": "5njir86lewmq0h8u1u",
         "text": "Lp(a) first events"
-      },
-      {
-        "id": "fgdlms1wtd8mq0h9rx1",
-        "text": "MASALA Lp(a) levels"
-      },
-      {
-        "id": "alp2yroh9jhmq0haiz0",
-        "text": "HDL-C CAC"
-      },
-      {
-        "id": "ha7ger8iz0vmq0ha50r",
-        "text": "Carotid US Lp(a)"
-      },
-      {
-        "id": "ncvoftvcpddmq0h9xpl",
-        "text": "High Lp(a) bleeding"
-      },
-      {
-        "id": "xx0vnc6smq0h9lbw",
-        "text": "Lp(a) CAC timing"
-      },
-      {
-        "id": "534u4n3suaomq0h9db7",
-        "text": "Statin allocation"
-      },
-      {
-        "id": "dln9izfptd7mq0h94j7",
-        "text": "New CAC"
       }
     ],
     "iproj-completed": [
