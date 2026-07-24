@@ -332,18 +332,6 @@
         "nextRecur": null
       },
       {
-        "id": "gw4d6yd5hodmrb708ok",
-        "text": "JCL Review",
-        "done": true,
-        "date": "2026-07-21",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "9d9twxhf24mrl3309l",
         "text": "EJPC Review",
         "done": false,
