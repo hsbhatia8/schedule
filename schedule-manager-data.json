@@ -38,28 +38,14 @@
         "nextRecur": null
       },
       {
-        "id": "37mqddnmgadmrp3z82b",
-        "text": "Lp(a) stroke",
+        "id": "xzkrif7zkzfmpx9chcu",
+        "text": "R01",
         "done": false,
-        "date": "",
-        "color": "gold",
+        "date": null,
+        "color": "orange",
         "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "gteq41yw1qkmqooyvwu",
-        "text": "HDL-C CAC",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
+        "recurDay": null,
+        "recurHour": null
       },
       {
         "id": "m4pu2gljw3mrp3s4mf",
@@ -86,14 +72,16 @@
         "nextRecur": null
       },
       {
-        "id": "xzkrif7zkzfmpx9chcu",
-        "text": "R01",
+        "id": "gteq41yw1qkmqooyvwu",
+        "text": "HDL-C CAC",
         "done": false,
-        "date": null,
-        "color": "orange",
+        "date": "",
+        "color": "gold",
         "recurring": false,
-        "recurDay": null,
-        "recurHour": null
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       },
       {
         "id": "inmmq1h3mxlmrl3h90k",
