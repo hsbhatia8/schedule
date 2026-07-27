@@ -158,6 +158,18 @@
           "2026-07-17",
           "2026-07-24"
         ]
+      },
+      {
+        "id": "3m3qjpevg4oms2n0ngs",
+        "text": "Lp(a) stroke",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
