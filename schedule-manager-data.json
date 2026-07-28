@@ -357,18 +357,6 @@
         "nextRecur": null
       },
       {
-        "id": "09f3hii3a0bamrm87ylq",
-        "text": "EJPC Review",
-        "done": true,
-        "date": "2026-07-24",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "4oq1sokew8smrp3ufi2",
         "text": "Med Review",
         "done": false,
