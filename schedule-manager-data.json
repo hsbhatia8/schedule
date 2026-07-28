@@ -357,18 +357,6 @@
         "nextRecur": null
       },
       {
-        "id": "4oq1sokew8smrp3ufi2",
-        "text": "Med Review",
-        "done": false,
-        "date": "2026-07-27",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "5469bdm8arymrv4ovcq",
         "text": "JACC Adv revised Review",
         "done": false,
@@ -2537,7 +2525,7 @@
       "startMin": 0,
       "duration": 1,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
