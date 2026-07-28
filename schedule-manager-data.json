@@ -2900,6 +2900,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "nyfrjkmqacjms53xjl2",
+      "title": "AJPC ED",
+      "date": "2026-07-29",
+      "hour": 16,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
