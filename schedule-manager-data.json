@@ -359,7 +359,7 @@
       {
         "id": "09f3hii3a0bamrm87ylq",
         "text": "EJPC Review",
-        "done": false,
+        "done": true,
         "date": "2026-07-24",
         "color": "red",
         "recurring": false,
