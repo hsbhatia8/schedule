@@ -3079,10 +3079,6 @@
     ],
     "cohort": [
       {
-        "id": "534u4n3suaomq0h9db7",
-        "text": "Statin allocation"
-      },
-      {
         "id": "r6ivzi3h8shmq0h9gyt",
         "text": "SA registry"
       },
@@ -3135,6 +3131,10 @@
       {
         "id": "dln9izfptd7mq0h94j7",
         "text": "New CAC"
+      },
+      {
+        "id": "534u4n3suaomq0h9db7",
+        "text": "Statin allocation"
       }
     ],
     "iproj-completed": [
