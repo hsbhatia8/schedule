@@ -3085,10 +3085,6 @@
       {
         "id": "e300fyh0ctqmq0hafct",
         "text": "BIOLINCC"
-      },
-      {
-        "id": "alp2yroh9jhmq0haiz0",
-        "text": "HDL-C CAC"
       }
     ],
     "iproj-active": [
@@ -3135,6 +3131,10 @@
       {
         "id": "ha7ger8iz0vmq0ha50r",
         "text": "Carotid US Lp(a)"
+      },
+      {
+        "id": "alp2yroh9jhmq0haiz0",
+        "text": "HDL-C CAC"
       }
     ],
     "iproj-completed": [
