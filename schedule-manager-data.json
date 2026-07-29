@@ -24,6 +24,18 @@
         "recurHour": null
       },
       {
+        "id": "3oo8yw8ud1imrkw05zc",
+        "text": "E&I",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "6a96qqtcwtbms6on2j5",
         "text": "Lp(a) stroke",
         "done": false,
@@ -41,18 +53,6 @@
         "done": false,
         "date": "",
         "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "3oo8yw8ud1imrkw05zc",
-        "text": "E&I",
-        "done": false,
-        "date": "",
-        "color": "orange",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
