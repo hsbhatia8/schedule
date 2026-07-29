@@ -26,18 +26,6 @@
         "nextRecur": null
       },
       {
-        "id": "u3g8iiiyv6mrfktqd2",
-        "text": "BEACON cohort",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "xzkrif7zkzfmpx9chcu",
         "text": "R01",
         "done": false,
@@ -171,6 +159,18 @@
           "2026-07-24",
           "2026-07-29"
         ]
+      },
+      {
+        "id": "u3g8iiiyv6mrfktqd2",
+        "text": "BEACON cohort",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
