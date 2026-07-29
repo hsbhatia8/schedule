@@ -2,6 +2,18 @@
   "todos": {
     "active": [
       {
+        "id": "6a96qqtcwtbms6on2j5",
+        "text": "Lp(a) stroke",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "k2y3ih26ehfmrfkt8b3",
         "text": "BEACON score",
         "done": false,
