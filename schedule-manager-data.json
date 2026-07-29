@@ -3079,10 +3079,6 @@
     ],
     "cohort": [
       {
-        "id": "fgdlms1wtd8mq0h9rx1",
-        "text": "MASALA Lp(a) levels"
-      },
-      {
         "id": "ncvoftvcpddmq0h9xpl",
         "text": "High Lp(a) bleeding"
       },
@@ -3135,6 +3131,10 @@
       {
         "id": "xx0vnc6smq0h9lbw",
         "text": "Lp(a) CAC timing"
+      },
+      {
+        "id": "fgdlms1wtd8mq0h9rx1",
+        "text": "MASALA Lp(a) levels"
       }
     ],
     "iproj-completed": [
