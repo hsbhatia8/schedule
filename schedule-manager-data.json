@@ -334,30 +334,6 @@
         "nextRecur": null
       },
       {
-        "id": "iayp0yymr6mr3tugjq",
-        "text": "Prevention student",
-        "done": false,
-        "date": "2026-07-27",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "9d9twxhf24mrl3309l",
-        "text": "EJPC Review",
-        "done": false,
-        "date": "2026-07-28",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "5469bdm8arymrv4ovcq",
         "text": "JACC Adv revised Review",
         "done": false,
