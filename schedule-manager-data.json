@@ -84,18 +84,6 @@
         "nextRecur": null
       },
       {
-        "id": "3m3qjpevg4oms2n0ngs",
-        "text": "Lp(a) stroke",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "inmmq1h3mxlmrl3h90k",
         "text": "JACC Adv Editorial",
         "done": false,
@@ -2863,7 +2851,7 @@
       "duration": 0.5,
       "color": "gold",
       "taskId": "3m3qjpevg4oms2n0ngs",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
