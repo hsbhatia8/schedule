@@ -2895,7 +2895,7 @@
       "date": "2026-07-29",
       "hour": 15,
       "startMin": 30,
-      "duration": 1,
+      "duration": 0.5,
       "color": "gold",
       "taskId": "3m3qjpevg4oms2n0ngs",
       "done": false,
