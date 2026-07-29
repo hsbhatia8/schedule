@@ -2,6 +2,42 @@
   "todos": {
     "active": [
       {
+        "id": "rnr7rgx05xdmrxrd0ss",
+        "text": "Lp(a) carotid",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
+        "id": "gteq41yw1qkmqooyvwu",
+        "text": "HDL-C CAC",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
+        "id": "m4pu2gljw3mrp3s4mf",
+        "text": "HF insulin paper",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "u3g8iiiyv6mrfktqd2",
         "text": "BEACON cohort",
         "done": false,
@@ -50,42 +86,6 @@
       {
         "id": "k2y3ih26ehfmrfkt8b3",
         "text": "BEACON score",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "rnr7rgx05xdmrxrd0ss",
-        "text": "Lp(a) carotid",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "gteq41yw1qkmqooyvwu",
-        "text": "HDL-C CAC",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "m4pu2gljw3mrp3s4mf",
-        "text": "HF insulin paper",
         "done": false,
         "date": "",
         "color": "gold",
