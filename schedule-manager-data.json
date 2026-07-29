@@ -26,18 +26,6 @@
         "nextRecur": null
       },
       {
-        "id": "3oo8yw8ud1imrkw05zc",
-        "text": "E&I",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "xzkrif7zkzfmpx9chcu",
         "text": "R01",
         "done": false,
@@ -48,11 +36,11 @@
         "recurHour": null
       },
       {
-        "id": "m4pu2gljw3mrp3s4mf",
-        "text": "HF insulin paper",
+        "id": "3oo8yw8ud1imrkw05zc",
+        "text": "E&I",
         "done": false,
         "date": "",
-        "color": "gold",
+        "color": "orange",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
@@ -74,6 +62,18 @@
       {
         "id": "gteq41yw1qkmqooyvwu",
         "text": "HDL-C CAC",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
+        "id": "m4pu2gljw3mrp3s4mf",
+        "text": "HF insulin paper",
         "done": false,
         "date": "",
         "color": "gold",
