@@ -2905,6 +2905,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "2yfs274o22wms6kxh6o",
+      "title": "Organize BIOLINCC",
+      "date": "2026-07-30",
+      "hour": 12,
+      "startMin": 0,
+      "duration": 1,
+      "color": "orange",
+      "taskId": "6kpgu762j5rmpx9ov6t",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
