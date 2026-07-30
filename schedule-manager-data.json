@@ -2822,7 +2822,7 @@
       "duration": 1,
       "color": "gold",
       "taskId": "m4pu2gljw3mrp3s4mf",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
