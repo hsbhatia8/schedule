@@ -84,6 +84,18 @@
         "nextRecur": null
       },
       {
+        "id": "ug0ducypnhmscaal0d",
+        "text": "New CAC revision",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "6a96qqtcwtbms6on2j5",
         "text": "Lp(a) stroke",
         "done": false,
@@ -171,18 +183,6 @@
           "2026-07-24",
           "2026-07-29"
         ]
-      },
-      {
-        "id": "ug0ducypnhmscaal0d",
-        "text": "New CAC revision",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       }
     ],
     "later": [
