@@ -183,6 +183,18 @@
           "2026-07-24",
           "2026-07-29"
         ]
+      },
+      {
+        "id": "8qzqe2wk6hemscacl93",
+        "text": "CANRA training",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
