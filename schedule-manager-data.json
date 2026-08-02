@@ -2,6 +2,18 @@
   "todos": {
     "active": [
       {
+        "id": "ifamxnl1a1mrf3t8go",
+        "text": "T32 paperwork by Aug 5",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "rnr7rgx05xdmrxrd0ss",
         "text": "Lp(a) carotid",
         "done": false,
@@ -112,18 +124,6 @@
         "done": false,
         "date": "",
         "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "ifamxnl1a1mrf3t8go",
-        "text": "T32 paperwork by Aug 5",
-        "done": false,
-        "date": "",
-        "color": "orange",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
