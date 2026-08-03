@@ -2981,7 +2981,7 @@
       "date": "2026-08-03",
       "hour": 13,
       "startMin": 30,
-      "duration": 1,
+      "duration": 0.5,
       "color": "gold",
       "taskId": "rnr7rgx05xdmrxrd0ss",
       "done": false,
