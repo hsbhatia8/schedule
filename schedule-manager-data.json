@@ -14,6 +14,18 @@
         "nextRecur": null
       },
       {
+        "id": "8qzqe2wk6hemscacl93",
+        "text": "CANRA training",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "ug0ducypnhmscaal0d",
         "text": "New CAC revision",
         "done": false,
@@ -183,18 +195,6 @@
           "2026-07-24",
           "2026-07-29"
         ]
-      },
-      {
-        "id": "8qzqe2wk6hemscacl93",
-        "text": "CANRA training",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       },
       {
         "id": "ixfrxa9qbmmsdfte04",
