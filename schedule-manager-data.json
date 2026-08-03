@@ -14,6 +14,18 @@
         "nextRecur": null
       },
       {
+        "id": "ug0ducypnhmscaal0d",
+        "text": "New CAC revision",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "u3g8iiiyv6mrfktqd2",
         "text": "BEACON cohort",
         "done": false,
@@ -48,18 +60,6 @@
         "recurHour": null
       },
       {
-        "id": "rnr7rgx05xdmrxrd0ss",
-        "text": "Lp(a) carotid",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "jqbl44hm9lnmsca8z6u",
         "text": "Ls7 avc",
         "done": false,
@@ -84,8 +84,8 @@
         "nextRecur": null
       },
       {
-        "id": "ug0ducypnhmscaal0d",
-        "text": "New CAC revision",
+        "id": "rnr7rgx05xdmrxrd0ss",
+        "text": "Lp(a) carotid",
         "done": false,
         "date": "",
         "color": "gold",
