@@ -368,18 +368,6 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
-      },
-      {
-        "id": "5469bdm8arymrv4ovcq",
-        "text": "JACC Adv revised Review",
-        "done": true,
-        "date": "2026-07-31",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       }
     ]
   },
