@@ -3148,6 +3148,12 @@
   "projects": {
     "active": [
       {
+        "id": "310lgmj8r0qmpyartm1",
+        "name": "New CAC score",
+        "tag": "None",
+        "date": "May 2026"
+      },
+      {
         "id": "kfzlxdloatcmpyai8od",
         "name": "High HDL-C CAC",
         "tag": "Active",
@@ -3223,12 +3229,6 @@
       }
     ],
     "onhold": [
-      {
-        "id": "310lgmj8r0qmpyartm1",
-        "name": "New CAC score",
-        "tag": "Submitted",
-        "date": "May 2026"
-      },
       {
         "id": "ogyk9l4czurmq0hb92l",
         "name": "SIMPLIFY",
