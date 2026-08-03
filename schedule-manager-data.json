@@ -2960,6 +2960,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "bck9rtsl49hmsdfet0i",
+      "title": "T32 paperwork by Aug 5",
+      "date": "2026-08-03",
+      "hour": 8,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "orange",
+      "taskId": "ifamxnl1a1mrf3t8go",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
