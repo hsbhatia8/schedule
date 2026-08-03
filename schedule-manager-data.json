@@ -193,7 +193,8 @@
           "2026-07-10",
           "2026-07-17",
           "2026-07-24",
-          "2026-07-29"
+          "2026-07-29",
+          "2026-08-03"
         ]
       }
     ],
@@ -3111,7 +3112,7 @@
       "startMin": 30,
       "duration": 0.5,
       "color": "orange",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
