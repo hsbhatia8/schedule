@@ -3072,6 +3072,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "7i3valyxmovmsdfgrmy",
+      "title": "E&I",
+      "date": "2026-08-06",
+      "hour": 13,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "orange",
+      "taskId": "3oo8yw8ud1imrkw05zc",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
