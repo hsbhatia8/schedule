@@ -38,6 +38,18 @@
         "nextRecur": null
       },
       {
+        "id": "6a96qqtcwtbms6on2j5",
+        "text": "Lp(a) stroke",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "gteq41yw1qkmqooyvwu",
         "text": "HDL-C CAC",
         "done": false,
@@ -86,18 +98,6 @@
       {
         "id": "rnr7rgx05xdmrxrd0ss",
         "text": "Lp(a) carotid",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "6a96qqtcwtbms6on2j5",
-        "text": "Lp(a) stroke",
         "done": false,
         "date": "",
         "color": "gold",
