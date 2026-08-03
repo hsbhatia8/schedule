@@ -3086,6 +3086,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "p55eo2221kqmsdfhq2i",
+      "title": "CANRA training",
+      "date": "2026-08-03",
+      "hour": 8,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "orange",
+      "taskId": "8qzqe2wk6hemscacl93",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
