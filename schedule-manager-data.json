@@ -3058,6 +3058,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "rpj668n7qdlmsdfgh5h",
+      "title": "HDL-C CAC",
+      "date": "2026-08-06",
+      "hour": 10,
+      "startMin": 0,
+      "duration": 1,
+      "color": "gold",
+      "taskId": "gteq41yw1qkmqooyvwu",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
