@@ -14,11 +14,11 @@
         "nextRecur": null
       },
       {
-        "id": "rnr7rgx05xdmrxrd0ss",
-        "text": "Lp(a) carotid",
+        "id": "u3g8iiiyv6mrfktqd2",
+        "text": "BEACON cohort",
         "done": false,
         "date": "",
-        "color": "gold",
+        "color": "orange",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
@@ -38,11 +38,11 @@
         "nextRecur": null
       },
       {
-        "id": "u3g8iiiyv6mrfktqd2",
-        "text": "BEACON cohort",
+        "id": "rnr7rgx05xdmrxrd0ss",
+        "text": "Lp(a) carotid",
         "done": false,
         "date": "",
-        "color": "orange",
+        "color": "gold",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
