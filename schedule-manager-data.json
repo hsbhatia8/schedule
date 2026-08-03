@@ -3254,16 +3254,16 @@
         "date": "JACC Adv July 17 2026"
       },
       {
-        "id": "rbwsrbx4k3rmpyaif7p",
-        "name": "Lp(a) First Events",
-        "tag": "Submitted",
-        "date": "Aug 2 EJPC"
-      },
-      {
         "id": "pssu7n9prjdmpyahz1r",
         "name": "Lp(a) CAC Timing",
         "tag": "Submitted",
         "date": "July 24 2026 AJPC R1"
+      },
+      {
+        "id": "rbwsrbx4k3rmpyaif7p",
+        "name": "Lp(a) First Events",
+        "tag": "Submitted",
+        "date": "Aug 2 EJPC"
       }
     ],
     "completed": []
