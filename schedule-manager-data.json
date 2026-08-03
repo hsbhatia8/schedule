@@ -2988,6 +2988,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "2l8b5zh1lnfmsdffayl",
+      "title": "BEACON cohort",
+      "date": "2026-08-04",
+      "hour": 14,
+      "startMin": 0,
+      "duration": 1,
+      "color": "orange",
+      "taskId": "u3g8iiiyv6mrfktqd2",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
