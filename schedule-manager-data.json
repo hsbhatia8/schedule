@@ -38,6 +38,18 @@
         "nextRecur": null
       },
       {
+        "id": "6a96qqtcwtbms6on2j5",
+        "text": "Lp(a) stroke",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "h5c5ezrzdoqmsf416bx",
         "text": "JCL Lp(a) revision",
         "done": false,
@@ -55,18 +67,6 @@
         "done": false,
         "date": "",
         "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "6a96qqtcwtbms6on2j5",
-        "text": "Lp(a) stroke",
-        "done": false,
-        "date": "",
-        "color": "gold",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
