@@ -2985,7 +2985,7 @@
       "title": "BEACON cohort",
       "date": "2026-08-04",
       "hour": 15,
-      "startMin": 30,
+      "startMin": 0,
       "duration": 1,
       "color": "orange",
       "taskId": "u3g8iiiyv6mrfktqd2",
