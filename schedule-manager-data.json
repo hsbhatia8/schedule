@@ -172,6 +172,18 @@
           "2026-07-29",
           "2026-08-03"
         ]
+      },
+      {
+        "id": "ui8djcs0enmsf9x1cc",
+        "text": "HDP Lp(a)",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
