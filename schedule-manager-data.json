@@ -3189,6 +3189,12 @@
         "name": "apoB thresholds",
         "tag": "On Hold",
         "date": ""
+      },
+      {
+        "id": "iilldnvmx8pmpyabnne",
+        "name": "JCL Lp(a) Review",
+        "tag": "Active",
+        "date": "Jun 2026"
       }
     ],
     "mentored": [
@@ -3235,12 +3241,6 @@
         "name": "SIMPLIFY",
         "tag": "Submitted",
         "date": "June 2026"
-      },
-      {
-        "id": "iilldnvmx8pmpyabnne",
-        "name": "JCL Lp(a) Review",
-        "tag": "Submitted",
-        "date": "Jun 2026"
       },
       {
         "id": "ms2cz7jt9nmpyabuo9",
