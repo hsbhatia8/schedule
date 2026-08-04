@@ -2,6 +2,18 @@
   "todos": {
     "active": [
       {
+        "id": "k2y3ih26ehfmrfkt8b3",
+        "text": "BEACON score",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "ug0ducypnhmscaal0d",
         "text": "New CAC revision",
         "done": false,
@@ -31,18 +43,6 @@
         "done": false,
         "date": "",
         "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "k2y3ih26ehfmrfkt8b3",
-        "text": "BEACON score",
-        "done": false,
-        "date": "",
-        "color": "gold",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
