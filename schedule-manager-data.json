@@ -74,6 +74,18 @@
         "nextRecur": null
       },
       {
+        "id": "h5c5ezrzdoqmsf416bx",
+        "text": "JCL Lp(a) revision",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "6a96qqtcwtbms6on2j5",
         "text": "Lp(a) stroke",
         "done": false,
@@ -196,18 +208,6 @@
           "2026-07-29",
           "2026-08-03"
         ]
-      },
-      {
-        "id": "h5c5ezrzdoqmsf416bx",
-        "text": "JCL Lp(a) revision",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       }
     ],
     "later": [
