@@ -196,6 +196,18 @@
           "2026-07-29",
           "2026-08-03"
         ]
+      },
+      {
+        "id": "h5c5ezrzdoqmsf416bx",
+        "text": "JCL Lp(a) revision",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
