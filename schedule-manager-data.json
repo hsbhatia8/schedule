@@ -3149,6 +3149,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "xsntu4wlnkmsf9zfbi",
+      "title": "HDP Lp(a)",
+      "date": "2026-08-06",
+      "hour": 14,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "gold",
+      "taskId": "ui8djcs0enmsf9x1cc",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
