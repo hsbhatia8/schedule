@@ -759,7 +759,8 @@
         "2026-06-10",
         "2026-07-08",
         "2026-07-15",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-08-05"
       ],
       "recurExceptions": [
         "2026-07-01",
@@ -1030,7 +1031,8 @@
         "2026-07-15",
         "2026-07-22",
         "2026-07-24",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-08-05"
       ]
     },
     {
@@ -3018,20 +3020,6 @@
       "recurExceptions": []
     },
     {
-      "id": "ns5ab4rhu6msdffq2w",
-      "title": "New CAC revision",
-      "date": "2026-08-05",
-      "hour": 9,
-      "startMin": 30,
-      "duration": 1.5,
-      "color": "gold",
-      "taskId": "ug0ducypnhmscaal0d",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
       "id": "0tjooly4hlbrmsdffwzg",
       "title": "New CAC revision",
       "date": "2026-08-06",
@@ -3121,10 +3109,10 @@
       "date": "2026-08-05",
       "hour": 9,
       "startMin": 0,
-      "duration": 0.5,
+      "duration": 2,
       "color": "orange",
       "taskId": "6kpgu762j5rmpx9ov6t",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
