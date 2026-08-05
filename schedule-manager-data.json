@@ -3182,6 +3182,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "xpoo6zic5komsgb6wbz",
+      "title": "Lp(a) HDP",
+      "date": "2026-08-06",
+      "hour": 14,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "gold",
+      "taskId": "3p87rusctifmsgb6tzt",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
