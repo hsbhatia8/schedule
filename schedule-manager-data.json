@@ -196,6 +196,18 @@
           "2026-07-29",
           "2026-08-03"
         ]
+      },
+      {
+        "id": "3p87rusctifmsgb6tzt",
+        "text": "Lp(a) HDP",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
