@@ -2,11 +2,11 @@
   "todos": {
     "active": [
       {
-        "id": "ug0ducypnhmscaal0d",
-        "text": "New CAC revision",
+        "id": "ifamxnl1a1mrf3t8go",
+        "text": "T32 paperwork by Aug 5",
         "done": false,
         "date": "",
-        "color": "gold",
+        "color": "orange",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
@@ -14,8 +14,20 @@
         "nextRecur": null
       },
       {
-        "id": "k2y3ih26ehfmrfkt8b3",
-        "text": "BEACON score",
+        "id": "8qzqe2wk6hemscacl93",
+        "text": "CANRA training",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
+        "id": "ug0ducypnhmscaal0d",
+        "text": "New CAC revision",
         "done": false,
         "date": "",
         "color": "gold",
@@ -38,35 +50,35 @@
         "nextRecur": null
       },
       {
-        "id": "6a96qqtcwtbms6on2j5",
-        "text": "Lp(a) stroke",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "h5c5ezrzdoqmsf416bx",
-        "text": "JCL Lp(a) revision",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "inmmq1h3mxlmrl3h90k",
         "text": "JACC Adv Editorial",
         "done": false,
         "date": "",
         "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
+        "id": "k2y3ih26ehfmrfkt8b3",
+        "text": "BEACON score",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
+        "id": "6a96qqtcwtbms6on2j5",
+        "text": "Lp(a) stroke",
+        "done": false,
+        "date": "",
+        "color": "gold",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
@@ -86,18 +98,6 @@
         "nextRecur": null
       },
       {
-        "id": "ui8djcs0enmsf9x1cc",
-        "text": "HDP Lp(a)",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "xzkrif7zkzfmpx9chcu",
         "text": "R01",
         "done": false,
@@ -106,6 +106,18 @@
         "recurring": false,
         "recurDay": null,
         "recurHour": null
+      },
+      {
+        "id": "jqbl44hm9lnmsca8z6u",
+        "text": "Ls7 avc",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       },
       {
         "id": "3oo8yw8ud1imrkw05zc",
@@ -337,6 +349,18 @@
       {
         "id": "9hk2sr8i7vfmqsbrbr5",
         "text": "Prevention email",
+        "done": false,
+        "date": "2026-08-19",
+        "color": "red",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
+        "id": "ljezduqtm6fmsg8whki",
+        "text": "EJPC Review",
         "done": false,
         "date": "2026-08-19",
         "color": "red",
@@ -664,8 +688,7 @@
         "2026-06-23",
         "2026-07-07",
         "2026-07-14",
-        "2026-07-21",
-        "2026-08-04"
+        "2026-07-21"
       ],
       "recurExceptions": [
         "2026-06-02",
@@ -693,8 +716,7 @@
         "2026-06-23",
         "2026-06-30",
         "2026-07-14",
-        "2026-07-21",
-        "2026-08-04"
+        "2026-07-21"
       ],
       "recurExceptions": [
         "2026-06-02",
@@ -751,8 +773,7 @@
         "2026-06-16",
         "2026-06-23",
         "2026-06-30",
-        "2026-07-21",
-        "2026-08-04"
+        "2026-07-21"
       ],
       "recurExceptions": [
         "2026-07-07",
@@ -2910,7 +2931,7 @@
       "startMin": 0,
       "duration": 0.5,
       "color": "red",
-      "done": true,
+      "done": false,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -2973,12 +2994,12 @@
       "id": "2l8b5zh1lnfmsdffayl",
       "title": "BEACON cohort",
       "date": "2026-08-04",
-      "hour": 15,
-      "startMin": 30,
-      "duration": 0.5,
+      "hour": 14,
+      "startMin": 0,
+      "duration": 1,
       "color": "orange",
       "taskId": "u3g8iiiyv6mrfktqd2",
-      "done": true,
+      "done": false,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -2987,9 +3008,9 @@
       "id": "ns5ab4rhu6msdffq2w",
       "title": "New CAC revision",
       "date": "2026-08-05",
-      "hour": 10,
-      "startMin": 0,
-      "duration": 1,
+      "hour": 9,
+      "startMin": 30,
+      "duration": 1.5,
       "color": "gold",
       "taskId": "ug0ducypnhmscaal0d",
       "done": false,
@@ -3014,9 +3035,9 @@
     {
       "id": "561u7ilnsramsdfg1sl",
       "title": "Lp(a) stroke",
-      "date": "2026-08-06",
-      "hour": 16,
-      "startMin": 30,
+      "date": "2026-08-04",
+      "hour": 17,
+      "startMin": 0,
       "duration": 0.5,
       "color": "gold",
       "taskId": "6a96qqtcwtbms6on2j5",
@@ -3029,12 +3050,12 @@
       "id": "n5j6ab2h23hmsdfg856",
       "title": "Ls7 avc",
       "date": "2026-08-04",
-      "hour": 14,
+      "hour": 15,
       "startMin": 30,
       "duration": 0.5,
       "color": "gold",
       "taskId": "jqbl44hm9lnmsca8z6u",
-      "done": true,
+      "done": false,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -3137,28 +3158,13 @@
       "recurExceptions": []
     },
     {
-      "id": "dq6ya0p451hmsf94202",
-      "title": "BEACON cohort",
-      "date": "2026-08-05",
-      "hour": 9,
-      "startMin": 30,
-      "duration": 0.5,
-      "color": "orange",
-      "taskId": "u3g8iiiyv6mrfktqd2",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
-      "id": "xsntu4wlnkmsf9zfbi",
-      "title": "HDP Lp(a)",
-      "date": "2026-08-06",
-      "hour": 14,
+      "id": "vyczr8q172jmsg8whki",
+      "title": "EJPC Review",
+      "date": "2026-08-19",
+      "hour": 17,
       "startMin": 0,
-      "duration": 0.5,
-      "color": "gold",
-      "taskId": "ui8djcs0enmsf9x1cc",
+      "duration": 1,
+      "color": "red",
       "done": false,
       "recurring": false,
       "recurDays": [],
@@ -3208,12 +3214,6 @@
         "name": "apoB thresholds",
         "tag": "On Hold",
         "date": ""
-      },
-      {
-        "id": "iilldnvmx8pmpyabnne",
-        "name": "JCL Lp(a) Review",
-        "tag": "Active",
-        "date": "Jun 2026"
       }
     ],
     "mentored": [
@@ -3226,7 +3226,7 @@
       {
         "id": "yngu1v8bhf9mpzrizzi",
         "name": "LS7 Lp(a) AVC",
-        "tag": "On Hold",
+        "tag": "Active",
         "date": ""
       },
       {
@@ -3260,6 +3260,12 @@
         "name": "SIMPLIFY",
         "tag": "Submitted",
         "date": "June 2026"
+      },
+      {
+        "id": "iilldnvmx8pmpyabnne",
+        "name": "JCL Lp(a) Review",
+        "tag": "Submitted",
+        "date": "Jun 2026"
       },
       {
         "id": "ms2cz7jt9nmpyabuo9",
