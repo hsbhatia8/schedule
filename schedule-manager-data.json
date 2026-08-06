@@ -38,6 +38,18 @@
         "nextRecur": null
       },
       {
+        "id": "1fn2jlt5kfwhmshq6ro8",
+        "text": "JACC adv revision",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "u3g8iiiyv6mrfktqd2",
         "text": "BEACON cohort",
         "done": false,
@@ -55,18 +67,6 @@
         "done": false,
         "date": "",
         "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "1fn2jlt5kfwhmshq6ro8",
-        "text": "JACC adv revision",
-        "done": false,
-        "date": "",
-        "color": "gold",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
