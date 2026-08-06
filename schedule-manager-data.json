@@ -3138,7 +3138,7 @@
       "title": "BEACON score",
       "date": "2026-08-06",
       "hour": 10,
-      "startMin": 0,
+      "startMin": 30,
       "duration": 1,
       "color": "gold",
       "taskId": "k2y3ih26ehfmrfkt8b3",
