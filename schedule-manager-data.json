@@ -62,6 +62,18 @@
         "nextRecur": null
       },
       {
+        "id": "1fn2jlt5kfwhmshq6ro8",
+        "text": "JACC adv revision",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "k2y3ih26ehfmrfkt8b3",
         "text": "BEACON score",
         "done": false,
@@ -200,18 +212,6 @@
       {
         "id": "3p87rusctifmsgb6tzt",
         "text": "Lp(a) HDP",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "1fn2jlt5kfwhmshq6ro8",
-        "text": "JACC adv revision",
         "done": false,
         "date": "",
         "color": "gold",
