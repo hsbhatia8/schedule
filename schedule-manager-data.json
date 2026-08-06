@@ -2,6 +2,18 @@
   "todos": {
     "active": [
       {
+        "id": "1fn2jlt5kfwhmshq6ro8",
+        "text": "JACC adv revision",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "ug0ducypnhmscaal0d",
         "text": "New CAC revision",
         "done": false,
@@ -28,18 +40,6 @@
       {
         "id": "6a96qqtcwtbms6on2j5",
         "text": "Lp(a) stroke",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "1fn2jlt5kfwhmshq6ro8",
-        "text": "JACC adv revision",
         "done": false,
         "date": "",
         "color": "gold",
