@@ -3150,6 +3150,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "fppwueaeq3gmsi1z9bc",
+      "title": "Prep lipid guidelines",
+      "date": "2026-09-09",
+      "hour": 9,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
