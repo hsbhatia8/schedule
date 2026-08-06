@@ -3181,6 +3181,12 @@
         "name": "apoB thresholds",
         "tag": "On Hold",
         "date": ""
+      },
+      {
+        "id": "uvh5pyuloimmpyajh2a",
+        "name": "Statin allocation",
+        "tag": "None",
+        "date": "JACC Adv July 17 2026"
       }
     ],
     "mentored": [
@@ -3239,12 +3245,6 @@
         "name": "MASALA Lp(a)",
         "tag": "Submitted",
         "date": "R1 Jul 17 2026"
-      },
-      {
-        "id": "uvh5pyuloimmpyajh2a",
-        "name": "Statin allocation",
-        "tag": "Submitted",
-        "date": "JACC Adv July 17 2026"
       },
       {
         "id": "pssu7n9prjdmpyahz1r",
