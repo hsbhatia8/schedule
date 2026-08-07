@@ -3215,6 +3215,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "fltu2g2px2bmsjcz3ki",
+      "title": "E&I meeting",
+      "date": "2026-08-13",
+      "hour": 10,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
