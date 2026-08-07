@@ -148,6 +148,18 @@
           "2026-07-29",
           "2026-08-03"
         ]
+      },
+      {
+        "id": "akgci7sv3umsjd9o8a",
+        "text": "Applicant review",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
