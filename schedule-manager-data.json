@@ -3202,6 +3202,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "i2cyy532rahmsjcytpw",
+      "title": "Khanda",
+      "date": "2026-08-13",
+      "hour": 8,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
