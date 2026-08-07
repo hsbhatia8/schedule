@@ -3274,20 +3274,6 @@
       "recurExceptions": []
     },
     {
-      "id": "mfpigrvcx8fmsjd0wrq",
-      "title": "JACC Adv Editorial",
-      "date": "2026-08-13",
-      "hour": 10,
-      "startMin": 0,
-      "duration": 0.5,
-      "color": "orange",
-      "taskId": "inmmq1h3mxlmrl3h90k",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
       "id": "4aafxhvctyvmsjd12o6",
       "title": "E&I",
       "date": "2026-08-13",
@@ -3310,6 +3296,20 @@
       "duration": 1,
       "color": "orange",
       "taskId": "xt8btmyqofcmpxatqs7",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "71hkbv4tvrlmsjd1vpn",
+      "title": "AJPC editorial",
+      "date": "2026-08-13",
+      "hour": 9,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "taskId": "5ojf4j5h0n7mqi70wta",
       "done": false,
       "recurring": false,
       "recurDays": [],
