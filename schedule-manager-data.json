@@ -3217,6 +3217,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "f77a1w7fdglmsjd0cm6",
+      "title": "BEACON score follow up",
+      "date": "2026-08-13",
+      "hour": 14,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "gold",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
