@@ -3426,12 +3426,6 @@
         "date": ""
       },
       {
-        "id": "cdp74bxypuwmq64i1vt",
-        "name": "BEACON score",
-        "tag": "Active",
-        "date": ""
-      },
-      {
         "id": "mect6lvlc0pmpyajrjd",
         "name": "Lp(a) carotid",
         "tag": "On Hold",
@@ -3530,6 +3524,12 @@
         "name": "Lp(a) First Events",
         "tag": "Submitted",
         "date": "Aug 2 EJPC"
+      },
+      {
+        "id": "cdp74bxypuwmq64i1vt",
+        "name": "BEACON score",
+        "tag": "Active",
+        "date": ""
       }
     ],
     "completed": []
