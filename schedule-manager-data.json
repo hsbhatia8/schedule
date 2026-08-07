@@ -3342,6 +3342,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "z112clvihwmsjd3e1b",
+      "title": "Review mediwhale",
+      "date": "2026-08-13",
+      "hour": 16,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "gold",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
