@@ -3402,7 +3402,7 @@
       "date": "2026-08-13",
       "hour": 13,
       "startMin": 0,
-      "duration": 0.5,
+      "duration": 1,
       "color": "orange",
       "done": false,
       "recurring": false,
