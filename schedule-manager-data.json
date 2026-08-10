@@ -3314,20 +3314,6 @@
       "recurExceptions": []
     },
     {
-      "id": "71hkbv4tvrlmsjd1vpn",
-      "title": "AJPC editorial",
-      "date": "2026-08-13",
-      "hour": 13,
-      "startMin": 0,
-      "duration": 1,
-      "color": "red",
-      "taskId": "5ojf4j5h0n7mqi70wta",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
       "id": "vqrtgmqicuamsjd2806",
       "title": "Organize BIOLINCC",
       "date": "2026-08-13",
