@@ -655,7 +655,8 @@
         "2026-06-23",
         "2026-07-07",
         "2026-07-14",
-        "2026-07-21"
+        "2026-07-21",
+        "2026-08-11"
       ],
       "recurExceptions": [
         "2026-06-02",
@@ -683,7 +684,8 @@
         "2026-06-23",
         "2026-06-30",
         "2026-07-14",
-        "2026-07-21"
+        "2026-07-21",
+        "2026-08-11"
       ],
       "recurExceptions": [
         "2026-06-02",
@@ -3314,6 +3316,20 @@
       "recurExceptions": []
     },
     {
+      "id": "71hkbv4tvrlmsjd1vpn",
+      "title": "AJPC editorial",
+      "date": "2026-08-13",
+      "hour": 13,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "taskId": "5ojf4j5h0n7mqi70wta",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
       "id": "vqrtgmqicuamsjd2806",
       "title": "Organize BIOLINCC",
       "date": "2026-08-13",
@@ -3391,32 +3407,6 @@
       "duration": 1,
       "color": "orange",
       "taskId": "akgci7sv3umsjd9o8a",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
-      "id": "la0m69feb4omsnmtvre",
-      "title": "JACC adv editorial",
-      "date": "2026-08-13",
-      "hour": 13,
-      "startMin": 0,
-      "duration": 1,
-      "color": "orange",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
-      "id": "z1rukjbb5rmsnmu64p",
-      "title": "AJPC editorial",
-      "date": "2026-08-14",
-      "hour": 10,
-      "startMin": 0,
-      "duration": 0.5,
-      "color": "orange",
       "done": false,
       "recurring": false,
       "recurDays": [],
