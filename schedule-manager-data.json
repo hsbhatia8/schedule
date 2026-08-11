@@ -3254,7 +3254,7 @@
       "duration": 0.5,
       "color": "gold",
       "taskId": "ug0ducypnhmscaal0d",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -3268,7 +3268,7 @@
       "duration": 1,
       "color": "gold",
       "taskId": "ug0ducypnhmscaal0d",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
