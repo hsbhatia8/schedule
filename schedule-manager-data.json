@@ -3451,6 +3451,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "22be0gha4ilmsq98qiz",
+      "title": "Applicant review",
+      "date": "2026-08-12",
+      "hour": 16,
+      "startMin": 30,
+      "duration": 1,
+      "color": "orange",
+      "taskId": "akgci7sv3umsjd9o8a",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
