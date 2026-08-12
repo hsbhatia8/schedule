@@ -592,7 +592,8 @@
         "2026-07-29",
         "2026-07-30",
         "2026-08-05",
-        "2026-08-06"
+        "2026-08-06",
+        "2026-08-12"
       ],
       "startMin": 0
     },
@@ -716,7 +717,8 @@
         "2026-07-08",
         "2026-07-15",
         "2026-07-22",
-        "2026-08-05"
+        "2026-08-05",
+        "2026-08-12"
       ],
       "recurExceptions": [
         "2026-07-01",
@@ -990,7 +992,8 @@
         "2026-07-22",
         "2026-07-24",
         "2026-07-29",
-        "2026-08-05"
+        "2026-08-05",
+        "2026-08-12"
       ]
     },
     {
@@ -3163,7 +3166,7 @@
       "startMin": 0,
       "duration": 1,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -3176,7 +3179,7 @@
       "startMin": 0,
       "duration": 1,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -3189,7 +3192,7 @@
       "startMin": 0,
       "duration": 4,
       "color": "purple",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -3283,7 +3286,7 @@
       "duration": 1,
       "color": "gold",
       "taskId": "ug0ducypnhmscaal0d",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
