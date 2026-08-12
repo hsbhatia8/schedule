@@ -3425,6 +3425,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "ehcoj7wy8femspbq0ep",
+      "title": "Lp(a) JCL review",
+      "date": "2026-08-14",
+      "hour": 10,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "gold",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
