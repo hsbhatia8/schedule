@@ -3438,6 +3438,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "92m6c5ou2vimspc3s6c",
+      "title": "JACC advances editorial",
+      "date": "2026-08-13",
+      "hour": 13,
+      "startMin": 0,
+      "duration": 1,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
