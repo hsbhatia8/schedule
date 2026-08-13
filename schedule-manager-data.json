@@ -3482,6 +3482,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "3msy07al2flmsrz97tb",
+      "title": "New CAC revision",
+      "date": "2026-08-13",
+      "hour": 11,
+      "startMin": 0,
+      "duration": 2.5,
+      "color": "gold",
+      "taskId": "ug0ducypnhmscaal0d",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
