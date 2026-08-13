@@ -808,7 +808,8 @@
         "2026-07-02",
         "2026-07-09",
         "2026-07-16",
-        "2026-07-23"
+        "2026-07-23",
+        "2026-08-13"
       ]
     },
     {
@@ -3384,7 +3385,7 @@
       "duration": 1,
       "color": "orange",
       "taskId": "akgci7sv3umsjd9o8a",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -3494,6 +3495,20 @@
       "color": "gold",
       "taskId": "ug0ducypnhmscaal0d",
       "done": true,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "5j2utjittrymss6fbt2",
+      "title": "Applicant review",
+      "date": "2026-08-13",
+      "hour": 16,
+      "startMin": 0,
+      "duration": 1,
+      "color": "orange",
+      "taskId": "akgci7sv3umsjd9o8a",
+      "done": false,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
