@@ -3379,7 +3379,7 @@
       "title": "Applicant review",
       "date": "2026-08-13",
       "hour": 13,
-      "startMin": 0,
+      "startMin": 30,
       "duration": 1,
       "color": "orange",
       "taskId": "akgci7sv3umsjd9o8a",
