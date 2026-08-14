@@ -808,8 +808,7 @@
         "2026-07-02",
         "2026-07-09",
         "2026-07-16",
-        "2026-07-23",
-        "2026-08-13"
+        "2026-07-23"
       ]
     },
     {
@@ -3241,9 +3240,9 @@
     {
       "id": "f77a1w7fdglmsjd0cm6",
       "title": "BEACON score follow up",
-      "date": "2026-08-14",
+      "date": "2026-08-13",
       "hour": 17,
-      "startMin": 0,
+      "startMin": 30,
       "duration": 0.5,
       "color": "gold",
       "done": false,
@@ -3385,7 +3384,7 @@
       "duration": 1,
       "color": "orange",
       "taskId": "akgci7sv3umsjd9o8a",
-      "done": true,
+      "done": false,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -3421,9 +3420,9 @@
     {
       "id": "aakoavf5o2umspbejdf",
       "title": "Submit BEACON risk to JACC",
-      "date": "2026-08-14",
-      "hour": 16,
-      "startMin": 30,
+      "date": "2026-08-13",
+      "hour": 17,
+      "startMin": 0,
       "duration": 0.5,
       "color": "gold",
       "done": false,
@@ -3494,21 +3493,21 @@
       "duration": 2.5,
       "color": "gold",
       "taskId": "ug0ducypnhmscaal0d",
-      "done": true,
+      "done": false,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
     },
     {
-      "id": "5j2utjittrymss6fbt2",
-      "title": "Applicant review",
-      "date": "2026-08-13",
-      "hour": 16,
+      "id": "y4sx03gbxfmst35pyd",
+      "title": "New CAC revision",
+      "date": "2026-08-14",
+      "hour": 15,
       "startMin": 0,
-      "duration": 1,
-      "color": "orange",
-      "taskId": "akgci7sv3umsjd9o8a",
-      "done": true,
+      "duration": 0.5,
+      "color": "gold",
+      "taskId": "ug0ducypnhmscaal0d",
+      "done": false,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
