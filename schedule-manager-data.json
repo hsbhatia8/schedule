@@ -3518,6 +3518,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "3snif02fypamsth699y",
+      "title": "PILL(a)R meeting",
+      "date": "2026-08-19",
+      "hour": 8,
+      "startMin": 30,
+      "duration": 1.5,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
