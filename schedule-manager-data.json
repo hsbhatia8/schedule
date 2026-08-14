@@ -211,18 +211,6 @@
     ],
     "deadlines": [
       {
-        "id": "5ojf4j5h0n7mqi70wta",
-        "text": "AJPC editorial",
-        "done": false,
-        "date": "2026-06-30",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "jlz3k3r2yjsmpxamzp3",
         "text": "SCI",
         "done": false,
@@ -3318,7 +3306,7 @@
       "duration": 1,
       "color": "red",
       "taskId": "5ojf4j5h0n7mqi70wta",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
