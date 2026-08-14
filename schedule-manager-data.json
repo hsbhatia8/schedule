@@ -2,20 +2,8 @@
   "todos": {
     "active": [
       {
-        "id": "akgci7sv3umsjd9o8a",
-        "text": "Applicant review",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "1fn2jlt5kfwhmshq6ro8",
-        "text": "JACC adv revision",
+        "id": "ug0ducypnhmscaal0d",
+        "text": "New CAC revision",
         "done": false,
         "date": "",
         "color": "gold",
@@ -26,8 +14,8 @@
         "nextRecur": null
       },
       {
-        "id": "ug0ducypnhmscaal0d",
-        "text": "New CAC revision",
+        "id": "1fn2jlt5kfwhmshq6ro8",
+        "text": "JACC adv revision",
         "done": false,
         "date": "",
         "color": "gold",
