@@ -3241,9 +3241,9 @@
     {
       "id": "f77a1w7fdglmsjd0cm6",
       "title": "BEACON score follow up",
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "hour": 17,
-      "startMin": 30,
+      "startMin": 0,
       "duration": 0.5,
       "color": "gold",
       "done": false,
@@ -3421,9 +3421,9 @@
     {
       "id": "aakoavf5o2umspbejdf",
       "title": "Submit BEACON risk to JACC",
-      "date": "2026-08-13",
-      "hour": 17,
-      "startMin": 0,
+      "date": "2026-08-14",
+      "hour": 16,
+      "startMin": 30,
       "duration": 0.5,
       "color": "gold",
       "done": false,
@@ -3508,7 +3508,7 @@
       "duration": 1,
       "color": "orange",
       "taskId": "akgci7sv3umsjd9o8a",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
