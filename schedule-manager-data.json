@@ -158,7 +158,8 @@
           "2026-07-17",
           "2026-07-24",
           "2026-07-29",
-          "2026-08-03"
+          "2026-08-03",
+          "2026-08-14"
         ]
       }
     ],
@@ -605,7 +606,8 @@
         "2026-07-30",
         "2026-08-05",
         "2026-08-06",
-        "2026-08-12"
+        "2026-08-12",
+        "2026-08-14"
       ],
       "startMin": 0
     },
@@ -3254,8 +3256,8 @@
       "id": "f77a1w7fdglmsjd0cm6",
       "title": "BEACON score follow up",
       "date": "2026-08-14",
-      "hour": 17,
-      "startMin": 30,
+      "hour": 14,
+      "startMin": 0,
       "duration": 0.5,
       "color": "gold",
       "done": false,
@@ -3366,7 +3368,7 @@
       "title": "HDL-C CAC",
       "date": "2026-08-14",
       "hour": 14,
-      "startMin": 0,
+      "startMin": 30,
       "duration": 1,
       "color": "gold",
       "taskId": "gteq41yw1qkmqooyvwu",
@@ -3434,7 +3436,7 @@
       "id": "aakoavf5o2umspbejdf",
       "title": "Submit BEACON risk to JACC",
       "date": "2026-08-14",
-      "hour": 17,
+      "hour": 10,
       "startMin": 0,
       "duration": 0.5,
       "color": "gold",
@@ -3447,7 +3449,7 @@
       "id": "ehcoj7wy8femspbq0ep",
       "title": "Lp(a) JCL review",
       "date": "2026-08-14",
-      "hour": 10,
+      "hour": 16,
       "startMin": 0,
       "duration": 0.5,
       "color": "gold",
@@ -3515,8 +3517,8 @@
       "id": "y4sx03gbxfmst35pyd",
       "title": "New CAC revision",
       "date": "2026-08-14",
-      "hour": 15,
-      "startMin": 0,
+      "hour": 16,
+      "startMin": 30,
       "duration": 0.5,
       "color": "gold",
       "taskId": "ug0ducypnhmscaal0d",
