@@ -3511,6 +3511,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "rf43nh7r0wmst3i7b7",
+      "title": "BEACON organization",
+      "date": "2026-08-14",
+      "hour": 15,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
