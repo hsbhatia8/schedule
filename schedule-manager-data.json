@@ -3506,7 +3506,7 @@
       "duration": 2.5,
       "color": "gold",
       "taskId": "ug0ducypnhmscaal0d",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
