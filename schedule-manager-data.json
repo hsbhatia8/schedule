@@ -2,6 +2,18 @@
   "todos": {
     "active": [
       {
+        "id": "inmmq1h3mxlmrl3h90k",
+        "text": "JACC Adv Editorial",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "ug0ducypnhmscaal0d",
         "text": "New CAC revision",
         "done": false,
@@ -19,18 +31,6 @@
         "done": false,
         "date": "",
         "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "inmmq1h3mxlmrl3h90k",
-        "text": "JACC Adv Editorial",
-        "done": false,
-        "date": "",
-        "color": "orange",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
