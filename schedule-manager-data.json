@@ -4330,6 +4330,19 @@
             "text": "JACC Advances",
             "tag": "tentative"
           }
+        },
+        {
+          "id": "56y6zmgepmmmswa84xp",
+          "name": "LE7 AVC",
+          "status": "Active",
+          "abstract": {
+            "text": "",
+            "tag": ""
+          },
+          "manuscript": {
+            "text": "",
+            "tag": ""
+          }
         }
       ]
     },
