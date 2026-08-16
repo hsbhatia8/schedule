@@ -3573,6 +3573,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "zbfim96k8nmswa0gbn",
+      "title": "UKB preeclampsia",
+      "date": "2026-08-18",
+      "hour": 14,
+      "startMin": 0,
+      "duration": 1,
+      "color": "gold",
+      "taskId": "74sk6dcesxlmq78q7hx",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
