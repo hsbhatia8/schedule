@@ -3871,10 +3871,6 @@
       {
         "id": "bpcu23i9ekvmq0hab69",
         "text": "When to start LLT high Lp(a)"
-      },
-      {
-        "id": "e300fyh0ctqmq0hafct",
-        "text": "BIOLINCC"
       }
     ],
     "iproj-active": [
@@ -3947,6 +3943,10 @@
       {
         "id": "t00gapl9jaomq0h8zvg",
         "text": "Lp(a) CAC 0"
+      },
+      {
+        "id": "e300fyh0ctqmq0hafct",
+        "text": "BIOLINCC"
       }
     ]
   },
