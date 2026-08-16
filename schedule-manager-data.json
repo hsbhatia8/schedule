@@ -3601,6 +3601,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "v8jk24c890omswa0qz6",
+      "title": "Journal Reviews",
+      "date": "2026-08-21",
+      "hour": 13,
+      "startMin": 0,
+      "duration": 1,
+      "color": "orange",
+      "taskId": "xt8btmyqofcmpxatqs7",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
