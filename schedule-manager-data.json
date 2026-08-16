@@ -3566,7 +3566,7 @@
       "date": "2026-08-19",
       "hour": 14,
       "startMin": 0,
-      "duration": 1,
+      "duration": 0.5,
       "color": "orange",
       "taskId": "3oo8yw8ud1imrkw05zc",
       "done": false,
