@@ -3861,10 +3861,6 @@
       {
         "id": "b2w5272l9iwmq0h5a34",
         "text": "Lp(a) AF C2V"
-      },
-      {
-        "id": "ngdvc7yuiamq0h8ow2",
-        "text": "Cumulative Lp(a) exposure"
       }
     ],
     "cohort": [
@@ -3921,6 +3917,10 @@
       {
         "id": "alp2yroh9jhmq0haiz0",
         "text": "HDL-C CAC"
+      },
+      {
+        "id": "ngdvc7yuiamq0h8ow2",
+        "text": "Cumulative Lp(a) exposure"
       }
     ],
     "iproj-completed": [
