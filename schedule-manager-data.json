@@ -38,6 +38,18 @@
         "nextRecur": null
       },
       {
+        "id": "qubewawwd5fmsw5hzma",
+        "text": "BEACON score next steps",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "6kpgu762j5rmpx9ov6t",
         "text": "Organize BIOLINCC",
         "done": false,
@@ -3228,7 +3240,7 @@
       "startMin": 30,
       "duration": 0.5,
       "color": "gold",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
