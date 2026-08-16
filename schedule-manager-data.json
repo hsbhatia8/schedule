@@ -118,6 +118,12 @@
         "nextRecur": null
       },
       {
+        "id": "5ayyzo8frlsmpx9p6vc",
+        "text": "Residual risk idea",
+        "done": false,
+        "date": null
+      },
+      {
         "id": "u7z3g6mpz6mmpx8eo73",
         "text": "Post doc",
         "done": false,
@@ -191,12 +197,6 @@
         "recurring": false,
         "recurDay": null,
         "recurHour": null
-      },
-      {
-        "id": "5ayyzo8frlsmpx9p6vc",
-        "text": "Residual risk idea",
-        "done": false,
-        "date": null
       },
       {
         "id": "aq1fy5q9r4cmpx9nvzd",
