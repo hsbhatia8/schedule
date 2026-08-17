@@ -50,16 +50,6 @@
         "nextRecur": null
       },
       {
-        "id": "6kpgu762j5rmpx9ov6t",
-        "text": "Organize BIOLINCC",
-        "done": false,
-        "date": null,
-        "color": "orange",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": null
-      },
-      {
         "id": "gteq41yw1qkmqooyvwu",
         "text": "HDL-C CAC",
         "done": false,
