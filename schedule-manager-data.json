@@ -696,7 +696,8 @@
         "2026-06-23",
         "2026-06-30",
         "2026-07-21",
-        "2026-08-11"
+        "2026-08-11",
+        "2026-08-18"
       ],
       "recurExceptions": [
         "2026-07-07",
@@ -3483,7 +3484,7 @@
       "duration": 0.5,
       "color": "orange",
       "taskId": "u3g8iiiyv6mrfktqd2",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -3603,8 +3604,8 @@
     {
       "id": "lkh0xtmog7fmswa1nz8",
       "title": "BEACON score next steps",
-      "date": "2026-08-18",
-      "hour": 14,
+      "date": "2026-08-19",
+      "hour": 15,
       "startMin": 30,
       "duration": 0.5,
       "color": "orange",
@@ -3650,7 +3651,7 @@
       "startMin": 0,
       "duration": 0.5,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -3664,6 +3665,20 @@
       "duration": 1,
       "color": "orange",
       "taskId": "aq1fy5q9r4cmpx9nvzd",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "2o127je3gkpmsz924k1",
+      "title": "BEACON cohort",
+      "date": "2026-08-19",
+      "hour": 14,
+      "startMin": 30,
+      "duration": 1,
+      "color": "orange",
+      "taskId": "u3g8iiiyv6mrfktqd2",
       "done": false,
       "recurring": false,
       "recurDays": [],
