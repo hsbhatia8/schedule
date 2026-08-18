@@ -3709,6 +3709,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "1qyiw0e7f2ymszafh06",
+      "title": "Lp(a) HDL UKB",
+      "date": "2026-08-20",
+      "hour": 16,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "gold",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
