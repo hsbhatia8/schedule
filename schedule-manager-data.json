@@ -3683,6 +3683,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "f8r6i09rvehmsz99b0v",
+      "title": "Video for Jeff",
+      "date": "2026-08-21",
+      "hour": 15,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "gold",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
