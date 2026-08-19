@@ -3726,6 +3726,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "fboax1alsenmt0pg1ik",
+      "title": "Circ meeting",
+      "date": "2026-08-21",
+      "hour": 12,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
