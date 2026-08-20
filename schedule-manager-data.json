@@ -171,7 +171,7 @@
       {
         "id": "ar141xerkwampx9oqd6",
         "text": "Get labs",
-        "done": false,
+        "done": true,
         "date": null,
         "color": "blue",
         "recurring": false,
@@ -3640,7 +3640,7 @@
       "duration": 1,
       "color": "blue",
       "taskId": "ar141xerkwampx9oqd6",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
