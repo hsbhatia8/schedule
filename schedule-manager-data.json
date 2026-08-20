@@ -3542,13 +3542,13 @@
     {
       "id": "zbfim96k8nmswa0gbn",
       "title": "UKB preeclampsia",
-      "date": "2026-08-21",
-      "hour": 17,
-      "startMin": 0,
+      "date": "2026-08-20",
+      "hour": 14,
+      "startMin": 30,
       "duration": 0.5,
       "color": "gold",
       "taskId": "74sk6dcesxlmq78q7hx",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
