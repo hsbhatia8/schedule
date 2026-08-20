@@ -3528,9 +3528,9 @@
     {
       "id": "63w6vy6uutemswa04r9",
       "title": "E&I",
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "hour": 16,
-      "startMin": 0,
+      "startMin": 30,
       "duration": 0.5,
       "color": "orange",
       "taskId": "3oo8yw8ud1imrkw05zc",
@@ -3542,7 +3542,7 @@
     {
       "id": "zbfim96k8nmswa0gbn",
       "title": "UKB preeclampsia",
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "hour": 17,
       "startMin": 0,
       "duration": 0.5,
