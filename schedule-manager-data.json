@@ -169,16 +169,6 @@
         "recurHour": null
       },
       {
-        "id": "ar141xerkwampx9oqd6",
-        "text": "Get labs",
-        "done": true,
-        "date": null,
-        "color": "blue",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": null
-      },
-      {
         "id": "aq1fy5q9r4cmpx9nvzd",
         "text": "Update CV",
         "done": false,
