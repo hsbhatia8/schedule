@@ -72,18 +72,6 @@
         "nextRecur": null
       },
       {
-        "id": "74sk6dcesxlmq78q7hx",
-        "text": "UKB preeclampsia",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "ixfrxa9qbmmsdfte04",
         "text": "LDL cumulative exposure CAC 0",
         "done": false,
@@ -112,6 +100,18 @@
         "text": "Residual risk idea",
         "done": false,
         "date": null
+      },
+      {
+        "id": "74sk6dcesxlmq78q7hx",
+        "text": "UKB preeclampsia",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       },
       {
         "id": "u7z3g6mpz6mmpx8eo73",
