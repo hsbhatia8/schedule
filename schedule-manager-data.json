@@ -3528,20 +3528,6 @@
       "recurExceptions": []
     },
     {
-      "id": "63w6vy6uutemswa04r9",
-      "title": "E&I",
-      "date": "2026-08-21",
-      "hour": 14,
-      "startMin": 0,
-      "duration": 0.5,
-      "color": "orange",
-      "taskId": "3oo8yw8ud1imrkw05zc",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
       "id": "zbfim96k8nmswa0gbn",
       "title": "UKB preeclampsia",
       "date": "2026-08-20",
@@ -3634,20 +3620,6 @@
       "duration": 0.5,
       "color": "red",
       "done": true,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
-      "id": "rpzhlxzr4umsz0hpnu",
-      "title": "Update CV",
-      "date": "2026-08-21",
-      "hour": 15,
-      "startMin": 0,
-      "duration": 1,
-      "color": "orange",
-      "taskId": "aq1fy5q9r4cmpx9nvzd",
-      "done": false,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
