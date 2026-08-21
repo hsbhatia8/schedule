@@ -125,18 +125,6 @@
         "recurDays": []
       },
       {
-        "id": "1igxboyu5fdmrl33i9e",
-        "text": "PBS subscription",
-        "done": false,
-        "date": "",
-        "color": "blue",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "xt8btmyqofcmpxatqs7",
         "text": "Journal Reviews",
         "done": false,
@@ -178,6 +166,18 @@
         "recurring": false,
         "recurDay": null,
         "recurHour": null
+      },
+      {
+        "id": "1igxboyu5fdmrl33i9e",
+        "text": "PBS subscription",
+        "done": false,
+        "date": "",
+        "color": "blue",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "deadlines": [
