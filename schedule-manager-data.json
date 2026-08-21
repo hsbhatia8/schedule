@@ -102,18 +102,6 @@
         "date": null
       },
       {
-        "id": "74sk6dcesxlmq78q7hx",
-        "text": "UKB preeclampsia",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "u7z3g6mpz6mmpx8eo73",
         "text": "Post doc",
         "done": false,
@@ -173,6 +161,18 @@
         "done": false,
         "date": "",
         "color": "blue",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
+        "id": "74sk6dcesxlmq78q7hx",
+        "text": "UKB preeclampsia",
+        "done": false,
+        "date": "",
+        "color": "gold",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
