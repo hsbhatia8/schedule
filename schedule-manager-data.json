@@ -114,6 +114,18 @@
           "2026-08-14",
           "2026-08-21"
         ]
+      },
+      {
+        "id": "yv7u6u6k2bmt615uej",
+        "text": "JACC Adv Ed",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
