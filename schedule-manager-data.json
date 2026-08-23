@@ -84,18 +84,6 @@
         "nextRecur": null
       },
       {
-        "id": "cic4awgkk5bmt0q2yst",
-        "text": "MASALA PREVENT",
-        "done": true,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "u7z3g6mpz6mmpx8eo73",
         "text": "Post doc",
         "done": false,
