@@ -3744,6 +3744,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "v4atlmf93oqmt95o82t",
+      "title": "Lp(a) stroke",
+      "date": "2026-08-25",
+      "hour": 15,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "gold",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
