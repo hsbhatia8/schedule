@@ -305,6 +305,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "btkvaubjd2imt98cddk",
+        "text": "Research progress report",
+        "done": false,
+        "date": "2026-09-18",
+        "color": "red",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ]
   },
@@ -3900,6 +3912,19 @@
       "startMin": 0,
       "duration": 1,
       "color": "gold",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "6pnlt25x33dmt98cddk",
+      "title": "Research progress report",
+      "date": "2026-09-18",
+      "hour": 17,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
       "done": false,
       "recurring": false,
       "recurDays": [],
