@@ -3717,6 +3717,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "rod5m6k7ynmmt95ntn0",
+      "title": "JACC Adv Ed",
+      "date": "2026-08-25",
+      "hour": 14,
+      "startMin": 0,
+      "duration": 1,
+      "color": "orange",
+      "taskId": "yv7u6u6k2bmt615uej",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
