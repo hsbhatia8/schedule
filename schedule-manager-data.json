@@ -3812,6 +3812,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "yxu6ugbvc4mmt95oz2l",
+      "title": "CKM Review",
+      "date": "2026-08-27",
+      "hour": 16,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
