@@ -3731,6 +3731,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "mkp7t8wu0lemt95o3yz",
+      "title": "BEACON score",
+      "date": "2026-08-25",
+      "hour": 15,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "gold",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
