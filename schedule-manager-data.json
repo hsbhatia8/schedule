@@ -106,6 +106,12 @@
     ],
     "later": [
       {
+        "id": "5ayyzo8frlsmpx9p6vc",
+        "text": "Residual risk idea",
+        "done": false,
+        "date": null
+      },
+      {
         "id": "37ofu7l9dvjmpx9o2wd",
         "text": "Contact FG life",
         "done": false,
@@ -148,12 +154,6 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
-      },
-      {
-        "id": "5ayyzo8frlsmpx9p6vc",
-        "text": "Residual risk idea",
-        "done": false,
-        "date": null
       },
       {
         "id": "ixfrxa9qbmmsdfte04",
