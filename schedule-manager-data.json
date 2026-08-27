@@ -182,15 +182,6 @@
     ],
     "deadlines": [
       {
-        "id": "jlz3k3r2yjsmpxamzp3",
-        "text": "SCI",
-        "done": true,
-        "date": "2026-08-29",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": null
-      },
-      {
         "id": "q5n4f7yv3wmpxan3sh",
         "text": "FHF October",
         "done": false,
