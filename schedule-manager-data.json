@@ -184,7 +184,7 @@
       {
         "id": "jlz3k3r2yjsmpxamzp3",
         "text": "SCI",
-        "done": false,
+        "done": true,
         "date": "2026-08-29",
         "recurring": false,
         "recurDay": null,
@@ -3957,7 +3957,7 @@
       "duration": 0.5,
       "color": "red",
       "taskId": "jlz3k3r2yjsmpxamzp3",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
