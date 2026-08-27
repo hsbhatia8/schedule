@@ -4092,12 +4092,6 @@
         "date": "July 24 2026 AJPC R1"
       },
       {
-        "id": "rbwsrbx4k3rmpyaif7p",
-        "name": "Lp(a) First Events",
-        "tag": "Submitted",
-        "date": "Aug 2 EJPC"
-      },
-      {
         "id": "cdp74bxypuwmq64i1vt",
         "name": "BEACON score",
         "tag": "Submitted",
@@ -4114,6 +4108,12 @@
         "name": "MASALA Lp(a)",
         "tag": "Submitted",
         "date": "R2 Aug 19 2026"
+      },
+      {
+        "id": "rbwsrbx4k3rmpyaif7p",
+        "name": "Lp(a) First Events",
+        "tag": "None",
+        "date": "Aug 2 EJPC"
       }
     ],
     "completed": []
