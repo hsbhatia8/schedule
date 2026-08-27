@@ -4121,6 +4121,10 @@
   "ideas": {
     "beacon": [
       {
+        "id": "kwf71dq1xsdms6p8cwu",
+        "text": "BEACON score and aspirin"
+      },
+      {
         "id": "cx6hhk373uvmq0gufom",
         "text": "Residual risk"
       },
@@ -4151,10 +4155,6 @@
       {
         "id": "jbz6qn36e8bmq0gxv05",
         "text": "Lp(a) and DOACs"
-      },
-      {
-        "id": "kwf71dq1xsdms6p8cwu",
-        "text": "BEACON score and aspirin"
       }
     ],
     "ukb": [
