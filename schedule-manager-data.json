@@ -112,6 +112,18 @@
         "date": null
       },
       {
+        "id": "74sk6dcesxlmq78q7hx",
+        "text": "UKB preeclampsia",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "37ofu7l9dvjmpx9o2wd",
         "text": "Contact FG life",
         "done": false,
@@ -137,18 +149,6 @@
         "done": false,
         "date": "",
         "color": "blue",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "74sk6dcesxlmq78q7hx",
-        "text": "UKB preeclampsia",
-        "done": false,
-        "date": "",
-        "color": "gold",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
