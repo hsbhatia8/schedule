@@ -3979,6 +3979,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "9axe6ki7vyemtbss76k",
+      "title": "Contact FG life",
+      "date": "2026-08-28",
+      "hour": 11,
+      "startMin": 30,
+      "duration": 1,
+      "color": "blue",
+      "taskId": "37ofu7l9dvjmpx9o2wd",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
