@@ -4223,12 +4223,12 @@
         "text": "Carotid US Lp(a)"
       },
       {
-        "id": "r6ivzi3h8shmq0h9gyt",
-        "text": "SA registry"
-      },
-      {
         "id": "ngdvc7yuiamq0h8ow2",
         "text": "Cumulative Lp(a) exposure"
+      },
+      {
+        "id": "r6ivzi3h8shmq0h9gyt",
+        "text": "SA registry"
       }
     ],
     "iproj-completed": [
