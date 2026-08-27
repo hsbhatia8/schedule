@@ -3974,6 +3974,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "men657qx61amtbqqcjk",
+      "title": "HDP Review",
+      "date": "2026-08-28",
+      "hour": 11,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "gold",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
