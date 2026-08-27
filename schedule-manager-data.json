@@ -26,6 +26,28 @@
         "nextRecur": null
       },
       {
+        "id": "xzkrif7zkzfmpx9chcu",
+        "text": "R01",
+        "done": false,
+        "date": null,
+        "color": "orange",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      },
+      {
+        "id": "3oo8yw8ud1imrkw05zc",
+        "text": "E&I",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "u3g8iiiyv6mrfktqd2",
         "text": "BEACON cohort",
         "done": false,
@@ -40,28 +62,6 @@
       {
         "id": "qubewawwd5fmsw5hzma",
         "text": "BEACON score next steps",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "xzkrif7zkzfmpx9chcu",
-        "text": "R01",
-        "done": false,
-        "date": null,
-        "color": "orange",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": null
-      },
-      {
-        "id": "3oo8yw8ud1imrkw05zc",
-        "text": "E&I",
         "done": false,
         "date": "",
         "color": "orange",
