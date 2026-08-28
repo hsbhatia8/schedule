@@ -3909,19 +3909,6 @@
       "recurExceptions": []
     },
     {
-      "id": "r37l71v57yqmt98g637",
-      "title": "Lp(a) bleeding review",
-      "date": "2026-08-28",
-      "hour": 11,
-      "startMin": 30,
-      "duration": 1,
-      "color": "gold",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
       "id": "6fdk32auay8mta8dmgx",
       "title": "SCI",
       "date": "2026-08-27",
@@ -3957,7 +3944,7 @@
       "startMin": 0,
       "duration": 0.5,
       "color": "gold",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
