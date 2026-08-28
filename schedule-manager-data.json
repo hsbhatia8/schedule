@@ -4048,7 +4048,7 @@
       "hour": 13,
       "startMin": 30,
       "duration": 0.5,
-      "color": "gold",
+      "color": "orange",
       "done": false,
       "recurring": false,
       "recurDays": [],
