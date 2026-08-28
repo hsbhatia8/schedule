@@ -86,7 +86,7 @@
         "id": "xt8btmyqofcmpxatqs7",
         "text": "Journal Reviews",
         "done": false,
-        "date": null,
+        "date": "",
         "recurring": true,
         "recurDay": 4,
         "recurHour": 9,
@@ -102,6 +102,9 @@
           "2026-08-14",
           "2026-08-21",
           "2026-08-28"
+        ],
+        "recurDays": [
+          4
         ]
       }
     ],
