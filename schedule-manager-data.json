@@ -294,11 +294,12 @@
         "id": "aq1fy5q9r4cmpx9nvzd",
         "text": "Update CV",
         "done": false,
-        "date": null,
+        "date": "2026-10-02",
         "color": "orange",
         "recurring": false,
         "recurDay": null,
-        "recurHour": null
+        "recurHour": 9,
+        "recurDays": []
       }
     ]
   },
