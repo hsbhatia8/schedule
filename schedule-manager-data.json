@@ -4040,6 +4040,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "4z41oig1tgfmtd8ngu6",
+      "title": "FH summit code",
+      "date": "2026-09-03",
+      "hour": 13,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "gold",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
