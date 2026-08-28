@@ -4163,12 +4163,6 @@
         "date": "Aug 25 Nature Medicine"
       },
       {
-        "id": "iilldnvmx8pmpyabnne",
-        "name": "JCL Lp(a) Review",
-        "tag": "Submitted",
-        "date": "Aug 15 JCL R1"
-      },
-      {
         "id": "ms2cz7jt9nmpyabuo9",
         "name": "MASALA Lp(a)",
         "tag": "Submitted",
@@ -4181,7 +4175,14 @@
         "date": "Aug 2 EJPC"
       }
     ],
-    "completed": []
+    "completed": [
+      {
+        "id": "iilldnvmx8pmpyabnne",
+        "name": "JCL Lp(a) Review",
+        "tag": "Submitted",
+        "date": "Aug 15 JCL R1"
+      }
+    ]
   },
   "ideas": {
     "beacon": [
