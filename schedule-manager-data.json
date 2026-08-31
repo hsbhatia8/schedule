@@ -4058,12 +4058,6 @@
   "projects": {
     "active": [
       {
-        "id": "310lgmj8r0qmpyartm1",
-        "name": "New CAC score",
-        "tag": "Active",
-        "date": "May 2026"
-      },
-      {
         "id": "kfzlxdloatcmpyai8od",
         "name": "High HDL-C CAC",
         "tag": "On Hold",
@@ -4168,6 +4162,12 @@
         "name": "Lp(a) First Events",
         "tag": "None",
         "date": "Aug 2 EJPC"
+      },
+      {
+        "id": "310lgmj8r0qmpyartm1",
+        "name": "New CAC score",
+        "tag": "Submitted",
+        "date": "May 2026"
       }
     ],
     "completed": [
