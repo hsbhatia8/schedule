@@ -4190,6 +4190,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "3rnu3jrs1wkmtj9kh2l",
+      "title": "Stroke",
+      "date": "2026-09-01",
+      "hour": 15,
+      "startMin": 0,
+      "duration": 1,
+      "color": "gold",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
