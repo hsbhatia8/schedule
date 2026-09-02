@@ -4194,20 +4194,6 @@
       "recurExceptions": []
     },
     {
-      "id": "4kivxebsac6mtkbulb7",
-      "title": "R01",
-      "date": "2026-09-02",
-      "hour": 15,
-      "startMin": 0,
-      "duration": 1,
-      "color": "orange",
-      "taskId": "xzkrif7zkzfmpx9chcu",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
       "id": "icb6epgmul8mtkfc4md",
       "title": "BEACON cohort",
       "date": "2026-09-02",
