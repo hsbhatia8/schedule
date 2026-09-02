@@ -4219,6 +4219,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "zsdrzq3g6vimtkmn4yq",
+      "title": "Sports surveys",
+      "date": "2026-09-03",
+      "hour": 14,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
