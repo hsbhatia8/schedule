@@ -4091,8 +4091,8 @@
     {
       "id": "9f05z58ubz4mtj8052w",
       "title": "E&I",
-      "date": "2026-09-03",
-      "hour": 14,
+      "date": "2026-09-04",
+      "hour": 15,
       "startMin": 30,
       "duration": 0.5,
       "color": "orange",
@@ -4199,9 +4199,9 @@
     {
       "id": "zsdrzq3g6vimtkmn4yq",
       "title": "Sports surveys",
-      "date": "2026-09-03",
-      "hour": 14,
-      "startMin": 0,
+      "date": "2026-09-04",
+      "hour": 13,
+      "startMin": 30,
       "duration": 0.5,
       "color": "orange",
       "done": false,
