@@ -4208,6 +4208,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "aukz4f0od0fmtm1tqyv",
+      "title": "SOMI slides",
+      "date": "2026-09-04",
+      "hour": 10,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
