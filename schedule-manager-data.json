@@ -89,7 +89,8 @@
           "2026-08-03",
           "2026-08-14",
           "2026-08-21",
-          "2026-08-28"
+          "2026-08-28",
+          "2026-09-04"
         ],
         "recurDays": [
           4
@@ -3966,7 +3967,7 @@
       "startMin": 0,
       "duration": 0.5,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
