@@ -4164,7 +4164,7 @@
       "title": "Sports surveys",
       "date": "2026-09-08",
       "hour": 15,
-      "startMin": 0,
+      "startMin": 30,
       "duration": 0.5,
       "color": "orange",
       "done": false,
