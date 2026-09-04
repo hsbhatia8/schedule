@@ -4237,6 +4237,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "4fui0gl2hydmtne6vnt",
+      "title": "Elective Concentrations",
+      "date": "2026-09-10",
+      "hour": 13,
+      "startMin": 0,
+      "duration": 2,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
