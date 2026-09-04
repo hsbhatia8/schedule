@@ -4250,6 +4250,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "2x5skceyk9ymtne7h5c",
+      "title": "Interviews",
+      "date": "2026-09-11",
+      "hour": 9,
+      "startMin": 0,
+      "duration": 3,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
