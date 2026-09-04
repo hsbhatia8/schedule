@@ -4223,6 +4223,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "icz59rg0whfmtne6ii3",
+      "title": "Interviews",
+      "date": "2026-09-10",
+      "hour": 8,
+      "startMin": 0,
+      "duration": 4,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
