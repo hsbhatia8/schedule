@@ -4263,6 +4263,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "lrmnxo2wfesmtrvbxs0",
+      "title": "JACC adv revision",
+      "date": "2026-09-08",
+      "hour": 14,
+      "startMin": 0,
+      "duration": 1,
+      "color": "gold",
+      "taskId": "1fn2jlt5kfwhmshq6ro8",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
