@@ -4448,16 +4448,16 @@
         "date": "Aug 31 Circ Img R1"
       },
       {
-        "id": "rbwsrbx4k3rmpyaif7p",
-        "name": "Lp(a) First Events",
-        "tag": "None",
-        "date": "Aug 2 EJPC"
-      },
-      {
         "id": "uvh5pyuloimmpyajh2a",
         "name": "Statin allocation",
         "tag": "Submitted",
         "date": "JACC Adv Sep 8 2026"
+      },
+      {
+        "id": "rbwsrbx4k3rmpyaif7p",
+        "name": "Lp(a) First Events",
+        "tag": "None",
+        "date": "Aug 2 EJPC"
       }
     ],
     "completed": [
