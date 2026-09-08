@@ -4382,12 +4382,6 @@
         "name": "apoB thresholds",
         "tag": "On Hold",
         "date": ""
-      },
-      {
-        "id": "uvh5pyuloimmpyajh2a",
-        "name": "Statin allocation",
-        "tag": "Active",
-        "date": "JACC Adv July 17 2026"
       }
     ],
     "mentored": [
@@ -4458,6 +4452,12 @@
         "name": "Lp(a) First Events",
         "tag": "None",
         "date": "Aug 2 EJPC"
+      },
+      {
+        "id": "uvh5pyuloimmpyajh2a",
+        "name": "Statin allocation",
+        "tag": "Active",
+        "date": "JACC Adv July 17 2026"
       }
     ],
     "completed": [
