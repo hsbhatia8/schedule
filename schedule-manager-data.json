@@ -60,18 +60,6 @@
         "nextRecur": null
       },
       {
-        "id": "qubewawwd5fmsw5hzma",
-        "text": "BEACON score next steps",
-        "done": true,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "u7z3g6mpz6mmpx8eo73",
         "text": "Post doc",
         "done": false,
