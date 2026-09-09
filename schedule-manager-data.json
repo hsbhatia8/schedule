@@ -4390,6 +4390,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "f1txg4i2jzdmtudm1as",
+      "title": "Interview prep",
+      "date": "2026-09-10",
+      "hour": 16,
+      "startMin": 0,
+      "duration": 1,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
