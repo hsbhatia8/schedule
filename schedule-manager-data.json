@@ -223,18 +223,6 @@
         "nextRecur": null
       },
       {
-        "id": "le6mo7kb02mt95q0lc",
-        "text": "JCL Review",
-        "done": false,
-        "date": "2026-09-07",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "btkvaubjd2imt98cddk",
         "text": "Research progress report",
         "done": false,
@@ -3844,7 +3832,7 @@
       "startMin": 0,
       "duration": 1,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
