@@ -851,7 +851,8 @@
         "2026-07-22",
         "2026-07-29",
         "2026-08-19",
-        "2026-09-02"
+        "2026-09-02",
+        "2026-09-09"
       ],
       "recurExceptions": [
         "2026-06-03",
@@ -4292,7 +4293,7 @@
       "startMin": 0,
       "duration": 0.5,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
