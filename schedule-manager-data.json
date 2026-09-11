@@ -305,6 +305,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "ox476dd75rcmtxhtm94",
+        "text": "MASLD slides",
+        "done": false,
+        "date": "2026-09-28",
+        "color": "red",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ]
   },
@@ -4264,6 +4276,19 @@
       "color": "orange",
       "taskId": "3oo8yw8ud1imrkw05zc",
       "done": true,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "8e7wvke8r3nmtxhtm94",
+      "title": "MASLD slides",
+      "date": "2026-09-28",
+      "hour": 17,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
