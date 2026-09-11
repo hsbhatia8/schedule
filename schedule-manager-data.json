@@ -792,7 +792,8 @@
         "2026-07-16",
         "2026-07-23",
         "2026-08-13",
-        "2026-09-03"
+        "2026-09-03",
+        "2026-09-10"
       ]
     },
     {
@@ -4217,7 +4218,7 @@
       "startMin": 0,
       "duration": 2,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -4278,7 +4279,7 @@
     {
       "id": "5y4sdk4mmq7mts3zfnf",
       "title": "BEACON score",
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "hour": 16,
       "startMin": 0,
       "duration": 0.5,
