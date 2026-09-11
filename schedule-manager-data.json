@@ -4317,6 +4317,12 @@
         "date": ""
       },
       {
+        "id": "rbwsrbx4k3rmpyaif7p",
+        "name": "Lp(a) First Events",
+        "tag": "None",
+        "date": "Aug 2 EJPC"
+      },
+      {
         "id": "uvh5pyuloimmpyajh2a",
         "name": "Statin allocation",
         "tag": "Active",
@@ -4385,12 +4391,6 @@
         "name": "New CAC score",
         "tag": "Submitted",
         "date": "Aug 31 Circ Img R1"
-      },
-      {
-        "id": "rbwsrbx4k3rmpyaif7p",
-        "name": "Lp(a) First Events",
-        "tag": "None",
-        "date": "Aug 2 EJPC"
       }
     ],
     "completed": [
