@@ -223,30 +223,6 @@
         "nextRecur": null
       },
       {
-        "id": "f0qrk4ar05mt95pq03",
-        "text": "JCL Revision Review",
-        "done": false,
-        "date": "2026-09-07",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "le6mo7kb02mt95q0lc",
-        "text": "JCL Review",
-        "done": false,
-        "date": "2026-09-07",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "btkvaubjd2imt98cddk",
         "text": "Research progress report",
         "done": false,
@@ -3837,7 +3813,7 @@
       "startMin": 0,
       "duration": 1,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -3850,7 +3826,7 @@
       "startMin": 0,
       "duration": 1,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -4150,8 +4126,8 @@
     {
       "id": "zsdrzq3g6vimtkmn4yq",
       "title": "Sports surveys",
-      "date": "2026-09-08",
-      "hour": 15,
+      "date": "2026-09-11",
+      "hour": 16,
       "startMin": 30,
       "duration": 0.5,
       "color": "orange",
