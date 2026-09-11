@@ -60,6 +60,18 @@
         "nextRecur": null
       },
       {
+        "id": "ca3xrlk0iq9mtxgm5hu",
+        "text": "BIOLINCC",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "u7z3g6mpz6mmpx8eo73",
         "text": "Post doc",
         "done": false,
@@ -96,18 +108,6 @@
         "recurDays": [
           4
         ]
-      },
-      {
-        "id": "ca3xrlk0iq9mtxgm5hu",
-        "text": "BIOLINCC",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       }
     ],
     "later": [
