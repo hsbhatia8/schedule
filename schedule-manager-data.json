@@ -84,6 +84,18 @@
         "nextRecur": null
       },
       {
+        "id": "slyuu5al1zhmtxhvfq5",
+        "text": "Send NACE slides by Sep 30",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "u7z3g6mpz6mmpx8eo73",
         "text": "Post doc",
         "done": false,
