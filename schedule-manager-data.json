@@ -4369,12 +4369,6 @@
         "date": "June 2026"
       },
       {
-        "id": "pssu7n9prjdmpyahz1r",
-        "name": "Lp(a) CAC Timing",
-        "tag": "Submitted",
-        "date": "July 24 2026 AJPC R1"
-      },
-      {
         "id": "ms2cz7jt9nmpyabuo9",
         "name": "MASALA Lp(a)",
         "tag": "Submitted",
@@ -4405,6 +4399,12 @@
         "name": "JCL Lp(a) Review",
         "tag": "Completed",
         "date": "Aug 28 2026"
+      },
+      {
+        "id": "pssu7n9prjdmpyahz1r",
+        "name": "Lp(a) CAC Timing",
+        "tag": "Submitted",
+        "date": "July 24 2026 AJPC R1"
       }
     ]
   },
