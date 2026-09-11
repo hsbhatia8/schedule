@@ -38,6 +38,18 @@
         "nextRecur": null
       },
       {
+        "id": "pvo3cdaw1omtxhuz8z",
+        "text": "Lili review",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "xzkrif7zkzfmpx9chcu",
         "text": "R01",
         "done": false,
@@ -108,18 +120,6 @@
         "recurDays": [
           4
         ]
-      },
-      {
-        "id": "pvo3cdaw1omtxhuz8z",
-        "text": "Lili review",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       }
     ],
     "later": [
