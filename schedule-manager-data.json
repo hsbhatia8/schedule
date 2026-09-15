@@ -4481,6 +4481,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "46n7um8j42lmu34h8xu",
+      "title": "BIOLINCC",
+      "date": "2026-09-16",
+      "hour": 10,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "orange",
+      "taskId": "ca3xrlk0iq9mtxgm5hu",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
