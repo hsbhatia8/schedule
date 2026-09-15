@@ -4495,6 +4495,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "0ty8kam223umu34hedp",
+      "title": "Send NACE slides by Sep 30",
+      "date": "2026-09-18",
+      "hour": 14,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "gold",
+      "taskId": "slyuu5al1zhmtxhvfq5",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
