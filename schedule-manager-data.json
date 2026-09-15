@@ -132,6 +132,18 @@
         "recurDays": [
           4
         ]
+      },
+      {
+        "id": "nn1ui6p5y3nmu34i1ng",
+        "text": "HDL-C CAC",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
