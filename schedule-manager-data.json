@@ -307,18 +307,6 @@
         "nextRecur": null
       },
       {
-        "id": "drnuaks9b6hmtj7xsw7",
-        "text": "JACC Adv re-review",
-        "done": false,
-        "date": "2026-09-11",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "tdss3zky8drmtk8xxns",
         "text": "JCL Review",
         "done": false,
