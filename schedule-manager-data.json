@@ -60,6 +60,18 @@
         "recurHour": null
       },
       {
+        "id": "nn1ui6p5y3nmu34i1ng",
+        "text": "HDL-C CAC",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "3oo8yw8ud1imrkw05zc",
         "text": "E&I",
         "done": false,
@@ -132,18 +144,6 @@
         "recurDays": [
           4
         ]
-      },
-      {
-        "id": "nn1ui6p5y3nmu34i1ng",
-        "text": "HDL-C CAC",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       }
     ],
     "later": [
@@ -4517,6 +4517,20 @@
       "duration": 0.5,
       "color": "gold",
       "taskId": "slyuu5al1zhmtxhvfq5",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "pgmv4tybewjmu34i5jw",
+      "title": "HDL-C CAC",
+      "date": "2026-09-16",
+      "hour": 10,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "gold",
+      "taskId": "nn1ui6p5y3nmu34i1ng",
       "done": false,
       "recurring": false,
       "recurDays": [],
