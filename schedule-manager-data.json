@@ -4358,6 +4358,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "hrzjuor0225mu340hyp",
+      "title": "Interviews",
+      "date": "2026-09-18",
+      "hour": 10,
+      "startMin": 0,
+      "duration": 2,
+      "color": "purple",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
