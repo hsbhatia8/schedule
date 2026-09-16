@@ -295,18 +295,6 @@
         "recurDays": []
       },
       {
-        "id": "kzo59wyw9rgmti4zq1i",
-        "text": "AJPC review",
-        "done": false,
-        "date": "2026-09-14",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "tdss3zky8drmtk8xxns",
         "text": "JCL Review",
         "done": false,
@@ -4089,7 +4077,7 @@
       "startMin": 0,
       "duration": 1,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
