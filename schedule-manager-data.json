@@ -4611,12 +4611,6 @@
     ],
     "mentored": [
       {
-        "id": "7gh1cvsi3g3mpyajnjz",
-        "name": "Lp(a) stroke COSMOS",
-        "tag": "Active",
-        "date": ""
-      },
-      {
         "id": "yngu1v8bhf9mpzrizzi",
         "name": "LS7 Lp(a) AVC",
         "tag": "On Hold",
@@ -4671,6 +4665,12 @@
         "name": "Statin allocation",
         "tag": "Submitted",
         "date": "JACC Adv R1 Sep 14 2026"
+      },
+      {
+        "id": "7gh1cvsi3g3mpyajnjz",
+        "name": "Lp(a) stroke COSMOS",
+        "tag": "Active",
+        "date": ""
       }
     ],
     "completed": [
