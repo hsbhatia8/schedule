@@ -48,18 +48,6 @@
         "recurHour": null
       },
       {
-        "id": "nn1ui6p5y3nmu34i1ng",
-        "text": "HDL-C CAC",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "3oo8yw8ud1imrkw05zc",
         "text": "E&I",
         "done": false,
@@ -4521,7 +4509,7 @@
       "duration": 0.5,
       "color": "gold",
       "taskId": "nn1ui6p5y3nmu34i1ng",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
