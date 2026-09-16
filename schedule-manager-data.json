@@ -14,18 +14,6 @@
         "nextRecur": null
       },
       {
-        "id": "u3g8iiiyv6mrfktqd2",
-        "text": "BEACON cohort",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "xzkrif7zkzfmpx9chcu",
         "text": "R01",
         "done": false,
@@ -81,6 +69,18 @@
         "recurDay": null,
         "recurHour": 9,
         "recurDays": []
+      },
+      {
+        "id": "u3g8iiiyv6mrfktqd2",
+        "text": "BEACON cohort",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       },
       {
         "id": "xt8btmyqofcmpxatqs7",
