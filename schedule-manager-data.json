@@ -4613,6 +4613,12 @@
         "date": ""
       },
       {
+        "id": "ja4a6wvl1omu3aco99",
+        "name": "Lp(a) HDP CAC",
+        "tag": "On Hold",
+        "date": ""
+      },
+      {
         "id": "2h3i064fcz5mpyaqgo1",
         "name": "Insulin resistance HF",
         "tag": "On Hold",
@@ -4633,12 +4639,6 @@
       {
         "id": "lwplr4p8f3cmpyaqqag",
         "name": "South Asian registry",
-        "tag": "On Hold",
-        "date": ""
-      },
-      {
-        "id": "ja4a6wvl1omu3aco99",
-        "name": "Lp(a) HDP CAC",
         "tag": "On Hold",
         "date": ""
       }
