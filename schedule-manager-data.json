@@ -4621,12 +4621,6 @@
         "name": "BEACON score",
         "tag": "Active",
         "date": "Aug 25 Nature Medicine"
-      },
-      {
-        "id": "rbwsrbx4k3rmpyaif7p",
-        "name": "Lp(a) First Events",
-        "tag": "On Hold",
-        "date": "Aug 2 EJPC"
       }
     ],
     "mentored": [
@@ -4691,6 +4685,12 @@
         "name": "Lp(a) stroke COSMOS",
         "tag": "Submitted",
         "date": "Stroke Sep 15 2026"
+      },
+      {
+        "id": "rbwsrbx4k3rmpyaif7p",
+        "name": "Lp(a) First Events",
+        "tag": "On Hold",
+        "date": "Aug 2 EJPC"
       }
     ],
     "completed": [
