@@ -4599,12 +4599,6 @@
         "date": ""
       },
       {
-        "id": "ms3eco254npmpyaj7w2",
-        "name": "apoB thresholds",
-        "tag": "On Hold",
-        "date": ""
-      },
-      {
         "id": "cdp74bxypuwmq64i1vt",
         "name": "BEACON score",
         "tag": "Active",
@@ -4689,6 +4683,12 @@
       {
         "id": "e42vas2zxvpmpyaj2dv",
         "name": "OxPL IL6",
+        "tag": "On Hold",
+        "date": ""
+      },
+      {
+        "id": "ms3eco254npmpyaj7w2",
+        "name": "apoB thresholds",
         "tag": "On Hold",
         "date": ""
       }
