@@ -4334,7 +4334,7 @@
       "startMin": 0,
       "duration": 3,
       "color": "purple",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
