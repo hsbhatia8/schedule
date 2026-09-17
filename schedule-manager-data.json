@@ -4599,18 +4599,6 @@
         "date": ""
       },
       {
-        "id": "8r21v7xmdmpmpyaiyhk",
-        "name": "Lp(a) OxPL meta",
-        "tag": "On Hold",
-        "date": ""
-      },
-      {
-        "id": "e42vas2zxvpmpyaj2dv",
-        "name": "OxPL IL6",
-        "tag": "On Hold",
-        "date": ""
-      },
-      {
         "id": "ms3eco254npmpyaj7w2",
         "name": "apoB thresholds",
         "tag": "On Hold",
@@ -4691,6 +4679,18 @@
         "name": "Lp(a) First Events",
         "tag": "Submitted",
         "date": "Sep 17 EJPC"
+      },
+      {
+        "id": "8r21v7xmdmpmpyaiyhk",
+        "name": "Lp(a) OxPL meta",
+        "tag": "On Hold",
+        "date": ""
+      },
+      {
+        "id": "e42vas2zxvpmpyaj2dv",
+        "name": "OxPL IL6",
+        "tag": "On Hold",
+        "date": ""
       }
     ],
     "completed": [
