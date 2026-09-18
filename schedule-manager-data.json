@@ -4680,6 +4680,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "oa6dntp46mu7jci9a",
+      "title": "MASLD slides",
+      "date": "2026-09-24",
+      "hour": 14,
+      "startMin": 30,
+      "duration": 1,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
