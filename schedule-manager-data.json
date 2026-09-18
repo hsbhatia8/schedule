@@ -4640,6 +4640,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "xw4qc6e4hiimu7jahbw",
+      "title": "DCE",
+      "date": "2026-09-25",
+      "hour": 9,
+      "startMin": 30,
+      "duration": 2,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
