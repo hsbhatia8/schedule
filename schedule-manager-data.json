@@ -4728,7 +4728,7 @@
       "date": "2026-09-24",
       "hour": 15,
       "startMin": 30,
-      "duration": 1,
+      "duration": 0.5,
       "color": "orange",
       "taskId": "ca3xrlk0iq9mtxgm5hu",
       "done": false,
