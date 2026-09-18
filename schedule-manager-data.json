@@ -4439,48 +4439,6 @@
       "recurExceptions": []
     },
     {
-      "id": "xlu8g656g3lmu34gufg",
-      "title": "R01",
-      "date": "2026-09-18",
-      "hour": 16,
-      "startMin": 0,
-      "duration": 0.5,
-      "color": "orange",
-      "taskId": "xzkrif7zkzfmpx9chcu",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
-      "id": "zvr0rokg60fmu34gz41",
-      "title": "E&I",
-      "date": "2026-09-18",
-      "hour": 13,
-      "startMin": 30,
-      "duration": 0.5,
-      "color": "orange",
-      "taskId": "3oo8yw8ud1imrkw05zc",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
-      "id": "46n7um8j42lmu34h8xu",
-      "title": "BIOLINCC",
-      "date": "2026-09-18",
-      "hour": 15,
-      "startMin": 0,
-      "duration": 0.5,
-      "color": "orange",
-      "taskId": "ca3xrlk0iq9mtxgm5hu",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
       "id": "0ty8kam223umu34hedp",
       "title": "Send NACE slides by Sep 30",
       "date": "2026-09-22",
@@ -4570,19 +4528,6 @@
       "color": "gold",
       "taskId": "b0juwz1cmklmtx8eixs",
       "done": true,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
-      "id": "bjtuopjes4mu4f8n2w",
-      "title": "Residual risk idea",
-      "date": "2026-09-18",
-      "hour": 15,
-      "startMin": 30,
-      "duration": 0.5,
-      "color": "gold",
-      "done": false,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
