@@ -4749,6 +4749,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "7b2gopf9d3hmu7jerm7",
+      "title": "LDL cumulative exposure CAC 0",
+      "date": "2026-09-24",
+      "hour": 16,
+      "startMin": 0,
+      "duration": 1,
+      "color": "gold",
+      "taskId": "ixfrxa9qbmmsdfte04",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
