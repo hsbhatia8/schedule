@@ -127,6 +127,18 @@
         "recurDays": [
           4
         ]
+      },
+      {
+        "id": "lbfgup225onmu7jn06m",
+        "text": "ACC - HDL-C, risk score",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
