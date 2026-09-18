@@ -4586,6 +4586,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "7y7z68731atmu7j8dwj",
+      "title": "AHA symposium",
+      "date": "2026-09-24",
+      "hour": 8,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
