@@ -4572,6 +4572,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "i8kf2epxhemu7j7yf2",
+      "title": "OC Symposium Slides",
+      "date": "2026-09-23",
+      "hour": 10,
+      "startMin": 0,
+      "duration": 1,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
