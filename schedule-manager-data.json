@@ -4803,6 +4803,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "ww3spyn771mu7jn3hj",
+      "title": "ACC - HDL-C, risk score",
+      "date": "2026-09-25",
+      "hour": 14,
+      "startMin": 30,
+      "duration": 1,
+      "color": "gold",
+      "taskId": "lbfgup225onmu7jn06m",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
