@@ -4653,6 +4653,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "5hsflq04xjmmu7jb48g",
+      "title": "Harbor",
+      "date": "2026-09-25",
+      "hour": 13,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
