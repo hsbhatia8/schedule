@@ -318,6 +318,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "nwklzvjc97mud2ttn2",
+        "text": "JACC adv re-review",
+        "done": false,
+        "date": "2026-10-02",
+        "color": "red",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ]
   },
@@ -4814,6 +4826,19 @@
       "duration": 1,
       "color": "gold",
       "taskId": "lbfgup225onmu7jn06m",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "sn0no82bbyqmud2ttn2",
+      "title": "JACC adv re-review",
+      "date": "2026-10-02",
+      "hour": 17,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
       "done": false,
       "recurring": false,
       "recurDays": [],
