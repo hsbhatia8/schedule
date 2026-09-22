@@ -330,6 +330,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "0fkmjih25q57mud3btvo",
+        "text": "EJPC re review",
+        "done": false,
+        "date": "2026-09-29",
+        "color": "red",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ]
   },
@@ -4835,6 +4847,19 @@
       "id": "sn0no82bbyqmud2ttn2",
       "title": "JACC adv re-review",
       "date": "2026-10-02",
+      "hour": 17,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "69qntmjtvupmud3btvo",
+      "title": "EJPC re review",
+      "date": "2026-09-29",
       "hour": 17,
       "startMin": 0,
       "duration": 1,
