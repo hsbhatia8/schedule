@@ -4530,7 +4530,7 @@
       "startMin": 0,
       "duration": 1,
       "color": "orange",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -4865,6 +4865,19 @@
       "startMin": 0,
       "duration": 1,
       "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "1viq0ybh0j7mud9avsp",
+      "title": "FHF slides",
+      "date": "2026-09-25",
+      "hour": 16,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "orange",
       "done": false,
       "recurring": false,
       "recurDays": [],
