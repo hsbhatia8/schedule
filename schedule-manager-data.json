@@ -4964,6 +4964,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "rnbpcaqzb1mufpmc67",
+      "title": "ASPREE",
+      "date": "2026-09-24",
+      "hour": 15,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
