@@ -78,17 +78,6 @@
         "nextRecur": null
       },
       {
-        "id": "u7z3g6mpz6mmpx8eo73",
-        "text": "Post doc",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": 9,
-        "recurDays": []
-      },
-      {
         "id": "u3g8iiiyv6mrfktqd2",
         "text": "BEACON cohort",
         "done": false,
