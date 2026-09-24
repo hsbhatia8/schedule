@@ -4938,6 +4938,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "qkzxufm2djmufpluzg",
+      "title": "Investment",
+      "date": "2026-09-24",
+      "hour": 12,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
