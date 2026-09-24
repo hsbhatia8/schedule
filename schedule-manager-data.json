@@ -4934,7 +4934,7 @@
       "startMin": 30,
       "duration": 0.5,
       "color": "gold",
-      "done": true,
+      "done": false,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
