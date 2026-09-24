@@ -4676,7 +4676,7 @@
       "date": "2026-09-25",
       "hour": 9,
       "startMin": 30,
-      "duration": 2,
+      "duration": 1.5,
       "color": "red",
       "done": false,
       "recurring": false,
