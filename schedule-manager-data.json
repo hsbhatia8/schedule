@@ -4888,12 +4888,12 @@
     {
       "id": "xk8a2fsrb4pmudbcano",
       "title": "LS7 AVC",
-      "date": "2026-09-25",
-      "hour": 13,
-      "startMin": 30,
+      "date": "2026-09-24",
+      "hour": 14,
+      "startMin": 0,
       "duration": 0.5,
       "color": "gold",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
