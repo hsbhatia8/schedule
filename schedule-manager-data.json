@@ -26,6 +26,30 @@
         "nextRecur": null
       },
       {
+        "id": "lbfgup225onmu7jn06m",
+        "text": "ACC - HDL-C, risk score",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
+        "id": "slyuu5al1zhmtxhvfq5",
+        "text": "Send NACE slides by Sep 30",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "xzkrif7zkzfmpx9chcu",
         "text": "R01",
         "done": false,
@@ -41,18 +65,6 @@
         "done": false,
         "date": "",
         "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "slyuu5al1zhmtxhvfq5",
-        "text": "Send NACE slides by Sep 30",
-        "done": false,
-        "date": "",
-        "color": "gold",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
@@ -98,18 +110,6 @@
         "recurDays": [
           4
         ]
-      },
-      {
-        "id": "lbfgup225onmu7jn06m",
-        "text": "ACC - HDL-C, risk score",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       }
     ],
     "later": [
