@@ -4813,7 +4813,7 @@
       "date": "2026-09-25",
       "hour": 13,
       "startMin": 30,
-      "duration": 1,
+      "duration": 0.5,
       "color": "gold",
       "taskId": "lbfgup225onmu7jn06m",
       "done": false,
