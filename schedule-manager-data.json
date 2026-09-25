@@ -5002,6 +5002,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "gdfz5nllzx8muh2ws1h",
+      "title": "NHLBI",
+      "date": "2026-09-29",
+      "hour": 20,
+      "startMin": 0,
+      "duration": 5.5,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
