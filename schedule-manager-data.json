@@ -344,6 +344,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "58fmg76e6ljmuh8tumo",
+        "text": "EJPC Review",
+        "done": false,
+        "date": "2026-10-09",
+        "color": "red",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ]
   },
@@ -5026,6 +5038,19 @@
       "hour": 8,
       "startMin": 0,
       "duration": 5.5,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "628qjp55145muh8tumo",
+      "title": "EJPC Review",
+      "date": "2026-10-09",
+      "hour": 17,
+      "startMin": 0,
+      "duration": 1,
       "color": "red",
       "done": false,
       "recurring": false,
