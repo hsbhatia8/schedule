@@ -2,18 +2,6 @@
   "todos": {
     "active": [
       {
-        "id": "b0juwz1cmklmtx8eixs",
-        "text": "BEACON score",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "lbfgup225onmu7jn06m",
         "text": "ACC - HDL-C, risk score",
         "done": false,
@@ -91,6 +79,18 @@
     ],
     "later": [
       {
+        "id": "b0juwz1cmklmtx8eixs",
+        "text": "BEACON score",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "u3g8iiiyv6mrfktqd2",
         "text": "BEACON cohort",
         "done": false,
@@ -108,6 +108,18 @@
         "done": false,
         "date": "",
         "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
+        "id": "3oo8yw8ud1imrkw05zc",
+        "text": "E&I",
+        "done": false,
+        "date": "",
+        "color": "orange",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
@@ -167,18 +179,6 @@
         "text": "Residual risk idea",
         "done": false,
         "date": null
-      },
-      {
-        "id": "3oo8yw8ud1imrkw05zc",
-        "text": "E&I",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       }
     ],
     "deadlines": [
