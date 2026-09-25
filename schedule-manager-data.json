@@ -103,6 +103,18 @@
     ],
     "later": [
       {
+        "id": "u3g8iiiyv6mrfktqd2",
+        "text": "BEACON cohort",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "pzfh0hxyefmuh9houc",
         "text": "HDL-C",
         "done": false,
@@ -167,18 +179,6 @@
         "text": "Residual risk idea",
         "done": false,
         "date": null
-      },
-      {
-        "id": "u3g8iiiyv6mrfktqd2",
-        "text": "BEACON cohort",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       }
     ],
     "deadlines": [
