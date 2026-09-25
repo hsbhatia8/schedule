@@ -4843,7 +4843,7 @@
       "duration": 0.5,
       "color": "gold",
       "taskId": "lbfgup225onmu7jn06m",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
