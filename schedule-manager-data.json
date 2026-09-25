@@ -45,6 +45,16 @@
     ],
     "later": [
       {
+        "id": "xzkrif7zkzfmpx9chcu",
+        "text": "R01",
+        "done": false,
+        "date": null,
+        "color": "orange",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      },
+      {
         "id": "mbmbr2vuzumuhc2iw7",
         "text": "Carotid",
         "done": false,
@@ -157,16 +167,6 @@
         "text": "Residual risk idea",
         "done": false,
         "date": null
-      },
-      {
-        "id": "xzkrif7zkzfmpx9chcu",
-        "text": "R01",
-        "done": false,
-        "date": null,
-        "color": "orange",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": null
       }
     ],
     "deadlines": [
