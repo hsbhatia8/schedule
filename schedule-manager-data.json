@@ -4741,20 +4741,6 @@
       "recurExceptions": []
     },
     {
-      "id": "3npvybnushomu7je89s",
-      "title": "BIOLINCC - asa, FHS",
-      "date": "2026-09-25",
-      "hour": 16,
-      "startMin": 30,
-      "duration": 0.5,
-      "color": "orange",
-      "taskId": "ca3xrlk0iq9mtxgm5hu",
-      "done": false,
-      "recurring": false,
-      "recurDays": [],
-      "recurExceptions": []
-    },
-    {
       "id": "4fw03r5d2jmmu7jelee",
       "title": "Send NACE slides by Sep 30",
       "date": "2026-09-25",
