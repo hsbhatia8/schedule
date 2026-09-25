@@ -5107,6 +5107,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "ab7v2q7qg3tmuheuds0",
+      "title": "ACC abstracts",
+      "date": "2026-09-29",
+      "hour": 13,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
