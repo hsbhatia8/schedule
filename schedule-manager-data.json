@@ -5143,16 +5143,16 @@
         "date": "JACC Adv R1 Sep 14 2026"
       },
       {
-        "id": "7gh1cvsi3g3mpyajnjz",
-        "name": "Lp(a) stroke COSMOS",
-        "tag": "Submitted",
-        "date": "JAHA Sep 25 2026"
-      },
-      {
         "id": "rbwsrbx4k3rmpyaif7p",
         "name": "Lp(a) First Events",
         "tag": "Submitted",
         "date": "Sep 17 EJPC"
+      },
+      {
+        "id": "7gh1cvsi3g3mpyajnjz",
+        "name": "Lp(a) stroke COSMOS",
+        "tag": "Submitted",
+        "date": "JAHA Sep 25 2026"
       },
       {
         "id": "8r21v7xmdmpmpyaiyhk",
