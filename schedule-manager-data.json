@@ -14,18 +14,6 @@
         "nextRecur": null
       },
       {
-        "id": "3oo8yw8ud1imrkw05zc",
-        "text": "E&I",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "lbfgup225onmu7jn06m",
         "text": "ACC - HDL-C, risk score",
         "done": false,
@@ -179,6 +167,18 @@
         "text": "Residual risk idea",
         "done": false,
         "date": null
+      },
+      {
+        "id": "3oo8yw8ud1imrkw05zc",
+        "text": "E&I",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "deadlines": [
