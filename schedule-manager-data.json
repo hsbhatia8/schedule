@@ -2,18 +2,6 @@
   "todos": {
     "active": [
       {
-        "id": "lbfgup225onmu7jn06m",
-        "text": "ACC - HDL-C, risk score",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "slyuu5al1zhmtxhvfq5",
         "text": "Send NACE slides by Sep 30",
         "done": false,
