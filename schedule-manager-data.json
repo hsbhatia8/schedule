@@ -5070,6 +5070,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "u26xtolbrvamuh9fr1h",
+      "title": "Family Heart",
+      "date": "2026-10-01",
+      "hour": 15,
+      "startMin": 0,
+      "duration": 2.5,
+      "color": "purple",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
