@@ -2,28 +2,6 @@
   "todos": {
     "active": [
       {
-        "id": "slyuu5al1zhmtxhvfq5",
-        "text": "Send NACE slides by Sep 30",
-        "done": true,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "xzkrif7zkzfmpx9chcu",
-        "text": "R01",
-        "done": false,
-        "date": null,
-        "color": "orange",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": null
-      },
-      {
         "id": "ca3xrlk0iq9mtxgm5hu",
         "text": "BIOLINCC",
         "done": false,
@@ -179,6 +157,16 @@
         "text": "Residual risk idea",
         "done": false,
         "date": null
+      },
+      {
+        "id": "xzkrif7zkzfmpx9chcu",
+        "text": "R01",
+        "done": false,
+        "date": null,
+        "color": "orange",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
       }
     ],
     "deadlines": [
