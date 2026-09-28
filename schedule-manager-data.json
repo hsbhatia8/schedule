@@ -356,6 +356,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "yun5jpvuvjmmukno01t",
+        "text": "PCD Review",
+        "done": false,
+        "date": "2026-10-11",
+        "color": "red",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ]
   },
@@ -5050,6 +5062,19 @@
       "startMin": 30,
       "duration": 0.5,
       "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "r9p2mtn3q7cmukno01t",
+      "title": "PCD Review",
+      "date": "2026-10-11",
+      "hour": 17,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
       "done": false,
       "recurring": false,
       "recurDays": [],
