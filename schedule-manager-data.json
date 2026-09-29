@@ -167,6 +167,18 @@
         "text": "Residual risk idea",
         "done": false,
         "date": null
+      },
+      {
+        "id": "8swhmwdg5gkmumvl8iy",
+        "text": "Follow up CAC-VD projects",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "deadlines": [
