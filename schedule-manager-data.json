@@ -5332,6 +5332,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "9p2drbqvo6mun42wd5",
+      "title": "Research meeting times",
+      "date": "2026-09-30",
+      "hour": 17,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
