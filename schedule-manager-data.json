@@ -5305,7 +5305,9 @@
       "recurDays": [
         3
       ],
-      "recurExceptions": []
+      "recurExceptions": [
+        "2026-10-01"
+      ]
     },
     {
       "id": "2iwnpnvrpetmumzo1hm",
