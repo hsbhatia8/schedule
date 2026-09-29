@@ -5438,6 +5438,12 @@
         "date": "JAHA Sep 25 2026"
       },
       {
+        "id": "cdp74bxypuwmq64i1vt",
+        "name": "BEACON score",
+        "tag": "Submitted",
+        "date": "Sep 29 Circulation"
+      },
+      {
         "id": "8r21v7xmdmpmpyaiyhk",
         "name": "Lp(a) OxPL meta",
         "tag": "On Hold",
@@ -5454,12 +5460,6 @@
         "name": "apoB thresholds",
         "tag": "On Hold",
         "date": ""
-      },
-      {
-        "id": "cdp74bxypuwmq64i1vt",
-        "name": "BEACON score",
-        "tag": "Submitted",
-        "date": "Sep 29 Circulation"
       }
     ],
     "completed": [
