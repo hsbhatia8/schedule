@@ -5214,6 +5214,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "8rp544g590bmumtg3df",
+      "title": "Journal reviews",
+      "date": "2026-10-01",
+      "hour": 11,
+      "startMin": 0,
+      "duration": 1,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
