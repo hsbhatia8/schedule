@@ -115,6 +115,24 @@
         "nextRecur": null
       },
       {
+        "id": "5ayyzo8frlsmpx9p6vc",
+        "text": "Residual risk idea",
+        "done": false,
+        "date": null
+      },
+      {
+        "id": "8swhmwdg5gkmumvl8iy",
+        "text": "Follow up CAC-VD projects",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "wr6r46g58i8mtae4vzk",
         "text": "Repeat carotid imaging timing",
         "done": false,
@@ -156,24 +174,6 @@
         "done": false,
         "date": "",
         "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "5ayyzo8frlsmpx9p6vc",
-        "text": "Residual risk idea",
-        "done": false,
-        "date": null
-      },
-      {
-        "id": "8swhmwdg5gkmumvl8iy",
-        "text": "Follow up CAC-VD projects",
-        "done": false,
-        "date": "",
-        "color": "orange",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
