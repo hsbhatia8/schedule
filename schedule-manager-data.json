@@ -5201,6 +5201,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "d4ybgfmsudcmumtfs4b",
+      "title": "RSR",
+      "date": "2026-10-01",
+      "hour": 10,
+      "startMin": 0,
+      "duration": 1,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
