@@ -5319,6 +5319,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "bsjlk7zj6pcmun42ogl",
+      "title": "Check payroll",
+      "date": "2026-09-30",
+      "hour": 16,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "blue",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
