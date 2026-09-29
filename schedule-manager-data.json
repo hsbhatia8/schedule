@@ -5279,6 +5279,21 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "5d2d3jppzklmumygz57",
+      "title": "SOMI 238",
+      "date": "2026-10-08",
+      "hour": 14,
+      "startMin": 0,
+      "duration": 2,
+      "color": "red",
+      "done": false,
+      "recurring": true,
+      "recurDays": [
+        3
+      ],
+      "recurExceptions": []
     }
   ],
   "projects": {
