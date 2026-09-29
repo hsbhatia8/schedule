@@ -5394,12 +5394,6 @@
         "date": "June 2026"
       },
       {
-        "id": "310lgmj8r0qmpyartm1",
-        "name": "New CAC score",
-        "tag": "Submitted",
-        "date": "Aug 31 Circ Img R1"
-      },
-      {
         "id": "uvh5pyuloimmpyajh2a",
         "name": "Statin allocation",
         "tag": "Submitted",
@@ -5454,6 +5448,12 @@
         "name": "MASALA Lp(a)",
         "tag": "Completed",
         "date": "Sep 14 2026 JACC Adv"
+      },
+      {
+        "id": "310lgmj8r0qmpyartm1",
+        "name": "New CAC score",
+        "tag": "Submitted",
+        "date": "Aug 31 Circ Img R1"
       }
     ]
   },
