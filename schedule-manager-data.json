@@ -41,6 +41,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "pzfh0hxyefmuh9houc",
+        "text": "HDL-C",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
@@ -72,18 +84,6 @@
         "done": false,
         "date": "",
         "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "pzfh0hxyefmuh9houc",
-        "text": "HDL-C",
-        "done": false,
-        "date": "",
-        "color": "gold",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
