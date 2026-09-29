@@ -5294,6 +5294,19 @@
         3
       ],
       "recurExceptions": []
+    },
+    {
+      "id": "2iwnpnvrpetmumzo1hm",
+      "title": "AHA summary",
+      "date": "2026-09-30",
+      "hour": 16,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
