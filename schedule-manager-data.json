@@ -5119,6 +5119,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "zspua6iwiyemumsv3zl",
+      "title": "BEACON score",
+      "date": "2026-09-29",
+      "hour": 15,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "gold",
+      "taskId": "b0juwz1cmklmtx8eixs",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
