@@ -12,6 +12,12 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "5ayyzo8frlsmpx9p6vc",
+        "text": "Residual risk idea",
+        "done": false,
+        "date": null
       }
     ],
     "later": [
@@ -89,12 +95,6 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
-      },
-      {
-        "id": "5ayyzo8frlsmpx9p6vc",
-        "text": "Residual risk idea",
-        "done": false,
-        "date": null
       },
       {
         "id": "azvox3x8wh7mun3uj0u",
