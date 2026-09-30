@@ -5119,9 +5119,9 @@
     {
       "id": "cpj4nn5jy1dmumsw4si",
       "title": "HDL-C",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "hour": 14,
-      "startMin": 0,
+      "startMin": 30,
       "duration": 0.5,
       "color": "gold",
       "taskId": "pzfh0hxyefmuh9houc",
@@ -5308,7 +5308,7 @@
     {
       "id": "be4nbfkpfvmunj1rpu",
       "title": "JACC adv revision",
-      "date": "2026-10-01",
+      "date": "2026-09-30",
       "hour": 14,
       "startMin": 0,
       "duration": 0.5,
