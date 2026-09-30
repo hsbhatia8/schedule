@@ -324,7 +324,7 @@
       {
         "id": "0fkmjih25q57mud3btvo",
         "text": "EJPC re review",
-        "done": false,
+        "done": true,
         "date": "2026-09-29",
         "color": "red",
         "recurring": false,
