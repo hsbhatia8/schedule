@@ -73,6 +73,18 @@
         "recurHour": null
       },
       {
+        "id": "docy7y8xlplmuoofgs2",
+        "text": "Research meeting times",
+        "done": false,
+        "date": "",
+        "color": "blue",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "u3g8iiiyv6mrfktqd2",
         "text": "BEACON cohort",
         "done": false,
@@ -210,18 +222,6 @@
         "done": false,
         "date": "",
         "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "docy7y8xlplmuoofgs2",
-        "text": "Research meeting times",
-        "done": false,
-        "date": "",
-        "color": "blue",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
