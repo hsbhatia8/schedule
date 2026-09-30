@@ -31,18 +31,6 @@
         ]
       },
       {
-        "id": "mbmbr2vuzumuhc2iw7",
-        "text": "Carotid",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "pzfh0hxyefmuh9houc",
         "text": "HDL-C",
         "done": false,
@@ -5118,7 +5106,7 @@
       "duration": 0.5,
       "color": "gold",
       "taskId": "mbmbr2vuzumuhc2iw7",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
