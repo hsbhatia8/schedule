@@ -274,18 +274,6 @@
         "nextRecur": null
       },
       {
-        "id": "k6ovhsdkuwmu34p970",
-        "text": "JCL re-review",
-        "done": false,
-        "date": "2026-09-29",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "y6g1mlbf6amu7hgjy4",
         "text": "Circ PHO Review",
         "done": false,
@@ -4518,7 +4506,7 @@
       "startMin": 0,
       "duration": 1,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
