@@ -2,6 +2,20 @@
   "todos": {
     "active": [
       {
+        "id": "pzfh0hxyefmuh9houc",
+        "text": "HDL-C",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      }
+    ],
+    "later": [
+      {
         "id": "xt8btmyqofcmpxatqs7",
         "text": "Journal Reviews",
         "done": false,
@@ -30,20 +44,6 @@
           4
         ]
       },
-      {
-        "id": "pzfh0hxyefmuh9houc",
-        "text": "HDL-C",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      }
-    ],
-    "later": [
       {
         "id": "xzkrif7zkzfmpx9chcu",
         "text": "R01",
