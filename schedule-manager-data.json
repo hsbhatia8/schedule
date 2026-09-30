@@ -274,18 +274,6 @@
         "nextRecur": null
       },
       {
-        "id": "atd7jeqonlmmu29q5eh",
-        "text": "EJPC Review",
-        "done": true,
-        "date": "2026-09-29",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "k6ovhsdkuwmu34p970",
         "text": "JCL re-review",
         "done": false,
@@ -4821,7 +4809,7 @@
       "startMin": 0,
       "duration": 1,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
