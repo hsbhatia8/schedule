@@ -322,18 +322,6 @@
         "nextRecur": null
       },
       {
-        "id": "0fkmjih25q57mud3btvo",
-        "text": "EJPC re review",
-        "done": true,
-        "date": "2026-09-29",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "8w0cw3tkat2mufyxh89",
         "text": "AMGA slides",
         "done": false,
@@ -4394,7 +4382,7 @@
       "startMin": 0,
       "duration": 1,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
