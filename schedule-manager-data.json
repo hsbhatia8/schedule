@@ -18,6 +18,18 @@
         "text": "Residual risk idea",
         "done": false,
         "date": null
+      },
+      {
+        "id": "hrou3h98bc7muod366t",
+        "text": "JACC Adv Revision",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
