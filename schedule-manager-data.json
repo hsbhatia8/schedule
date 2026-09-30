@@ -5340,6 +5340,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "be4nbfkpfvmunj1rpu",
+      "title": "JACC adv revision",
+      "date": "2026-10-01",
+      "hour": 14,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "gold",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
