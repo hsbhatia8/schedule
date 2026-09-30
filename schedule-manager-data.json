@@ -310,18 +310,6 @@
         "recurDays": []
       },
       {
-        "id": "ox476dd75rcmtxhtm94",
-        "text": "MASLD slides",
-        "done": false,
-        "date": "2026-09-28",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "y6g1mlbf6amu7hgjy4",
         "text": "Circ PHO Review",
         "done": false,
@@ -4393,7 +4381,7 @@
       "startMin": 0,
       "duration": 0.5,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
