@@ -5317,6 +5317,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "fsruul3yixmmuocs80w",
+      "title": "AHA presentations",
+      "date": "2026-10-15",
+      "hour": 13,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
