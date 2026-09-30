@@ -6088,18 +6088,18 @@
     }
   ],
   "theme": {
-    "name": "Light",
+    "name": "Sky",
     "dark": false,
     "vars": {
-      "--bg": "#f5f6fa",
+      "--bg": "#eef6ff",
       "--surface": "#ffffff",
-      "--surface2": "#f0f2f8",
-      "--surface3": "#e5e8f2",
-      "--border": "#c8cde0",
-      "--accent": "#4f6ef5",
-      "--text": "#1a1d3a",
-      "--text2": "#505590",
-      "--text3": "#8890b0"
+      "--surface2": "#e6f2ff",
+      "--surface3": "#d5e8ff",
+      "--border": "#b0ccee",
+      "--accent": "#2563eb",
+      "--text": "#0f2050",
+      "--text2": "#3060a0",
+      "--text3": "#7090c0"
     }
   },
   "menteeLayout": "kanban"
