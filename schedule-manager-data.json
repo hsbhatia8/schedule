@@ -255,17 +255,6 @@
     ],
     "deadlines": [
       {
-        "id": "q5n4f7yv3wmpxan3sh",
-        "text": "FHF October",
-        "done": true,
-        "date": "2026-10-01",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": null,
-        "color": "red",
-        "recurDays": null
-      },
-      {
         "id": "ayaxungac6mpydo08e",
         "text": "Filters",
         "done": false,
@@ -344,18 +333,6 @@
         "recurDay": null,
         "recurHour": 9,
         "recurDays": []
-      },
-      {
-        "id": "y6g1mlbf6amu7hgjy4",
-        "text": "Circ PHO Review",
-        "done": false,
-        "date": "2026-10-02",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       },
       {
         "id": "nwklzvjc97mud2ttn2",
