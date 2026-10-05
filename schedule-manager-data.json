@@ -257,7 +257,7 @@
       {
         "id": "q5n4f7yv3wmpxan3sh",
         "text": "FHF October",
-        "done": false,
+        "done": true,
         "date": "2026-10-01",
         "recurring": false,
         "recurDay": null,
