@@ -5487,6 +5487,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "1v6yt3oudmvmux58wlo",
+      "title": "Residual risk idea",
+      "date": "2026-10-07",
+      "hour": 11,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "gold",
+      "taskId": "5ayyzo8frlsmpx9p6vc",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
