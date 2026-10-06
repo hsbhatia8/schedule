@@ -5571,6 +5571,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "17b1x0d77vxmux5ag6k",
+      "title": "TCT pubs",
+      "date": "2026-10-08",
+      "hour": 16,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "gold",
+      "taskId": "btiurubi5umux50mml",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
