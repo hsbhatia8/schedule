@@ -253,18 +253,6 @@
         "nextRecur": null
       },
       {
-        "id": "px8ggmk9dnmuod1s04",
-        "text": "apoB targets",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "57w583ez5h9muod7yz6",
         "text": "ACC registration and hotel",
         "done": false,
@@ -291,6 +279,18 @@
       {
         "id": "b1gech9cvdjmux50rim",
         "text": "AHA pubs",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
+        "id": "px8ggmk9dnmuod1s04",
+        "text": "apoB targets",
         "done": false,
         "date": "",
         "color": "gold",
