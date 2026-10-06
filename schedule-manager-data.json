@@ -5613,6 +5613,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "dt3uwe8pfjbmux5b4pw",
+      "title": "Research meeting times",
+      "date": "2026-10-08",
+      "hour": 16,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "blue",
+      "taskId": "docy7y8xlplmuoofgs2",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
