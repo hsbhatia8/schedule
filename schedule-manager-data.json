@@ -5306,7 +5306,7 @@
       "startMin": 0,
       "duration": 1,
       "color": "purple",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
