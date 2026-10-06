@@ -44,18 +44,6 @@
         "nextRecur": null
       },
       {
-        "id": "knngqo3t5v8muuseb9v",
-        "text": "ACC abstracts",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "pou7az97f9muuspf4c",
         "text": "Carotid paper",
         "done": false,
@@ -840,7 +828,8 @@
         "2026-08-25",
         "2026-09-01",
         "2026-09-15",
-        "2026-09-22"
+        "2026-09-22",
+        "2026-10-06"
       ],
       "recurExceptions": [
         "2026-06-02",
