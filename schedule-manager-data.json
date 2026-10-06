@@ -5599,6 +5599,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "ms3x34i0kqemux5ayjg",
+      "title": "R01",
+      "date": "2026-10-09",
+      "hour": 13,
+      "startMin": 0,
+      "duration": 1,
+      "color": "orange",
+      "taskId": "xzkrif7zkzfmpx9chcu",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
