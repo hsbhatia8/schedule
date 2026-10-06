@@ -5094,7 +5094,7 @@
       "startMin": 0,
       "duration": 2.5,
       "color": "purple",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -5216,7 +5216,7 @@
       "duration": 0.5,
       "color": "orange",
       "taskId": "xzkrif7zkzfmpx9chcu",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
