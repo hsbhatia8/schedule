@@ -253,11 +253,11 @@
         "nextRecur": null
       },
       {
-        "id": "57w583ez5h9muod7yz6",
-        "text": "ACC registration and hotel",
+        "id": "oklo47ko14qmuohigbj",
+        "text": "MASLD / PREVENT and CAC",
         "done": false,
         "date": "",
-        "color": "orange",
+        "color": "gold",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
@@ -265,11 +265,11 @@
         "nextRecur": null
       },
       {
-        "id": "oklo47ko14qmuohigbj",
-        "text": "MASLD / PREVENT and CAC",
+        "id": "57w583ez5h9muod7yz6",
+        "text": "ACC registration and hotel",
         "done": false,
         "date": "",
-        "color": "gold",
+        "color": "orange",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
