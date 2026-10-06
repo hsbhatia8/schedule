@@ -5473,6 +5473,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "5kzpnz5hcfhmux58sbj",
+      "title": "HDL-C",
+      "date": "2026-10-07",
+      "hour": 10,
+      "startMin": 0,
+      "duration": 1,
+      "color": "gold",
+      "taskId": "pzfh0hxyefmuh9houc",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
