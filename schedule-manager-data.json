@@ -5426,7 +5426,7 @@
       "hour": 17,
       "startMin": 0,
       "duration": 1,
-      "color": "gold",
+      "color": "red",
       "done": false,
       "recurring": true,
       "recurDays": [
