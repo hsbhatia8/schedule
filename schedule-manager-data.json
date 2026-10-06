@@ -906,7 +906,8 @@
         "2026-07-23",
         "2026-08-20",
         "2026-09-03",
-        "2026-09-17"
+        "2026-09-17",
+        "2026-10-01"
       ]
     },
     {
@@ -4819,7 +4820,7 @@
       "duration": 0.5,
       "color": "gold",
       "taskId": "5ayyzo8frlsmpx9p6vc",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
