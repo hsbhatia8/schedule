@@ -383,18 +383,6 @@
         "recurDays": []
       },
       {
-        "id": "nwklzvjc97mud2ttn2",
-        "text": "JACC adv re-review",
-        "done": false,
-        "date": "2026-10-02",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "8w0cw3tkat2mufyxh89",
         "text": "AMGA slides",
         "done": false,
@@ -423,18 +411,6 @@
         "text": "PCD Review",
         "done": false,
         "date": "2026-10-11",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "fo20fdobwigmum7uyws",
-        "text": "JACC Adv Review",
-        "done": false,
-        "date": "2026-10-03",
         "color": "red",
         "recurring": false,
         "recurDays": [],
