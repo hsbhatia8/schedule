@@ -5460,6 +5460,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "6qjs7l3o5m8mux57ui0",
+      "title": "Journals",
+      "date": "2026-10-06",
+      "hour": 17,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
