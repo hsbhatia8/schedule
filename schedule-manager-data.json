@@ -66,6 +66,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "3oo8yw8ud1imrkw05zc",
+        "text": "E&I",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
@@ -123,18 +135,6 @@
       {
         "id": "u3g8iiiyv6mrfktqd2",
         "text": "BEACON cohort",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "3oo8yw8ud1imrkw05zc",
-        "text": "E&I",
         "done": false,
         "date": "",
         "color": "orange",
@@ -5202,7 +5202,7 @@
       "duration": 0.5,
       "color": "orange",
       "taskId": "3oo8yw8ud1imrkw05zc",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -5376,7 +5376,7 @@
       "startMin": 30,
       "duration": 0.5,
       "color": "orange",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
