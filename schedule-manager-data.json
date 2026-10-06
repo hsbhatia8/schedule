@@ -241,6 +241,18 @@
         "nextRecur": null
       },
       {
+        "id": "wr6r46g58i8mtae4vzk",
+        "text": "Repeat carotid imaging timing",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "57w583ez5h9muod7yz6",
         "text": "ACC registration and hotel",
         "done": false,
@@ -279,18 +291,6 @@
       {
         "id": "px8ggmk9dnmuod1s04",
         "text": "apoB targets",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "wr6r46g58i8mtae4vzk",
-        "text": "Repeat carotid imaging timing",
         "done": false,
         "date": "",
         "color": "gold",
