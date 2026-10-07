@@ -14,18 +14,6 @@
         "nextRecur": null
       },
       {
-        "id": "pou7az97f9muuspf4c",
-        "text": "Carotid paper",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "rmc8dxc9u4mux4uq7w",
         "text": "Payroll",
         "done": false,
@@ -5492,7 +5480,7 @@
       "duration": 1,
       "color": "gold",
       "taskId": "pou7az97f9muuspf4c",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
