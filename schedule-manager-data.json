@@ -5783,12 +5783,12 @@
   "ideas": {
     "beacon": [
       {
-        "id": "kwf71dq1xsdms6p8cwu",
-        "text": "BEACON score and aspirin"
-      },
-      {
         "id": "cx6hhk373uvmq0gufom",
         "text": "Residual risk"
+      },
+      {
+        "id": "kwf71dq1xsdms6p8cwu",
+        "text": "BEACON score and aspirin"
       },
       {
         "id": "w5fyftiy97omq0gwv5g",
