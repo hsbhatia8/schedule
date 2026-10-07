@@ -5849,10 +5849,6 @@
     ],
     "iproj-active": [
       {
-        "id": "fgdlms1wtd8mq0h9rx1",
-        "text": "MASALA Lp(a) levels"
-      },
-      {
         "id": "xx0vnc6smq0h9lbw",
         "text": "Lp(a) CAC timing"
       },
@@ -5925,6 +5921,10 @@
       {
         "id": "e300fyh0ctqmq0hafct",
         "text": "BIOLINCC"
+      },
+      {
+        "id": "fgdlms1wtd8mq0h9rx1",
+        "text": "MASALA Lp(a) levels"
       }
     ]
   },
