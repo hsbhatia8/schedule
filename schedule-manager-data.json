@@ -2,18 +2,6 @@
   "todos": {
     "active": [
       {
-        "id": "xaf176hkmnmuusdx8r",
-        "text": "RSR",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "pzfh0hxyefmuh9houc",
         "text": "HDL-C",
         "done": false,
@@ -5490,7 +5478,7 @@
       "duration": 1,
       "color": "orange",
       "taskId": "xaf176hkmnmuusdx8r",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
