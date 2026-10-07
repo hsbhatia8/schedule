@@ -5849,14 +5849,6 @@
     ],
     "iproj-active": [
       {
-        "id": "xx0vnc6smq0h9lbw",
-        "text": "Lp(a) CAC timing"
-      },
-      {
-        "id": "dln9izfptd7mq0h94j7",
-        "text": "New CAC"
-      },
-      {
         "id": "534u4n3suaomq0h9db7",
         "text": "Statin allocation"
       },
@@ -5925,6 +5917,14 @@
       {
         "id": "fgdlms1wtd8mq0h9rx1",
         "text": "MASALA Lp(a) levels"
+      },
+      {
+        "id": "xx0vnc6smq0h9lbw",
+        "text": "Lp(a) CAC timing"
+      },
+      {
+        "id": "dln9izfptd7mq0h94j7",
+        "text": "New CAC"
       }
     ]
   },
