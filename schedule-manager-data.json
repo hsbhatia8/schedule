@@ -5725,16 +5725,16 @@
         "date": "June 2026"
       },
       {
-        "id": "uvh5pyuloimmpyajh2a",
-        "name": "Statin allocation",
-        "tag": "Submitted",
-        "date": "JACC Adv R2 Oct 7 2026"
-      },
-      {
         "id": "rbwsrbx4k3rmpyaif7p",
         "name": "Lp(a) First Events",
         "tag": "Submitted",
         "date": "Sep 17 EJPC"
+      },
+      {
+        "id": "uvh5pyuloimmpyajh2a",
+        "name": "Statin allocation",
+        "tag": "Submitted",
+        "date": "JACC Adv R2 Oct 7 2026"
       },
       {
         "id": "7gh1cvsi3g3mpyajnjz",
