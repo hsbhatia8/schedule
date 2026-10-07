@@ -5869,16 +5869,16 @@
         "text": "Lp(a) HR + PREVENT"
       },
       {
-        "id": "ngdvc7yuiamq0h8ow2",
-        "text": "Cumulative Lp(a) exposure"
-      },
-      {
         "id": "alp2yroh9jhmq0haiz0",
         "text": "HDL-C CAC"
       },
       {
         "id": "ncvoftvcpddmq0h9xpl",
         "text": "High Lp(a) bleeding"
+      },
+      {
+        "id": "ngdvc7yuiamq0h8ow2",
+        "text": "Cumulative Lp(a) exposure"
       },
       {
         "id": "ha7ger8iz0vmq0ha50r",
