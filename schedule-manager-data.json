@@ -2,8 +2,8 @@
   "todos": {
     "active": [
       {
-        "id": "hrou3h98bc7muod366t",
-        "text": "JACC Adv Revision",
+        "id": "xaf176hkmnmuusdx8r",
+        "text": "RSR",
         "done": false,
         "date": "",
         "color": "gold",
@@ -16,18 +16,6 @@
       {
         "id": "pzfh0hxyefmuh9houc",
         "text": "HDL-C",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "xaf176hkmnmuusdx8r",
-        "text": "RSR",
         "done": false,
         "date": "",
         "color": "gold",
