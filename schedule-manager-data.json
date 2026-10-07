@@ -5861,16 +5861,16 @@
         "text": "BEACON score"
       },
       {
-        "id": "ngdvc7yuiamq0h8ow2",
-        "text": "Cumulative Lp(a) exposure"
-      },
-      {
         "id": "46md2jquddgmq0gu4jc",
         "text": "Lp(a) and stroke"
       },
       {
         "id": "yoj5zhfuhbmq0gwmyf",
         "text": "Lp(a) HR + PREVENT"
+      },
+      {
+        "id": "ngdvc7yuiamq0h8ow2",
+        "text": "Cumulative Lp(a) exposure"
       },
       {
         "id": "alp2yroh9jhmq0haiz0",
