@@ -5821,6 +5821,10 @@
     ],
     "ukb": [
       {
+        "id": "kdu5r5e4hgmuyafzl2",
+        "text": "MASLD and PREVENT"
+      },
+      {
         "id": "5a5vcehx2imq0h4x3n",
         "text": "Lp(a) and aspirin"
       },
@@ -5831,10 +5835,6 @@
       {
         "id": "b2w5272l9iwmq0h5a34",
         "text": "Lp(a) AF C2V"
-      },
-      {
-        "id": "kdu5r5e4hgmuyafzl2",
-        "text": "MASLD and PREVENT"
       }
     ],
     "cohort": [
