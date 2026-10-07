@@ -5671,6 +5671,12 @@
         "name": "MASLD CAC",
         "tag": "On Hold",
         "date": ""
+      },
+      {
+        "id": "cdp74bxypuwmq64i1vt",
+        "name": "BEACON score",
+        "tag": "Active",
+        "date": "Sep 29 Circulation"
       }
     ],
     "mentored": [
@@ -5735,12 +5741,6 @@
         "name": "Lp(a) stroke COSMOS",
         "tag": "Submitted",
         "date": "JAHA Sep 25 2026"
-      },
-      {
-        "id": "cdp74bxypuwmq64i1vt",
-        "name": "BEACON score",
-        "tag": "Submitted",
-        "date": "Sep 29 Circulation"
       },
       {
         "id": "8r21v7xmdmpmpyaiyhk",
