@@ -116,7 +116,10 @@
         ],
         "recurHour": 14,
         "recurExceptions": [],
-        "nextRecur": null
+        "nextRecur": null,
+        "calDoneExceptions": [
+          "2026-10-07"
+        ]
       },
       {
         "id": "xzkrif7zkzfmpx9chcu",
