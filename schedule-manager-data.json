@@ -110,9 +110,11 @@
         "done": false,
         "date": "",
         "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
+        "recurring": true,
+        "recurDays": [
+          2
+        ],
+        "recurHour": 14,
         "recurExceptions": [],
         "nextRecur": null
       },
