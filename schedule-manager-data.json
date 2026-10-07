@@ -4,7 +4,7 @@
       {
         "id": "pzfh0hxyefmuh9houc",
         "text": "HDL-C",
-        "done": false,
+        "done": true,
         "date": "",
         "color": "gold",
         "recurring": false,
@@ -5450,7 +5450,7 @@
       "duration": 1,
       "color": "gold",
       "taskId": "pzfh0hxyefmuh9houc",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
