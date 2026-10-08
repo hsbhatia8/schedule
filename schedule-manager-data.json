@@ -934,7 +934,8 @@
         "2026-07-23",
         "2026-08-13",
         "2026-09-03",
-        "2026-09-17"
+        "2026-09-17",
+        "2026-10-08"
       ]
     },
     {
@@ -5295,6 +5296,9 @@
       ],
       "recurExceptions": [
         "2026-10-01"
+      ],
+      "doneExceptions": [
+        "2026-10-08"
       ]
     },
     {
@@ -5503,9 +5507,9 @@
     {
       "id": "5uvr497cqamux5a0wp",
       "title": "Payroll",
-      "date": "2026-10-08",
-      "hour": 16,
-      "startMin": 30,
+      "date": "2026-10-09",
+      "hour": 14,
+      "startMin": 0,
       "duration": 0.5,
       "color": "blue",
       "taskId": "rmc8dxc9u4mux4uq7w",
@@ -5573,8 +5577,8 @@
     {
       "id": "dt3uwe8pfjbmux5b4pw",
       "title": "Research meeting times",
-      "date": "2026-10-08",
-      "hour": 16,
+      "date": "2026-10-09",
+      "hour": 14,
       "startMin": 30,
       "duration": 0.5,
       "color": "blue",
