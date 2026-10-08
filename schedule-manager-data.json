@@ -5405,7 +5405,10 @@
       "recurDays": [
         3
       ],
-      "recurExceptions": []
+      "recurExceptions": [],
+      "doneExceptions": [
+        "2026-10-08"
+      ]
     },
     {
       "id": "m5kwfdh0iebmux57oay",
