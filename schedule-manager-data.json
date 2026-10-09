@@ -674,7 +674,8 @@
         "2026-09-25",
         "2026-10-01",
         "2026-10-07",
-        "2026-10-08"
+        "2026-10-08",
+        "2026-10-09"
       ],
       "startMin": 0
     },
@@ -5516,7 +5517,7 @@
       "duration": 0.5,
       "color": "blue",
       "taskId": "rmc8dxc9u4mux4uq7w",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
