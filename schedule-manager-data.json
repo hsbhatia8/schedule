@@ -12,18 +12,6 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
-      },
-      {
-        "id": "sflhlh6ckq8mux4uwul",
-        "text": "Schedule fidelity",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       }
     ],
     "later": [
@@ -5532,7 +5520,7 @@
       "duration": 0.5,
       "color": "gold",
       "taskId": "sflhlh6ckq8mux4uwul",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
