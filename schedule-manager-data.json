@@ -5777,6 +5777,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "2iiee6nnw58mv67t0cq",
+      "title": "Review Khalil paper",
+      "date": "2026-10-16",
+      "hour": 11,
+      "startMin": 0,
+      "duration": 1,
+      "color": "gold",
+      "taskId": "175j7hlf7oemv2zes85",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
