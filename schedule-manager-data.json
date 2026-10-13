@@ -383,18 +383,6 @@
         "nextRecur": null
       },
       {
-        "id": "yun5jpvuvjmmukno01t",
-        "text": "PCD Review",
-        "done": false,
-        "date": "2026-10-11",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "1kezehlac27mux7lyzd",
         "text": "PHO Editorial",
         "done": false,
