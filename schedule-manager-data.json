@@ -84,6 +84,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "17r0lbuazwnmv75fmd7",
+        "text": "Carotid",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
@@ -5849,9 +5861,9 @@
       "id": "j84bnucrlynmv67tnca",
       "title": "Carotid",
       "date": "2026-10-14",
-      "hour": 11,
-      "startMin": 30,
-      "duration": 0.5,
+      "hour": 10,
+      "startMin": 0,
+      "duration": 1,
       "color": "gold",
       "done": false,
       "recurring": false,
