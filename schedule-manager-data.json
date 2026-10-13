@@ -5930,6 +5930,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "6yhqah40j3fmv7a4o8p",
+      "title": "Review Yihang",
+      "date": "2026-10-15",
+      "hour": 16,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "gold",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
