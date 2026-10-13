@@ -62,18 +62,6 @@
         "nextRecur": null
       },
       {
-        "id": "b1gech9cvdjmux50rim",
-        "text": "AHA pubs",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "no4gd1kf6imv75fi0k",
         "text": "HDL-C CAC",
         "done": false,
@@ -5395,9 +5383,9 @@
     {
       "id": "fsruul3yixmmuocs80w",
       "title": "AHA presentations",
-      "date": "2026-10-15",
-      "hour": 16,
-      "startMin": 0,
+      "date": "2026-10-16",
+      "hour": 12,
+      "startMin": 30,
       "duration": 0.5,
       "color": "orange",
       "done": false,
