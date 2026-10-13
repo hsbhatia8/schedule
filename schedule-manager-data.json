@@ -5991,12 +5991,6 @@
         "date": "Sep 17 EJPC"
       },
       {
-        "id": "uvh5pyuloimmpyajh2a",
-        "name": "Statin allocation",
-        "tag": "Submitted",
-        "date": "JACC Adv R2 Oct 7 2026"
-      },
-      {
         "id": "7gh1cvsi3g3mpyajnjz",
         "name": "Lp(a) stroke COSMOS",
         "tag": "Submitted",
@@ -6045,6 +6039,12 @@
         "name": "New CAC score",
         "tag": "Completed",
         "date": "Sep 28 Circ Img"
+      },
+      {
+        "id": "uvh5pyuloimmpyajh2a",
+        "name": "Statin allocation",
+        "tag": "Submitted",
+        "date": "JACC Adv R2 Oct 7 2026"
       }
     ]
   },
