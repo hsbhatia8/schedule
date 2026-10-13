@@ -5885,6 +5885,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "db87s8ckwf4mv75r3ds",
+      "title": "Fidelity",
+      "date": "2026-10-16",
+      "hour": 10,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
