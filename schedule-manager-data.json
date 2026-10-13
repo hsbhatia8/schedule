@@ -5832,6 +5832,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "j84bnucrlynmv67tnca",
+      "title": "Carotid",
+      "date": "2026-10-14",
+      "hour": 11,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "gold",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
