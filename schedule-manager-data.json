@@ -60,6 +60,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "b1gech9cvdjmux50rim",
+        "text": "AHA pubs",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
@@ -222,18 +234,6 @@
         "done": false,
         "date": "",
         "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "b1gech9cvdjmux50rim",
-        "text": "AHA pubs",
-        "done": false,
-        "date": "",
-        "color": "gold",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
@@ -5801,6 +5801,20 @@
       "duration": 1,
       "color": "gold",
       "taskId": "btiurubi5umux50mml",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "ehrs6xlm0dkmv67tbbe",
+      "title": "AHA pubs",
+      "date": "2026-10-16",
+      "hour": 11,
+      "startMin": 30,
+      "duration": 1,
+      "color": "gold",
+      "taskId": "b1gech9cvdjmux50rim",
       "done": false,
       "recurring": false,
       "recurDays": [],
