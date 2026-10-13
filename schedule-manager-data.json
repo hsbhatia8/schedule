@@ -5749,6 +5749,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "jw9ouqh589pmv67s11q",
+      "title": "R01",
+      "date": "2026-10-15",
+      "hour": 10,
+      "startMin": 0,
+      "duration": 1,
+      "color": "orange",
+      "taskId": "xzkrif7zkzfmpx9chcu",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
