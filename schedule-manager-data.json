@@ -5928,6 +5928,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "8085xbhxmefmv7947yr",
+      "title": "PHO Editorial",
+      "date": "2026-10-16",
+      "hour": 15,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "taskId": "1kezehlac27mux7lyzd",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
