@@ -5697,6 +5697,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "v5ugyqhym8mv67pja1",
+      "title": "BEACON",
+      "date": "2026-10-13",
+      "hour": 14,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
