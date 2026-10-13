@@ -5819,6 +5819,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "cd97y5cf14mv67tiq4",
+      "title": "HDL CAC",
+      "date": "2026-10-14",
+      "hour": 10,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "gold",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
