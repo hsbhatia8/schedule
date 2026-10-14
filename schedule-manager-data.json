@@ -16,7 +16,7 @@
       {
         "id": "17r0lbuazwnmv75fmd7",
         "text": "Carotid",
-        "done": false,
+        "done": true,
         "date": "",
         "color": "gold",
         "recurring": false,
@@ -5821,7 +5821,7 @@
       "startMin": 0,
       "duration": 1,
       "color": "gold",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
