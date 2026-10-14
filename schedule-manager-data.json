@@ -14,18 +14,6 @@
         "nextRecur": null
       },
       {
-        "id": "no4gd1kf6imv75fi0k",
-        "text": "HDL-C CAC",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "17r0lbuazwnmv75fmd7",
         "text": "Carotid",
         "done": false,
@@ -5818,7 +5806,7 @@
       "startMin": 0,
       "duration": 1,
       "color": "gold",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
