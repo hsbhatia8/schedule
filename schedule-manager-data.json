@@ -5862,7 +5862,7 @@
       "title": "Prevention email",
       "date": "2026-10-15",
       "hour": 16,
-      "startMin": 30,
+      "startMin": 0,
       "duration": 0.5,
       "color": "red",
       "taskId": "9hk2sr8i7vfmqsbrbr5",
