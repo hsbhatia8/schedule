@@ -5838,7 +5838,7 @@
       "title": "Payroll",
       "date": "2026-10-16",
       "hour": 18,
-      "startMin": 30,
+      "startMin": 0,
       "duration": 0.5,
       "color": "blue",
       "taskId": "rmc8dxc9u4mux4uq7w",
