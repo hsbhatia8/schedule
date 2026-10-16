@@ -50,18 +50,6 @@
         "nextRecur": null
       },
       {
-        "id": "btiurubi5umux50mml",
-        "text": "TCT pubs",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "rmc8dxc9u4mux4uq7w",
         "text": "Payroll",
         "done": false,
@@ -135,6 +123,18 @@
           "2026-10-07",
           "2026-10-14"
         ]
+      },
+      {
+        "id": "79fgz13qx25mvb7nh4f",
+        "text": "AHA presentations",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       },
       {
         "id": "xzkrif7zkzfmpx9chcu",
@@ -267,11 +267,11 @@
         "nextRecur": null
       },
       {
-        "id": "79fgz13qx25mvb7nh4f",
-        "text": "AHA presentations",
+        "id": "btiurubi5umux50mml",
+        "text": "TCT pubs",
         "done": false,
         "date": "",
-        "color": "orange",
+        "color": "gold",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
