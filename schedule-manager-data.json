@@ -5872,7 +5872,7 @@
       "duration": 0.5,
       "color": "red",
       "taskId": "btkvaubjd2imt98cddk",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
