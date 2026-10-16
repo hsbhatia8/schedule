@@ -6021,6 +6021,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "m2te3ujj6dnmvb49a8g",
+      "title": "New CAC website",
+      "date": "2026-10-16",
+      "hour": 15,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "orange",
+      "taskId": "azvox3x8wh7mun3uj0u",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
