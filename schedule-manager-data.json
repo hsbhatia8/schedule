@@ -159,8 +159,8 @@
         "recurHour": null
       },
       {
-        "id": "u3g8iiiyv6mrfktqd2",
-        "text": "BEACON cohort",
+        "id": "ca3xrlk0iq9mtxgm5hu",
+        "text": "BIOLINCC",
         "done": false,
         "date": "",
         "color": "orange",
@@ -171,8 +171,8 @@
         "nextRecur": null
       },
       {
-        "id": "ca3xrlk0iq9mtxgm5hu",
-        "text": "BIOLINCC",
+        "id": "u3g8iiiyv6mrfktqd2",
+        "text": "BEACON cohort",
         "done": false,
         "date": "",
         "color": "orange",
