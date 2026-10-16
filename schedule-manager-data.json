@@ -5886,7 +5886,7 @@
       "duration": 0.5,
       "color": "red",
       "taskId": "aq1fy5q9r4cmpx9nvzd",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
