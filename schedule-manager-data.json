@@ -241,6 +241,17 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "aq1fy5q9r4cmpx9nvzd",
+        "text": "Update CV",
+        "done": false,
+        "date": "2026-10-16",
+        "color": "orange",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": 9,
+        "recurDays": []
       }
     ],
     "deadlines": [
@@ -312,17 +323,6 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
-      },
-      {
-        "id": "aq1fy5q9r4cmpx9nvzd",
-        "text": "Update CV",
-        "done": false,
-        "date": "2026-10-16",
-        "color": "orange",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": 9,
-        "recurDays": []
       },
       {
         "id": "8w0cw3tkat2mufyxh89",
