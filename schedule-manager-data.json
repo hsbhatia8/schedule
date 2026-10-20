@@ -2,18 +2,6 @@
   "todos": {
     "active": [
       {
-        "id": "9hqs389vqdmv75iigu",
-        "text": "BEACON score",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "docy7y8xlplmuoofgs2",
         "text": "Research meeting times",
         "done": false,
