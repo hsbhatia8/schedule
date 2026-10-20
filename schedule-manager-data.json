@@ -6105,6 +6105,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "lhqiigoxanmvg173ww",
+      "title": "Payroll",
+      "date": "2026-10-23",
+      "hour": 10,
+      "startMin": 0,
+      "duration": 1,
+      "color": "gold",
+      "taskId": "rmc8dxc9u4mux4uq7w",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
