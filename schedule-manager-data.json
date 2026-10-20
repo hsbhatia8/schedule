@@ -6050,6 +6050,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "uyru4gb693mvg1406c",
+      "title": "Capstone",
+      "date": "2026-10-21",
+      "hour": 15,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
