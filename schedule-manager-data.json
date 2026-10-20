@@ -326,18 +326,6 @@
         "nextRecur": null
       },
       {
-        "id": "1kezehlac27mux7lyzd",
-        "text": "PHO Editorial",
-        "done": false,
-        "date": "2026-10-19",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "r7ufboec3uimuyp87l0",
         "text": "PCD review",
         "done": false,
@@ -5608,7 +5596,7 @@
       "startMin": 0,
       "duration": 1,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -5904,7 +5892,7 @@
       "duration": 1,
       "color": "red",
       "taskId": "1kezehlac27mux7lyzd",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -6239,7 +6227,7 @@
       "startMin": 0,
       "duration": 0.5,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
