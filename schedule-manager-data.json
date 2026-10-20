@@ -6229,6 +6229,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "82r71f63aj7mvh4mvru",
+      "title": "Criqui",
+      "date": "2026-10-20",
+      "hour": 15,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
