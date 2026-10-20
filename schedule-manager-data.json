@@ -6063,6 +6063,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "enroe7hvwvjmvg14cnx",
+      "title": "Fidelity",
+      "date": "2026-10-22",
+      "hour": 9,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
