@@ -2,18 +2,6 @@
   "todos": {
     "active": [
       {
-        "id": "docy7y8xlplmuoofgs2",
-        "text": "Research meeting times",
-        "done": false,
-        "date": "",
-        "color": "blue",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "rmc8dxc9u4mux4uq7w",
         "text": "Payroll",
         "done": false,
@@ -6011,12 +5999,12 @@
       "id": "m2te3ujj6dnmvb49a8g",
       "title": "New CAC website",
       "date": "2026-10-21",
-      "hour": 14,
+      "hour": 12,
       "startMin": 0,
       "duration": 0.5,
       "color": "orange",
       "taskId": "azvox3x8wh7mun3uj0u",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -6116,12 +6104,12 @@
       "id": "j5iy7s92t39mvg16uya",
       "title": "Research meeting times",
       "date": "2026-10-21",
-      "hour": 15,
+      "hour": 12,
       "startMin": 30,
       "duration": 0.5,
       "color": "blue",
       "taskId": "docy7y8xlplmuoofgs2",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
