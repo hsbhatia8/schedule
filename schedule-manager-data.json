@@ -7032,22 +7032,6 @@
   "menteeLayout": "kanban",
   "todos2": [
     {
-      "id": "t2_1792601531219",
-      "text": "apoB LDL masala",
-      "done": false,
-      "date": "",
-      "recurring": "",
-      "recurDays": []
-    },
-    {
-      "id": "t2_1792601534161",
-      "text": "journal club",
-      "done": false,
-      "date": "",
-      "recurring": "",
-      "recurDays": []
-    },
-    {
       "id": "t2_1792601538228",
       "text": "Aman's sports",
       "done": false,
@@ -7116,6 +7100,22 @@
     {
       "id": "t2_1792601516881",
       "text": "Contacts",
+      "done": false,
+      "date": "2026-10-21",
+      "recurring": "",
+      "recurDays": []
+    },
+    {
+      "id": "t2_1792601531219",
+      "text": "apoB LDL masala",
+      "done": false,
+      "date": "2026-10-21",
+      "recurring": "",
+      "recurDays": []
+    },
+    {
+      "id": "t2_1792601534161",
+      "text": "journal club",
       "done": false,
       "date": "2026-10-21",
       "recurring": "",
