@@ -6264,6 +6264,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "kg07l67x80jmvimvc7g",
+      "title": "ACC registration and hotel",
+      "date": "2026-10-23",
+      "hour": 13,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "orange",
+      "taskId": "57w583ez5h9muod7yz6",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
