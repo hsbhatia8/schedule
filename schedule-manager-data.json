@@ -7085,8 +7085,8 @@
       "id": "t2_1792601674457",
       "text": "Website article",
       "done": false,
-      "date": "",
-      "recurring": "",
+      "date": "2026-11-01",
+      "recurring": "monthly",
       "recurDays": []
     },
     {
