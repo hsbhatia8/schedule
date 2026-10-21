@@ -7084,9 +7084,11 @@
       "id": "t2_1792601653874",
       "text": "Payroll",
       "done": false,
-      "date": "",
-      "recurring": "",
-      "recurDays": []
+      "date": "2026-10-25",
+      "recurring": "days",
+      "recurDays": [
+        0
+      ]
     }
   ]
 }
