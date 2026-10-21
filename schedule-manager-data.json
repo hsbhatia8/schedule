@@ -58,6 +58,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "79fgz13qx25mvb7nh4f",
+        "text": "AHA presentations",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
@@ -110,18 +122,6 @@
           "2026-10-14",
           "2026-10-21"
         ]
-      },
-      {
-        "id": "79fgz13qx25mvb7nh4f",
-        "text": "AHA presentations",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       },
       {
         "id": "ca3xrlk0iq9mtxgm5hu",
