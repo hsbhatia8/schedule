@@ -7004,5 +7004,15 @@
       "--text3": "#8890b0"
     }
   },
-  "menteeLayout": "kanban"
+  "menteeLayout": "kanban",
+  "todos2": [
+    {
+      "id": "t2_1792601516881",
+      "text": "Contacts",
+      "done": false,
+      "date": "",
+      "recurring": "",
+      "recurDays": []
+    }
+  ]
 }
