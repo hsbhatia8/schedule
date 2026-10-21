@@ -222,17 +222,6 @@
     ],
     "deadlines": [
       {
-        "id": "ayaxungac6mpydo08e",
-        "text": "Filters",
-        "done": false,
-        "date": "2026-11-01",
-        "color": "red",
-        "recurring": false,
-        "recurDays": null,
-        "recurHour": null,
-        "recurDay": null
-      },
-      {
         "id": "8w1cv92038lmpzoj7gf",
         "text": "Medicine Grand Rounds",
         "done": false,
