@@ -6529,10 +6529,6 @@
     ],
     "iproj-active": [
       {
-        "id": "534u4n3suaomq0h9db7",
-        "text": "Statin allocation"
-      },
-      {
         "id": "5njir86lewmq0h8u1u",
         "text": "Lp(a) first events"
       },
@@ -6605,6 +6601,10 @@
       {
         "id": "dln9izfptd7mq0h94j7",
         "text": "New CAC"
+      },
+      {
+        "id": "534u4n3suaomq0h9db7",
+        "text": "Statin allocation"
       }
     ]
   },
