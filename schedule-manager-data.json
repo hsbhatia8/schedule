@@ -6490,6 +6490,10 @@
     ],
     "iproj-active": [
       {
+        "id": "ngdvc7yuiamq0h8ow2",
+        "text": "Cumulative Lp(a) exposure"
+      },
+      {
         "id": "5njir86lewmq0h8u1u",
         "text": "Lp(a) first events"
       },
@@ -6516,10 +6520,6 @@
       {
         "id": "ncvoftvcpddmq0h9xpl",
         "text": "High Lp(a) bleeding"
-      },
-      {
-        "id": "ngdvc7yuiamq0h8ow2",
-        "text": "Cumulative Lp(a) exposure"
       },
       {
         "id": "r6ivzi3h8shmq0h9gyt",
