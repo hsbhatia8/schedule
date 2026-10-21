@@ -7041,7 +7041,21 @@
       "id": "tqww9qwf1kmvio0dht",
       "name": "Ian Lau",
       "stage": "Medical Student",
-      "projects": []
+      "projects": [
+        {
+          "id": "ex127v7husmvio0lnj",
+          "name": "MASLD PREVENT",
+          "status": "Active",
+          "abstract": {
+            "text": "",
+            "tag": ""
+          },
+          "manuscript": {
+            "text": "",
+            "tag": ""
+          }
+        }
+      ]
     }
   ],
   "theme": {
