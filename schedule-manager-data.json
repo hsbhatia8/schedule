@@ -12,18 +12,6 @@
         "recurHour": null
       },
       {
-        "id": "rmc8dxc9u4mux4uq7w",
-        "text": "Payroll",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "azvox3x8wh7mun3uj0u",
         "text": "New CAC website",
         "done": false,
@@ -65,6 +53,18 @@
         "done": false,
         "date": "",
         "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
+        "id": "rmc8dxc9u4mux4uq7w",
+        "text": "Payroll",
+        "done": false,
+        "date": "",
+        "color": "gold",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
