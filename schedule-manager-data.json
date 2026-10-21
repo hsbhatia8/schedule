@@ -70,6 +70,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "ca3xrlk0iq9mtxgm5hu",
+        "text": "BIOLINCC",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
@@ -122,18 +134,6 @@
           "2026-10-14",
           "2026-10-21"
         ]
-      },
-      {
-        "id": "ca3xrlk0iq9mtxgm5hu",
-        "text": "BIOLINCC",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       },
       {
         "id": "u3g8iiiyv6mrfktqd2",
