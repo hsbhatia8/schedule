@@ -6656,7 +6656,7 @@
         {
           "id": "l6m4xax05yfmqi9nopj",
           "name": "LE7 AVC",
-          "status": "Active",
+          "status": "On Hold",
           "abstract": {
             "text": "",
             "tag": ""
@@ -6932,7 +6932,7 @@
         {
           "id": "w8gwboyhhvmqi9wg22",
           "name": "IR and HR",
-          "status": "Active",
+          "status": "On Hold",
           "abstract": {
             "text": "ASPC",
             "tag": "completed"
@@ -6952,7 +6952,7 @@
         {
           "id": "ucvuisguzzgmqi9wtur",
           "name": "Lp(a) and bleeding",
-          "status": "Active",
+          "status": "On Hold",
           "abstract": {
             "text": "AHA",
             "tag": "tentative"
@@ -6972,7 +6972,7 @@
         {
           "id": "cn3uqaqo9smqi9x1ev",
           "name": "Prev card outcomes",
-          "status": "Active",
+          "status": "On Hold",
           "abstract": {
             "text": "",
             "tag": ""
@@ -7025,7 +7025,7 @@
         {
           "id": "xe5yf4nkxvmqi9yj3q",
           "name": "Lp(a) and gestational hypertension",
-          "status": "Active",
+          "status": "On Hold",
           "abstract": {
             "text": "",
             "tag": ""
