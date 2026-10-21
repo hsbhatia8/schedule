@@ -6244,12 +6244,6 @@
         "date": ""
       },
       {
-        "id": "kfzlxdloatcmpyai8od",
-        "name": "High HDL-C CAC",
-        "tag": "On Hold",
-        "date": ""
-      },
-      {
         "id": "r97r412a9jjmug0ktg3",
         "name": "Residual Risk",
         "tag": "On Hold",
@@ -6348,6 +6342,12 @@
         "name": "BEACON score",
         "tag": "Active",
         "date": "Sep 29 Circulation"
+      },
+      {
+        "id": "kfzlxdloatcmpyai8od",
+        "name": "High HDL-C CAC",
+        "tag": "On Hold",
+        "date": ""
       }
     ],
     "completed": [
