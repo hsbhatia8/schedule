@@ -2,6 +2,16 @@
   "todos": {
     "active": [
       {
+        "id": "xzkrif7zkzfmpx9chcu",
+        "text": "R01",
+        "done": false,
+        "date": null,
+        "color": "orange",
+        "recurring": false,
+        "recurDay": null,
+        "recurHour": null
+      },
+      {
         "id": "rmc8dxc9u4mux4uq7w",
         "text": "Payroll",
         "done": false,
@@ -24,16 +34,6 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
-      },
-      {
-        "id": "xzkrif7zkzfmpx9chcu",
-        "text": "R01",
-        "done": false,
-        "date": null,
-        "color": "orange",
-        "recurring": false,
-        "recurDay": null,
-        "recurHour": null
       },
       {
         "id": "57w583ez5h9muod7yz6",
