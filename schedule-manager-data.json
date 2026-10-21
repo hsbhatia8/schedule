@@ -7032,14 +7032,6 @@
   "menteeLayout": "kanban",
   "todos2": [
     {
-      "id": "t2_1792601538228",
-      "text": "Aman's sports",
-      "done": false,
-      "date": "",
-      "recurring": "",
-      "recurDays": []
-    },
-    {
       "id": "t2_1792601539771",
       "text": "NLA dates",
       "done": false,
@@ -7058,6 +7050,14 @@
     {
       "id": "t2_1792601620115",
       "text": "Vacations",
+      "done": false,
+      "date": "",
+      "recurring": "",
+      "recurDays": []
+    },
+    {
+      "id": "t2_1792601538228",
+      "text": "Aman's sports",
       "done": false,
       "date": "",
       "recurring": "",
