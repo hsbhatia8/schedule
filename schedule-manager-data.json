@@ -7098,16 +7098,6 @@
       ]
     },
     {
-      "id": "t2_1792601653874",
-      "text": "Payroll",
-      "done": false,
-      "date": "2026-10-25",
-      "recurring": "days",
-      "recurDays": [
-        0
-      ]
-    },
-    {
       "id": "t2_1792601674457",
       "text": "Website article",
       "done": false,
@@ -7130,6 +7120,16 @@
       "date": "2026-10-21",
       "recurring": "",
       "recurDays": []
+    },
+    {
+      "id": "t2_1792601653874",
+      "text": "Payroll",
+      "done": false,
+      "date": "2026-10-21",
+      "recurring": "days",
+      "recurDays": [
+        0
+      ]
     }
   ]
 }
