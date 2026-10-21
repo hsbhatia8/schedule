@@ -6325,12 +6325,6 @@
         "date": "June 2026"
       },
       {
-        "id": "rbwsrbx4k3rmpyaif7p",
-        "name": "Lp(a) First Events",
-        "tag": "None",
-        "date": "Sep 17 EJPC"
-      },
-      {
         "id": "7gh1cvsi3g3mpyajnjz",
         "name": "Lp(a) stroke COSMOS",
         "tag": "Submitted",
@@ -6365,6 +6359,12 @@
         "name": "BEACON score",
         "tag": "Active",
         "date": "Sep 29 Circulation"
+      },
+      {
+        "id": "rbwsrbx4k3rmpyaif7p",
+        "name": "Lp(a) First Events",
+        "tag": "None",
+        "date": "Sep 17 EJPC"
       }
     ],
     "completed": [
