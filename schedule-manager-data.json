@@ -6431,10 +6431,6 @@
   "ideas": {
     "beacon": [
       {
-        "id": "cx6hhk373uvmq0gufom",
-        "text": "Residual risk"
-      },
-      {
         "id": "kwf71dq1xsdms6p8cwu",
         "text": "BEACON score and aspirin"
       },
@@ -6563,6 +6559,10 @@
       {
         "id": "shhuxqzd5idmuyaiswo",
         "text": "MASALA / MESA PREVENT"
+      },
+      {
+        "id": "cx6hhk373uvmq0gufom",
+        "text": "Residual risk"
       }
     ],
     "iproj-completed": [
