@@ -7074,9 +7074,11 @@
       "id": "t2_1792601625808",
       "text": "Enter calendar",
       "done": false,
-      "date": "",
-      "recurring": "",
-      "recurDays": []
+      "date": "2026-10-25",
+      "recurring": "days",
+      "recurDays": [
+        0
+      ]
     }
   ]
 }
