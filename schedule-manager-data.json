@@ -6487,6 +6487,10 @@
     ],
     "cohort": [
       {
+        "id": "mrxyo21ibfbmvinfhci",
+        "text": "MASALA apoB LDL discordance"
+      },
+      {
         "id": "95jz76frsegmuyagg44",
         "text": "MASLD and CAC"
       },
@@ -6509,10 +6513,6 @@
       {
         "id": "uohf0qppnzmuyalbj3",
         "text": "Follow up CAC VD ideas"
-      },
-      {
-        "id": "mrxyo21ibfbmvinfhci",
-        "text": "MASALA apoB LDL discordance"
       }
     ],
     "iproj-active": [
