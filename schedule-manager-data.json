@@ -7032,14 +7032,6 @@
   "menteeLayout": "kanban",
   "todos2": [
     {
-      "id": "t2_1792601516881",
-      "text": "Contacts",
-      "done": false,
-      "date": "",
-      "recurring": "",
-      "recurDays": []
-    },
-    {
       "id": "t2_1792601531219",
       "text": "apoB LDL masala",
       "done": false,
@@ -7127,6 +7119,14 @@
       "id": "t2_1792604438065",
       "text": "test",
       "done": true,
+      "date": "2026-10-21",
+      "recurring": "",
+      "recurDays": []
+    },
+    {
+      "id": "t2_1792601516881",
+      "text": "Contacts",
+      "done": false,
       "date": "2026-10-21",
       "recurring": "",
       "recurDays": []
