@@ -7053,6 +7053,22 @@
       "date": "",
       "recurring": "",
       "recurDays": []
+    },
+    {
+      "id": "t2_1792601620115",
+      "text": "Vacations",
+      "done": false,
+      "date": "",
+      "recurring": "",
+      "recurDays": []
+    },
+    {
+      "id": "t2_1792601622385",
+      "text": "Water heater",
+      "done": false,
+      "date": "",
+      "recurring": "",
+      "recurDays": []
     }
   ]
 }
