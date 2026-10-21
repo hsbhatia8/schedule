@@ -7021,6 +7021,14 @@
       "date": "",
       "recurring": "",
       "recurDays": []
+    },
+    {
+      "id": "t2_1792601534161",
+      "text": "journal club",
+      "done": false,
+      "date": "",
+      "recurring": "",
+      "recurDays": []
     }
   ]
 }
