@@ -12,6 +12,30 @@
         "recurHour": null
       },
       {
+        "id": "rmc8dxc9u4mux4uq7w",
+        "text": "Payroll",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
+        "id": "ca3xrlk0iq9mtxgm5hu",
+        "text": "BIOLINCC",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "57w583ez5h9muod7yz6",
         "text": "ACC registration and hotel",
         "done": false,
@@ -38,30 +62,6 @@
       {
         "id": "79fgz13qx25mvb7nh4f",
         "text": "AHA presentations",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "rmc8dxc9u4mux4uq7w",
-        "text": "Payroll",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "ca3xrlk0iq9mtxgm5hu",
-        "text": "BIOLINCC",
         "done": false,
         "date": "",
         "color": "orange",
