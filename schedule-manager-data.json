@@ -6400,6 +6400,12 @@
         "date": "Oct 22 EHJ"
       },
       {
+        "id": "rbwsrbx4k3rmpyaif7p",
+        "name": "Lp(a) First Events",
+        "tag": "Submitted",
+        "date": "Oct 23 EJPC R1"
+      },
+      {
         "id": "8r21v7xmdmpmpyaiyhk",
         "name": "Lp(a) OxPL meta",
         "tag": "On Hold",
@@ -6416,12 +6422,6 @@
         "name": "apoB thresholds",
         "tag": "On Hold",
         "date": ""
-      },
-      {
-        "id": "rbwsrbx4k3rmpyaif7p",
-        "name": "Lp(a) First Events",
-        "tag": "None",
-        "date": "Sep 17 EJPC"
       }
     ],
     "completed": [
