@@ -6393,6 +6393,12 @@
         "date": "Oct 21 JACC"
       },
       {
+        "id": "cdp74bxypuwmq64i1vt",
+        "name": "BEACON score",
+        "tag": "Submitted",
+        "date": "Oct 22 EHJ"
+      },
+      {
         "id": "8r21v7xmdmpmpyaiyhk",
         "name": "Lp(a) OxPL meta",
         "tag": "On Hold",
@@ -6409,12 +6415,6 @@
         "name": "apoB thresholds",
         "tag": "On Hold",
         "date": ""
-      },
-      {
-        "id": "cdp74bxypuwmq64i1vt",
-        "name": "BEACON score",
-        "tag": "Submitted",
-        "date": "Oct 22 EHJ"
       },
       {
         "id": "rbwsrbx4k3rmpyaif7p",
