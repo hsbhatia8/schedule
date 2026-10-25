@@ -7166,6 +7166,9 @@
       "recurring": "days",
       "recurDays": [
         0
+      ],
+      "doneDates": [
+        "2026-10-25"
       ]
     },
     {
