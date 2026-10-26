@@ -6359,6 +6359,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "clfj8nt3mwmvpmxmoo",
+      "title": "Interviews",
+      "date": "2026-10-29",
+      "hour": 9,
+      "startMin": 0,
+      "duration": 3,
+      "color": "purple",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
