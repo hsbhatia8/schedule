@@ -6433,7 +6433,7 @@
       "date": "2026-10-30",
       "hour": 13,
       "startMin": 30,
-      "duration": 1,
+      "duration": 0.5,
       "color": "orange",
       "taskId": "79fgz13qx25mvb7nh4f",
       "done": false,
