@@ -257,18 +257,6 @@
         "nextRecur": null
       },
       {
-        "id": "3z17pejl9vrmqjrfziv",
-        "text": "OC Symposium",
-        "done": false,
-        "date": "2026-10-24",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "9hk2sr8i7vfmqsbrbr5",
         "text": "Prevention email",
         "done": false,
