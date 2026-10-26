@@ -6333,6 +6333,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "xllyucux82kmvphgfx4",
+      "title": "Tami meeting",
+      "date": "2026-10-28",
+      "hour": 9,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
