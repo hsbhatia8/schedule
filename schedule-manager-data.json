@@ -6633,12 +6633,6 @@
         "date": "Oct 22 EHJ"
       },
       {
-        "id": "rbwsrbx4k3rmpyaif7p",
-        "name": "Lp(a) First Events",
-        "tag": "Submitted",
-        "date": "Oct 23 EJPC R1"
-      },
-      {
         "id": "8r21v7xmdmpmpyaiyhk",
         "name": "Lp(a) OxPL meta",
         "tag": "On Hold",
@@ -6687,6 +6681,12 @@
         "name": "Statin allocation",
         "tag": "Completed",
         "date": "JACC Adv R2 Oct 13 2026"
+      },
+      {
+        "id": "rbwsrbx4k3rmpyaif7p",
+        "name": "Lp(a) First Events",
+        "tag": "Submitted",
+        "date": "Oct 23 EJPC R1"
       }
     ]
   },
