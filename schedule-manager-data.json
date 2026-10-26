@@ -906,7 +906,7 @@
     {
       "id": "h8ymgiz853mmpya2tug",
       "title": "Fellowship",
-      "date": "2026-07-16",
+      "date": "2026-10-29",
       "hour": 15,
       "duration": 1,
       "type": "manual",
@@ -925,7 +925,7 @@
         "2026-10-01",
         "2026-10-22"
       ],
-      "startMin": 0,
+      "startMin": 30,
       "doneExceptions": [
         "2026-06-18",
         "2026-06-25",
