@@ -6545,6 +6545,12 @@
   "projects": {
     "active": [
       {
+        "id": "kfzlxdloatcmpyai8od",
+        "name": "High HDL-C CAC",
+        "tag": "Submitted",
+        "date": "Oct 21 JACC"
+      },
+      {
         "id": "mect6lvlc0pmpyajrjd",
         "name": "Lp(a) carotid",
         "tag": "On Hold",
@@ -6619,12 +6625,6 @@
         "name": "Lp(a) stroke COSMOS",
         "tag": "Submitted",
         "date": "JCL Oct 13"
-      },
-      {
-        "id": "kfzlxdloatcmpyai8od",
-        "name": "High HDL-C CAC",
-        "tag": "Submitted",
-        "date": "Oct 21 JACC"
       },
       {
         "id": "cdp74bxypuwmq64i1vt",
