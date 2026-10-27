@@ -6565,12 +6565,6 @@
   "projects": {
     "active": [
       {
-        "id": "r97r412a9jjmug0ktg3",
-        "name": "Residual Risk",
-        "tag": "On Hold",
-        "date": ""
-      },
-      {
         "id": "iyskiiexxeemuyajx4v",
         "name": "MASLD PREVENT",
         "tag": "On Hold",
@@ -6584,6 +6578,12 @@
       }
     ],
     "mentored": [
+      {
+        "id": "r97r412a9jjmug0ktg3",
+        "name": "Residual Risk",
+        "tag": "On Hold",
+        "date": ""
+      },
       {
         "id": "mect6lvlc0pmpyajrjd",
         "name": "Lp(a) carotid",
