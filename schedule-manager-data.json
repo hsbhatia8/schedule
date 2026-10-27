@@ -125,18 +125,6 @@
         ]
       },
       {
-        "id": "ixfrxa9qbmmsdfte04",
-        "text": "LDL cumulative exposure CAC 0",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "nrmgxhd40nnmufxv2wl",
         "text": "Repeat CAC strategy",
         "done": false,
