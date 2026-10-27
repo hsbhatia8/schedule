@@ -6562,12 +6562,6 @@
   "projects": {
     "active": [
       {
-        "id": "kfzlxdloatcmpyai8od",
-        "name": "High HDL-C CAC",
-        "tag": "Active",
-        "date": "Oct 21 JACC"
-      },
-      {
         "id": "mect6lvlc0pmpyajrjd",
         "name": "Lp(a) carotid",
         "tag": "On Hold",
@@ -6648,6 +6642,12 @@
         "name": "BEACON score",
         "tag": "Submitted",
         "date": "Oct 22 EHJ"
+      },
+      {
+        "id": "kfzlxdloatcmpyai8od",
+        "name": "High HDL-C CAC",
+        "tag": "Active",
+        "date": "Oct 21 JACC"
       },
       {
         "id": "8r21v7xmdmpmpyaiyhk",
