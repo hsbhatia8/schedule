@@ -125,30 +125,6 @@
         ]
       },
       {
-        "id": "wr6r46g58i8mtae4vzk",
-        "text": "Repeat carotid imaging timing",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "74sk6dcesxlmq78q7hx",
-        "text": "UKB preeclampsia",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "px8ggmk9dnmuod1s04",
         "text": "apoB targets",
         "done": false,
