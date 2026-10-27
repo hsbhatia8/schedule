@@ -791,7 +791,8 @@
         "2026-07-01",
         "2026-07-08",
         "2026-07-29",
-        "2026-09-30"
+        "2026-09-30",
+        "2026-10-28"
       ]
     },
     {
@@ -6468,8 +6469,8 @@
       "id": "qcdzxweligjmvpn0sqe",
       "title": "MASLD and CAC",
       "date": "2026-10-28",
-      "hour": 12,
-      "startMin": 0,
+      "hour": 11,
+      "startMin": 30,
       "duration": 0.5,
       "color": "gold",
       "taskId": "oklo47ko14qmuohigbj",
