@@ -58,6 +58,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "oklo47ko14qmuohigbj",
+        "text": "MASLD and CAC",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
@@ -111,18 +123,6 @@
           "2026-10-14",
           "2026-10-21"
         ]
-      },
-      {
-        "id": "oklo47ko14qmuohigbj",
-        "text": "MASLD and CAC",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       },
       {
         "id": "8swhmwdg5gkmumvl8iy",
