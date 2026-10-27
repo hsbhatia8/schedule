@@ -6565,12 +6565,6 @@
   "projects": {
     "active": [
       {
-        "id": "iyskiiexxeemuyajx4v",
-        "name": "MASLD PREVENT",
-        "tag": "On Hold",
-        "date": ""
-      },
-      {
         "id": "ff3qjudt0qrmuyak2hq",
         "name": "MASLD CAC",
         "tag": "On Hold",
@@ -6578,6 +6572,12 @@
       }
     ],
     "mentored": [
+      {
+        "id": "iyskiiexxeemuyajx4v",
+        "name": "MASLD PREVENT",
+        "tag": "On Hold",
+        "date": ""
+      },
       {
         "id": "r97r412a9jjmug0ktg3",
         "name": "Residual Risk",
