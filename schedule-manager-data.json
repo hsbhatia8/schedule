@@ -340,18 +340,6 @@
         "nextRecur": null
       },
       {
-        "id": "vwrvjkq7ecmvjv1x41",
-        "text": "JACC Adv Rereview",
-        "done": false,
-        "date": "2026-10-26",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "xqfzc1qeihmvl0aj4x",
         "text": "Circ review",
         "done": false,
