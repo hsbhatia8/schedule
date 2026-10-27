@@ -6565,12 +6565,6 @@
   "projects": {
     "active": [
       {
-        "id": "mect6lvlc0pmpyajrjd",
-        "name": "Lp(a) carotid",
-        "tag": "On Hold",
-        "date": ""
-      },
-      {
         "id": "r97r412a9jjmug0ktg3",
         "name": "Residual Risk",
         "tag": "On Hold",
@@ -6590,6 +6584,12 @@
       }
     ],
     "mentored": [
+      {
+        "id": "mect6lvlc0pmpyajrjd",
+        "name": "Lp(a) carotid",
+        "tag": "On Hold",
+        "date": ""
+      },
       {
         "id": "yngu1v8bhf9mpzrizzi",
         "name": "LS7 Lp(a) AVC",
