@@ -6557,6 +6557,12 @@
         "name": "LDL-C cumulative exposure CAC 0",
         "tag": "On Hold",
         "date": ""
+      },
+      {
+        "id": "kslinzzddpmvr9yjd4",
+        "name": "Repeat CAC strategy",
+        "tag": "On Hold",
+        "date": ""
       }
     ],
     "mentored": [
