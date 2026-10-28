@@ -579,7 +579,8 @@
         "2026-10-16",
         "2026-10-21",
         "2026-10-22",
-        "2026-10-23"
+        "2026-10-23",
+        "2026-10-28"
       ],
       "startMin": 0
     },
@@ -6414,7 +6415,7 @@
       "duration": 1,
       "color": "gold",
       "taskId": "oklo47ko14qmuohigbj",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
