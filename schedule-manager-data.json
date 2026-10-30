@@ -6558,6 +6558,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "gj1uq9var8jmvvkqxfj",
+      "title": "Becky",
+      "date": "2026-11-04",
+      "hour": 10,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
