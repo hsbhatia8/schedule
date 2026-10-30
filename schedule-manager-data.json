@@ -6647,7 +6647,7 @@
       "date": "2026-11-06",
       "hour": 10,
       "startMin": 0,
-      "duration": 1,
+      "duration": 0.5,
       "color": "orange",
       "done": false,
       "recurring": false,
