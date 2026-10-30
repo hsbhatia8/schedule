@@ -6543,6 +6543,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "carsw413mbqmvvht2po",
+      "title": "Yihang letter",
+      "date": "2026-11-03",
+      "hour": 14,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
