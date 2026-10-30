@@ -6545,6 +6545,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "xv49h7xgwpmvvkqney",
+      "title": "Ildiko",
+      "date": "2026-11-03",
+      "hour": 14,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
