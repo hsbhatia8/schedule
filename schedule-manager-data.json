@@ -6585,6 +6585,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "h9ffwjm4nz7mvvkrvsu",
+      "title": "PeerView",
+      "date": "2026-11-05",
+      "hour": 13,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
