@@ -24,18 +24,6 @@
         "nextRecur": null
       },
       {
-        "id": "ca3xrlk0iq9mtxgm5hu",
-        "text": "BIOLINCC",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "57w583ez5h9muod7yz6",
         "text": "ACC registration and hotel",
         "done": false,
@@ -53,6 +41,18 @@
         "done": false,
         "date": "",
         "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
+        "id": "ca3xrlk0iq9mtxgm5hu",
+        "text": "BIOLINCC",
+        "done": false,
+        "date": "",
+        "color": "orange",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
