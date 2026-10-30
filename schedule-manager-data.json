@@ -105,7 +105,9 @@
           2
         ],
         "recurHour": 14,
-        "recurExceptions": [],
+        "recurExceptions": [
+          "2026-11-04"
+        ],
         "nextRecur": null,
         "calDoneExceptions": [
           "2026-10-07",
@@ -6638,6 +6640,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "64qpkjjywqpmvvmrk5c",
+      "title": "E&I",
+      "date": "2026-11-06",
+      "hour": 14,
+      "startMin": 0,
+      "duration": 1,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": [],
+      "taskId": "3oo8yw8ud1imrkw05zc"
     }
   ],
   "projects": {
