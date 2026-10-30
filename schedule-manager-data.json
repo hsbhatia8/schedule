@@ -6612,6 +6612,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "5qx7vcksta8mvvlhqsf",
+      "title": "ADVANCE review",
+      "date": "2026-11-04",
+      "hour": 15,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
