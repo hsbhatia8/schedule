@@ -6654,6 +6654,20 @@
       "recurDays": [],
       "recurExceptions": [],
       "taskId": "3oo8yw8ud1imrkw05zc"
+    },
+    {
+      "id": "fz7gssv9enmmvvms3pk",
+      "title": "MASLD CAC",
+      "date": "2026-11-04",
+      "hour": 9,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "gold",
+      "taskId": "qd878cv1aq8mvve1nnm",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
