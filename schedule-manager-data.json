@@ -6696,6 +6696,48 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "bv4036vunscmvvmt9q3",
+      "title": "ACC registration and hotel",
+      "date": "2026-11-06",
+      "hour": 11,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "orange",
+      "taskId": "57w583ez5h9muod7yz6",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "0helhmmpkopumvvmtcnw",
+      "title": "Payroll",
+      "date": "2026-11-06",
+      "hour": 12,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "gold",
+      "taskId": "rmc8dxc9u4mux4uq7w",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "wjx3uow6x5mvvmtemp",
+      "title": "BIOLINCC",
+      "date": "2026-11-06",
+      "hour": 12,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "orange",
+      "taskId": "ca3xrlk0iq9mtxgm5hu",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
