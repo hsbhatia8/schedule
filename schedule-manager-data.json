@@ -6752,6 +6752,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "o05lzmldelmw19w5li",
+      "title": "Pre reads",
+      "date": "2026-11-06",
+      "hour": 13,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "gold",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
