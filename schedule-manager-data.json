@@ -7658,7 +7658,10 @@
       "done": false,
       "date": "2026-11-01",
       "recurring": "monthly",
-      "recurDays": []
+      "recurDays": [],
+      "doneDates": [
+        "2026-11-03"
+      ]
     },
     {
       "id": "t2_1792604438065",
