@@ -6241,10 +6241,10 @@
     {
       "id": "wb2mspqa9samvl0aj4x",
       "title": "Circ review",
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "hour": 17,
-      "startMin": 0,
-      "duration": 1,
+      "startMin": 30,
+      "duration": 0.5,
       "color": "red",
       "done": false,
       "recurring": false,
@@ -6526,7 +6526,7 @@
     {
       "id": "ntpp5p06yymmvsf6t2b",
       "title": "Check AHA slides",
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "hour": 18,
       "startMin": 0,
       "duration": 0.5,
