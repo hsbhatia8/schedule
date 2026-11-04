@@ -153,18 +153,6 @@
         "recurHour": null
       },
       {
-        "id": "ga9mi79qoaumq87x8l4",
-        "text": "AHA talk",
-        "done": false,
-        "date": "2026-11-01",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "9hk2sr8i7vfmqsbrbr5",
         "text": "Prevention email",
         "done": false,
