@@ -234,18 +234,6 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
-      },
-      {
-        "id": "1juvsdxjfxgmvsaod8h",
-        "text": "EJPC rereview",
-        "done": false,
-        "date": "2026-11-04",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       }
     ]
   },
@@ -6470,11 +6458,11 @@
       "id": "qerrlfn2bnmvsaod8h",
       "title": "EJPC rereview",
       "date": "2026-11-04",
-      "hour": 17,
-      "startMin": 0,
-      "duration": 1,
+      "hour": 10,
+      "startMin": 30,
+      "duration": 0.5,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
