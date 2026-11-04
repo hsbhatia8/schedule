@@ -34,18 +34,6 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
-      },
-      {
-        "id": "ca3xrlk0iq9mtxgm5hu",
-        "text": "BIOLINCC",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       }
     ],
     "later": [
@@ -103,6 +91,18 @@
           "2026-10-21",
           "2026-10-28"
         ]
+      },
+      {
+        "id": "ca3xrlk0iq9mtxgm5hu",
+        "text": "BIOLINCC",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       },
       {
         "id": "azvox3x8wh7mun3uj0u",
@@ -6723,7 +6723,7 @@
       "duration": 0.5,
       "color": "gold",
       "taskId": "rmc8dxc9u4mux4uq7w",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -6737,7 +6737,7 @@
       "duration": 0.5,
       "color": "orange",
       "taskId": "ca3xrlk0iq9mtxgm5hu",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
