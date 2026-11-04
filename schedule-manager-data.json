@@ -6766,6 +6766,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "6jk89dgt26nmw1ffwis",
+      "title": "AMGA slides",
+      "date": "2026-11-04",
+      "hour": 16,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "red",
+      "taskId": "8w0cw3tkat2mufyxh89",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
