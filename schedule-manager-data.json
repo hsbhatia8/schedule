@@ -6845,12 +6845,6 @@
         "date": ""
       },
       {
-        "id": "ja4a6wvl1omu3aco99",
-        "name": "Lp(a) HDP CAC",
-        "tag": "On Hold",
-        "date": ""
-      },
-      {
         "id": "2h3i064fcz5mpyaqgo1",
         "name": "Insulin resistance HF",
         "tag": "On Hold",
@@ -6899,6 +6893,12 @@
         "name": "High HDL-C CAC",
         "tag": "Submitted",
         "date": "Nov 3 JAMA Open"
+      },
+      {
+        "id": "ja4a6wvl1omu3aco99",
+        "name": "Lp(a) HDP CAC",
+        "tag": "On Hold",
+        "date": ""
       },
       {
         "id": "8r21v7xmdmpmpyaiyhk",
