@@ -7608,14 +7608,14 @@
       "id": "t2_1792601620115",
       "text": "Vacations",
       "done": false,
-      "date": "2026-10-31",
+      "date": "2026-11-05",
       "recurring": "",
       "recurDays": []
     },
     {
       "id": "t2_1792601538228",
       "text": "Aman's sports",
-      "done": false,
+      "done": true,
       "date": "2026-10-31",
       "recurring": "",
       "recurDays": []
