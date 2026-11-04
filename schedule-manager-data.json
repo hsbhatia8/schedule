@@ -2,6 +2,18 @@
   "todos": {
     "active": [
       {
+        "id": "9u4v3cc20q4mw2e67ee",
+        "text": "Cumulative Lp(a)",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
         "id": "qd878cv1aq8mvve1nnm",
         "text": "MASLD CAC",
         "done": false,
@@ -29,18 +41,6 @@
         "done": false,
         "date": "",
         "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "9u4v3cc20q4mw2e67ee",
-        "text": "Cumulative Lp(a)",
-        "done": false,
-        "date": "",
-        "color": "gold",
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
@@ -6729,6 +6729,20 @@
       "startMin": 30,
       "duration": 0.5,
       "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "yh1wuwgums9mw2e6b92",
+      "title": "Cumulative Lp(a)",
+      "date": "2026-11-04",
+      "hour": 15,
+      "startMin": 0,
+      "duration": 1,
+      "color": "gold",
+      "taskId": "9u4v3cc20q4mw2e67ee",
       "done": false,
       "recurring": false,
       "recurDays": [],
