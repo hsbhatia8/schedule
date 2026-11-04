@@ -236,18 +236,6 @@
         "nextRecur": null
       },
       {
-        "id": "xqfzc1qeihmvl0aj4x",
-        "text": "Circ review",
-        "done": false,
-        "date": "2026-11-02",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "3zaxbvjgm3hmvr4sq66",
         "text": "JCL re review x2",
         "done": false,
@@ -6226,7 +6214,7 @@
       "startMin": 0,
       "duration": 0.5,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
