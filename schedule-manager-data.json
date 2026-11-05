@@ -6793,6 +6793,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "gw3g249oo9bmw3tho5g",
+      "title": "Research meetings",
+      "date": "2026-11-10",
+      "hour": 14,
+      "startMin": 0,
+      "duration": 2,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
