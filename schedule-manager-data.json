@@ -6848,6 +6848,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "rqoqyjmqub8mw3tk3la",
+      "title": "DOAC meeting",
+      "date": "2026-11-13",
+      "hour": 13,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
