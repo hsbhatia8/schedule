@@ -6822,6 +6822,19 @@
       "recurDays": [],
       "recurExceptions": [],
       "taskId": "3oo8yw8ud1imrkw05zc"
+    },
+    {
+      "id": "9hnfef65xjumw3tjqha",
+      "title": "Capstone session",
+      "date": "2026-11-13",
+      "hour": 10,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
