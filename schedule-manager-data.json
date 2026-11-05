@@ -6749,6 +6749,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "umtk6dp2n2fmw3sa9r5",
+      "title": "Sports cardiology survey paper",
+      "date": "2026-11-09",
+      "hour": 17,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
