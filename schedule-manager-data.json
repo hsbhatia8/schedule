@@ -5198,7 +5198,8 @@
       ],
       "doneExceptions": [
         "2026-10-08",
-        "2026-10-15"
+        "2026-10-15",
+        "2026-11-05"
       ]
     },
     {
@@ -6561,7 +6562,7 @@
       "startMin": 0,
       "duration": 1,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -6574,7 +6575,7 @@
       "startMin": 0,
       "duration": 1,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -6642,7 +6643,7 @@
       "duration": 1,
       "color": "orange",
       "taskId": "xzkrif7zkzfmpx9chcu",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
