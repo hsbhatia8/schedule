@@ -6810,11 +6810,11 @@
       "recurExceptions": []
     },
     {
-      "id": "23ylv6ujoe1jmw3tinpg",
+      "id": "jghz2wa6samw3tixdt",
       "title": "E&I",
       "date": "2026-11-12",
-      "hour": null,
-      "startMin": null,
+      "hour": 11,
+      "startMin": 30,
       "duration": 0.5,
       "color": "orange",
       "done": false,
