@@ -6779,6 +6779,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "7p7t23ealbumw3thbwl",
+      "title": "Circ PHO",
+      "date": "2026-11-10",
+      "hour": 11,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
