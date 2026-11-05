@@ -586,7 +586,8 @@
         "2026-06-15",
         "2026-06-29",
         "2026-08-03",
-        "2026-08-17"
+        "2026-08-17",
+        "2026-11-09"
       ],
       "startMin": 0
     },
@@ -6760,6 +6761,19 @@
       "startMin": 0,
       "duration": 0.5,
       "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "ti51g8f3s1cmw3tgtay",
+      "title": "AHA",
+      "date": "2026-11-09",
+      "hour": 8,
+      "startMin": 0,
+      "duration": 9,
+      "color": "purple",
       "done": false,
       "recurring": false,
       "recurDays": [],
