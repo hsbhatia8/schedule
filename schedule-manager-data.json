@@ -82,6 +82,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "azvox3x8wh7mun3uj0u",
+        "text": "New CAC website",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
@@ -145,18 +157,6 @@
       {
         "id": "ca3xrlk0iq9mtxgm5hu",
         "text": "BIOLINCC",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "azvox3x8wh7mun3uj0u",
-        "text": "New CAC website",
         "done": false,
         "date": "",
         "color": "orange",
