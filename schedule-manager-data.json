@@ -7156,6 +7156,12 @@
     ],
     "mentored": [
       {
+        "id": "yngu1v8bhf9mpzrizzi",
+        "name": "LS7 Lp(a) AVC",
+        "tag": "On Hold",
+        "date": ""
+      },
+      {
         "id": "8nht575dxx2mvra04k5",
         "name": "Lp(a) and VTE Cosmos",
         "tag": "On Hold",
@@ -7176,12 +7182,6 @@
       {
         "id": "mect6lvlc0pmpyajrjd",
         "name": "Lp(a) carotid",
-        "tag": "On Hold",
-        "date": ""
-      },
-      {
-        "id": "yngu1v8bhf9mpzrizzi",
-        "name": "LS7 Lp(a) AVC",
         "tag": "On Hold",
         "date": ""
       },
