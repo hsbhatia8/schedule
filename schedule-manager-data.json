@@ -7174,12 +7174,6 @@
         "date": ""
       },
       {
-        "id": "iyskiiexxeemuyajx4v",
-        "name": "MASLD PREVENT",
-        "tag": "On Hold",
-        "date": ""
-      },
-      {
         "id": "28mes1j2wu4mpyajw9o",
         "name": "Lp(a) bleeding risk",
         "tag": "On Hold",
@@ -7188,6 +7182,12 @@
       {
         "id": "r97r412a9jjmug0ktg3",
         "name": "Residual Risk",
+        "tag": "On Hold",
+        "date": ""
+      },
+      {
+        "id": "iyskiiexxeemuyajx4v",
+        "name": "MASLD PREVENT",
         "tag": "On Hold",
         "date": ""
       },
