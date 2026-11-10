@@ -7112,12 +7112,6 @@
         "date": ""
       },
       {
-        "id": "8nht575dxx2mvra04k5",
-        "name": "Lp(a) and VTE Cosmos",
-        "tag": "On Hold",
-        "date": ""
-      },
-      {
         "id": "5sb6blhqdq8mvra0vm3",
         "name": "MASALA apoB discordance",
         "tag": "On Hold",
@@ -7161,6 +7155,12 @@
       }
     ],
     "mentored": [
+      {
+        "id": "8nht575dxx2mvra04k5",
+        "name": "Lp(a) and VTE Cosmos",
+        "tag": "On Hold",
+        "date": ""
+      },
       {
         "id": "iyskiiexxeemuyajx4v",
         "name": "MASLD PREVENT",
