@@ -296,6 +296,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "4zq697oijo9mwb7s77a",
+        "text": "Medscape slides 2",
+        "done": false,
+        "date": "2026-12-18",
+        "color": "red",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ]
   },
@@ -7055,6 +7067,19 @@
       "id": "9pqeznrtpummwb7ocgb",
       "title": "Lp(a) chapter",
       "date": "2027-02-01",
+      "hour": 17,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
+    },
+    {
+      "id": "r46pkkzxd4bmwb7s77a",
+      "title": "Medscape slides 2",
+      "date": "2026-12-18",
       "hour": 17,
       "startMin": 0,
       "duration": 1,
