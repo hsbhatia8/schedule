@@ -155,18 +155,6 @@
         ]
       },
       {
-        "id": "ca3xrlk0iq9mtxgm5hu",
-        "text": "BIOLINCC",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "id3gku5r9fmvsazlgl",
         "text": "Lp(a) chapter, due Feb 1",
         "done": false,
@@ -6854,7 +6842,7 @@
       "startMin": 0,
       "duration": 2,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
