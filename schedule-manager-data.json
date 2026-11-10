@@ -6887,6 +6887,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "zej1dmxilhfmwaxr3xz",
+      "title": "Journals",
+      "date": "2026-11-10",
+      "hour": 12,
+      "startMin": 30,
+      "duration": 0.5,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
