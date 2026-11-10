@@ -6786,9 +6786,9 @@
     {
       "id": "umtk6dp2n2fmw3sa9r5",
       "title": "Sports cardiology survey paper",
-      "date": "2026-11-09",
-      "hour": 17,
-      "startMin": 0,
+      "date": "2026-11-10",
+      "hour": 13,
+      "startMin": 30,
       "duration": 0.5,
       "color": "orange",
       "done": false,
@@ -6804,7 +6804,7 @@
       "startMin": 0,
       "duration": 9,
       "color": "purple",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
