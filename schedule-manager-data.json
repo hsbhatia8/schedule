@@ -6901,6 +6901,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "x0ifify18ojmwazq9sx",
+      "title": "Rank meeting",
+      "date": "2026-11-13",
+      "hour": 15,
+      "startMin": 30,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
