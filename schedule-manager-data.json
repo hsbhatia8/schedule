@@ -7080,6 +7080,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "0uav7zayk15mmwdvrirf",
+      "title": "Journal club",
+      "date": "2026-11-13",
+      "hour": 18,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
