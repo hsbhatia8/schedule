@@ -34,66 +34,6 @@
         "recurHour": 18,
         "recurExceptions": [],
         "nextRecur": null
-      },
-      {
-        "id": "57w583ez5h9muod7yz6",
-        "text": "ACC registration and hotel",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 17,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "5rsso2ld9f8mwb7myvk",
-        "text": "AHA reimbursement",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 17,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "azvox3x8wh7mun3uj0u",
-        "text": "New CAC conversion / website",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "driimdizsh8mwfbey4x",
-        "text": "PCORI",
-        "done": false,
-        "date": "",
-        "color": "gold",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
-        "id": "b5pmk4rb1cnmwfl2kfx",
-        "text": "Book chapter outline",
-        "done": false,
-        "date": "",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
       }
     ],
     "later": [
@@ -177,6 +117,66 @@
         "recurring": false,
         "recurDays": [],
         "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
+        "id": "azvox3x8wh7mun3uj0u",
+        "text": "New CAC conversion / website",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
+        "id": "b5pmk4rb1cnmwfl2kfx",
+        "text": "Book chapter outline",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
+        "id": "driimdizsh8mwfbey4x",
+        "text": "PCORI",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
+        "id": "5rsso2ld9f8mwb7myvk",
+        "text": "AHA reimbursement",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 17,
+        "recurExceptions": [],
+        "nextRecur": null
+      },
+      {
+        "id": "57w583ez5h9muod7yz6",
+        "text": "ACC registration and hotel",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 17,
         "recurExceptions": [],
         "nextRecur": null
       }
