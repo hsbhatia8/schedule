@@ -580,7 +580,8 @@
         "2026-11-05",
         "2026-11-06",
         "2026-11-11",
-        "2026-11-12"
+        "2026-11-12",
+        "2026-11-13"
       ],
       "startMin": 0
     },
@@ -6864,7 +6865,7 @@
       "startMin": 0,
       "duration": 1,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
