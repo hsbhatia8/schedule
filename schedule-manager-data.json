@@ -82,6 +82,18 @@
         "recurHour": 9,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "b5pmk4rb1cnmwfl2kfx",
+        "text": "Book chapter outline",
+        "done": false,
+        "date": "",
+        "color": "orange",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
@@ -7071,7 +7083,7 @@
       "startMin": 30,
       "duration": 0.5,
       "color": "orange",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
