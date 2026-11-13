@@ -7193,6 +7193,19 @@
       "recurDays": [],
       "recurExceptions": [],
       "taskId": "3oo8yw8ud1imrkw05zc"
+    },
+    {
+      "id": "4w8o95xx1hsmwflsbyi",
+      "title": "Webinar",
+      "date": "2026-11-19",
+      "hour": 9,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
