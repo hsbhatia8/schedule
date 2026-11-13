@@ -250,18 +250,6 @@
         "nextRecur": null
       },
       {
-        "id": "3zaxbvjgm3hmvr4sq66",
-        "text": "JCL re review x2",
-        "done": false,
-        "date": "2026-11-10",
-        "color": "red",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 9,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "xmep8e1ey6mwb7ocgb",
         "text": "Lp(a) chapter",
         "done": false,
@@ -832,7 +820,8 @@
         "2026-09-03",
         "2026-09-17",
         "2026-10-01",
-        "2026-10-15"
+        "2026-10-15",
+        "2026-11-12"
       ]
     },
     {
@@ -870,7 +859,8 @@
         "2026-09-03",
         "2026-09-17",
         "2026-10-08",
-        "2026-10-15"
+        "2026-10-15",
+        "2026-11-12"
       ]
     },
     {
@@ -5240,7 +5230,8 @@
       "doneExceptions": [
         "2026-10-08",
         "2026-10-15",
-        "2026-11-05"
+        "2026-11-05",
+        "2026-11-12"
       ]
     },
     {
@@ -5350,7 +5341,8 @@
       "recurExceptions": [],
       "doneExceptions": [
         "2026-10-08",
-        "2026-10-15"
+        "2026-10-15",
+        "2026-11-12"
       ]
     },
     {
@@ -6485,7 +6477,7 @@
       "startMin": 0,
       "duration": 1,
       "color": "red",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
