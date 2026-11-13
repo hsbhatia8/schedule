@@ -55,7 +55,7 @@
         "color": "orange",
         "recurring": false,
         "recurDays": [],
-        "recurHour": 9,
+        "recurHour": 17,
         "recurExceptions": [],
         "nextRecur": null
       },
