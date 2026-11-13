@@ -8085,7 +8085,7 @@
     {
       "id": "t2_1794346784821",
       "text": "Anthropic",
-      "done": false,
+      "done": true,
       "date": "2026-11-10",
       "recurring": "",
       "recurDays": []
