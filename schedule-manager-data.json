@@ -7330,6 +7330,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "9i18d55xp95mwflvjqz",
+      "title": "Medscape slides",
+      "date": "2026-11-19",
+      "hour": 13,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "taskId": "59r4ooxil1smvg4p707",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
