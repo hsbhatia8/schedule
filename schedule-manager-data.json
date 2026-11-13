@@ -7206,6 +7206,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "9bd3ysg8f2hmwflsl2w",
+      "title": "IM interviews",
+      "date": "2026-11-19",
+      "hour": 10,
+      "startMin": 0,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
