@@ -9,7 +9,7 @@
         "color": "gold",
         "recurring": false,
         "recurDays": [],
-        "recurHour": 9,
+        "recurHour": 18,
         "recurExceptions": [],
         "nextRecur": null
       },
