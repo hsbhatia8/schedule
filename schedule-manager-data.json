@@ -2,14 +2,14 @@
   "todos": {
     "active": [
       {
-        "id": "9u4v3cc20q4mw2e67ee",
-        "text": "Cumulative Lp(a)",
+        "id": "k2buddhcbjnmw9q22e1",
+        "text": "Internal R review",
         "done": false,
         "date": "",
-        "color": "gold",
+        "color": "orange",
         "recurring": false,
         "recurDays": [],
-        "recurHour": 18,
+        "recurHour": 17,
         "recurExceptions": [],
         "nextRecur": null
       },
@@ -24,20 +24,20 @@
         "recurHour": null
       },
       {
-        "id": "57w583ez5h9muod7yz6",
-        "text": "ACC registration and hotel",
+        "id": "9u4v3cc20q4mw2e67ee",
+        "text": "Cumulative Lp(a)",
         "done": false,
         "date": "",
-        "color": "orange",
+        "color": "gold",
         "recurring": false,
         "recurDays": [],
-        "recurHour": 17,
+        "recurHour": 18,
         "recurExceptions": [],
         "nextRecur": null
       },
       {
-        "id": "k2buddhcbjnmw9q22e1",
-        "text": "Internal R review",
+        "id": "57w583ez5h9muod7yz6",
+        "text": "ACC registration and hotel",
         "done": false,
         "date": "",
         "color": "orange",
