@@ -245,10 +245,10 @@
         "text": "Medscape slides",
         "done": false,
         "date": "2026-11-20",
-        "color": "red",
+        "color": "orange",
         "recurring": false,
         "recurDays": [],
-        "recurHour": 9,
+        "recurHour": 13,
         "recurExceptions": [],
         "nextRecur": null
       },
