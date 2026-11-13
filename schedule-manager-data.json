@@ -7358,6 +7358,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "thcwtiz4idbmwflw06l",
+      "title": "Internal R review",
+      "date": "2026-11-20",
+      "hour": 15,
+      "startMin": 0,
+      "duration": 1,
+      "color": "orange",
+      "taskId": "k2buddhcbjnmw9q22e1",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
