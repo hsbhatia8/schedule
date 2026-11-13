@@ -6976,7 +6976,7 @@
       "duration": 0.5,
       "color": "orange",
       "taskId": "xzkrif7zkzfmpx9chcu",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -7018,7 +7018,7 @@
       "duration": 0.5,
       "color": "gold",
       "taskId": "k2buddhcbjnmw9q22e1",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
