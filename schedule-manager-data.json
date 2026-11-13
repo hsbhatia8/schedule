@@ -7260,6 +7260,20 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "0ptdwvcdzkmrmwflufxx",
+      "title": "Book chapter outline",
+      "date": "2026-11-18",
+      "hour": 16,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "orange",
+      "taskId": "b5pmk4rb1cnmwfl2kfx",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
