@@ -7220,6 +7220,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "bbm9927wormwflt2h4",
+      "title": "Fidelity",
+      "date": "2026-11-19",
+      "hour": 11,
+      "startMin": 30,
+      "duration": 1,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
