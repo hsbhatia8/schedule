@@ -7400,6 +7400,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "byqgtv55uxpmwl7vgt5",
+      "title": "RSR review",
+      "date": "2026-11-20",
+      "hour": 18,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "orange",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
