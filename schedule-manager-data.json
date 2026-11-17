@@ -7340,7 +7340,7 @@
       "date": "2026-11-19",
       "hour": 13,
       "startMin": 0,
-      "duration": 1,
+      "duration": 0.5,
       "color": "red",
       "taskId": "59r4ooxil1smvg4p707",
       "done": false,
