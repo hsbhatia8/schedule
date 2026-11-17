@@ -7427,6 +7427,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "d37ccnybyfmwlcssr6",
+      "title": "Webinar discussion",
+      "date": "2026-11-18",
+      "hour": 9,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
