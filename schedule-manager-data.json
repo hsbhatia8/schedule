@@ -7478,6 +7478,12 @@
         "name": "Cumulative Lp(a)",
         "tag": "Active",
         "date": ""
+      },
+      {
+        "id": "cdp74bxypuwmq64i1vt",
+        "name": "BEACON score",
+        "tag": "Active",
+        "date": "Oct 22 EHJ"
       }
     ],
     "mentored": [
@@ -7566,12 +7572,6 @@
         "name": "PREVENT + Lpa",
         "tag": "Submitted",
         "date": "Oct 22 AJPC"
-      },
-      {
-        "id": "cdp74bxypuwmq64i1vt",
-        "name": "BEACON score",
-        "tag": "Submitted",
-        "date": "Oct 22 EHJ"
       },
       {
         "id": "kfzlxdloatcmpyai8od",
