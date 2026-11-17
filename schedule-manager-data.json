@@ -7440,6 +7440,19 @@
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
+    },
+    {
+      "id": "t533kk7q7rbmwlctdo2",
+      "title": "Residual risk meeting",
+      "date": "2026-11-19",
+      "hour": 13,
+      "startMin": 0,
+      "duration": 0.5,
+      "color": "red",
+      "done": false,
+      "recurring": false,
+      "recurDays": [],
+      "recurExceptions": []
     }
   ],
   "projects": {
