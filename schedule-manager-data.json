@@ -880,7 +880,8 @@
         "2026-09-24",
         "2026-10-01",
         "2026-10-22",
-        "2026-11-05"
+        "2026-11-05",
+        "2026-11-19"
       ],
       "startMin": 30,
       "doneExceptions": [
@@ -7343,8 +7344,8 @@
       "title": "Medscape slides",
       "date": "2026-11-19",
       "hour": 16,
-      "startMin": 30,
-      "duration": 0.5,
+      "startMin": 0,
+      "duration": 1,
       "color": "red",
       "taskId": "59r4ooxil1smvg4p707",
       "done": false,
