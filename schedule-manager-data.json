@@ -7481,6 +7481,12 @@
         "date": ""
       },
       {
+        "id": "cdp74bxypuwmq64i1vt",
+        "name": "BEACON score",
+        "tag": "On Hold",
+        "date": "Oct 22 EHJ"
+      },
+      {
         "id": "5sb6blhqdq8mvra0vm3",
         "name": "MASALA apoB discordance",
         "tag": "On Hold",
@@ -7521,12 +7527,6 @@
         "name": "Cumulative Lp(a)",
         "tag": "Active",
         "date": ""
-      },
-      {
-        "id": "cdp74bxypuwmq64i1vt",
-        "name": "BEACON score",
-        "tag": "On Hold",
-        "date": "Oct 22 EHJ"
       }
     ],
     "mentored": [
