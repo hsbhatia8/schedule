@@ -7487,6 +7487,12 @@
         "date": "Oct 22 EHJ"
       },
       {
+        "id": "ms3eco254npmpyaj7w2",
+        "name": "apoB thresholds",
+        "tag": "On Hold",
+        "date": ""
+      },
+      {
         "id": "5sb6blhqdq8mvra0vm3",
         "name": "MASALA apoB discordance",
         "tag": "On Hold",
@@ -7513,12 +7519,6 @@
       {
         "id": "6lzcueaueocmvr9yuyk",
         "name": "Repeat carotid timing",
-        "tag": "On Hold",
-        "date": ""
-      },
-      {
-        "id": "ms3eco254npmpyaj7w2",
-        "name": "apoB thresholds",
         "tag": "On Hold",
         "date": ""
       },
