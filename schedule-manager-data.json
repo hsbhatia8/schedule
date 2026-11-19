@@ -6174,7 +6174,7 @@
       "date": "2026-11-20",
       "hour": 11,
       "startMin": 0,
-      "duration": 1,
+      "duration": 0.5,
       "color": "red",
       "done": false,
       "recurring": false,
