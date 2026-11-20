@@ -255,18 +255,6 @@
         "recurDays": []
       },
       {
-        "id": "59r4ooxil1smvg4p707",
-        "text": "Medscape slides",
-        "done": true,
-        "date": "2026-12-18",
-        "color": "orange",
-        "recurring": false,
-        "recurDays": [],
-        "recurHour": 13,
-        "recurExceptions": [],
-        "nextRecur": null
-      },
-      {
         "id": "0av9t1v2b0vemvie8a44",
         "text": "Lp(a) review",
         "done": false,
