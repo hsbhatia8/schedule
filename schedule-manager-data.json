@@ -258,7 +258,7 @@
         "id": "59r4ooxil1smvg4p707",
         "text": "Medscape slides",
         "done": false,
-        "date": "2026-11-20",
+        "date": "2026-12-18",
         "color": "orange",
         "recurring": false,
         "recurDays": [],
@@ -7375,7 +7375,7 @@
       "duration": 1,
       "color": "red",
       "taskId": "59r4ooxil1smvg4p707",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
