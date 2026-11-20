@@ -34,6 +34,18 @@
         "recurHour": 18,
         "recurExceptions": [],
         "nextRecur": null
+      },
+      {
+        "id": "nc9ycegielmwpdaocp",
+        "text": "MASLD tables",
+        "done": false,
+        "date": "",
+        "color": "gold",
+        "recurring": false,
+        "recurDays": [],
+        "recurHour": 9,
+        "recurExceptions": [],
+        "nextRecur": null
       }
     ],
     "later": [
@@ -7417,7 +7429,7 @@
       "startMin": 0,
       "duration": 0.5,
       "color": "gold",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
