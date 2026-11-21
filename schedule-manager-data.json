@@ -7319,7 +7319,7 @@
       "duration": 0.5,
       "color": "orange",
       "taskId": "5rsso2ld9f8mwb7myvk",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
@@ -7333,7 +7333,7 @@
       "duration": 0.5,
       "color": "orange",
       "taskId": "57w583ez5h9muod7yz6",
-      "done": false,
+      "done": true,
       "recurring": false,
       "recurDays": [],
       "recurExceptions": []
