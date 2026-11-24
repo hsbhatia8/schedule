@@ -7734,16 +7734,16 @@
         "date": "Nov 3 JAMA Open"
       },
       {
-        "id": "yngu1v8bhf9mpzrizzi",
-        "name": "LS7 Lp(a) AVC",
-        "tag": "Submitted",
-        "date": ""
-      },
-      {
         "id": "ja4a6wvl1omu3aco99",
         "name": "Lp(a) HDP CAC",
         "tag": "Submitted",
         "date": "Nov 20 JCL"
+      },
+      {
+        "id": "yngu1v8bhf9mpzrizzi",
+        "name": "LS7 Lp(a) AVC",
+        "tag": "Submitted",
+        "date": "Nov 23 EJPC"
       },
       {
         "id": "8r21v7xmdmpmpyaiyhk",
