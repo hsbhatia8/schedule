@@ -7648,12 +7648,6 @@
     ],
     "mentored": [
       {
-        "id": "yngu1v8bhf9mpzrizzi",
-        "name": "LS7 Lp(a) AVC",
-        "tag": "On Hold",
-        "date": ""
-      },
-      {
         "id": "mect6lvlc0pmpyajrjd",
         "name": "Lp(a) carotid",
         "tag": "On Hold",
@@ -7738,6 +7732,12 @@
         "name": "High HDL-C CAC",
         "tag": "Submitted",
         "date": "Nov 3 JAMA Open"
+      },
+      {
+        "id": "yngu1v8bhf9mpzrizzi",
+        "name": "LS7 Lp(a) AVC",
+        "tag": "On Hold",
+        "date": ""
       },
       {
         "id": "ja4a6wvl1omu3aco99",
